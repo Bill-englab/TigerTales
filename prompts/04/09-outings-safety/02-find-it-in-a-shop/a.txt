@@ -1,6 +1,6 @@
 Where Is the Pasta? — Clip 1
-Production prompt draft | Source: curriculum/04/09-outings-safety/02-find-it-in-a-shop/lesson.json | Content revision: 3
-Source SHA256: 75b271e28388f2353f20933b6d9d5c3ca55a2c6a07d1509528a01cf6b4c17614
+Production prompt draft | Source: curriculum/04/09-outings-safety/02-find-it-in-a-shop/lesson.json | Content revision: 4
+Source SHA256: 68cd849adbf70259a26a6b9a802a6876153d0cf966b434b31ab8ef735266e257
 The source/revision above are production metadata, not spoken words or on-screen text.
 
 VIDEO AND SOUND
@@ -8,34 +8,34 @@ Create one 16:9 animated clip for a preschool family role-play. Pixar-style 3D a
 
 FIXED CAST (only these two)
 Child — a small four-year-old cartoon tiger boy, bright orange fur with bold black stripes, bright attentive eyes full of curiosity, chubby round cheeks, tiny rounded ears, wearing a little yellow T-shirt, short chubby toddler proportions; alert, clever and quick to smile, eyes tracking the conversation; clear natural child voice.
-Pig Mom — a young, pretty cartoon pig mother, soft rosy-pink fur, lighter blush on the cheeks, big warm round eyes with long lashes, small rounded snout, slim young-mother proportions, wearing a coral cardigan over a cream top; sweet gentle mom energy, warm natural adult female voice.
+Dog Dad — a young, friendly cartoon dog father, warm tan-brown fur, big soft floppy ears, bright round eyes with a lively spark, soft round snout, wearing an olive-green casual T-shirt; cheerful warm dad energy, warm natural adult male voice.
 
 EMOTIONAL PERFORMANCE
-Calm, warm and regulated baseline. Mom and Child are focused on a small shared shopping task and speak at an ordinary conversational volume.
-Child's eyes follow the shelf clue, then show mild recognition of the red bag and a small sense of competence during the transfer. Mom's acknowledgment is quiet and matter-of-fact.
-No exaggerated discovery, squealing, bouncing, frantic pointing, package grabbing, racing through aisles, climbing or pulling away from Mom. Do not turn successful shopping into a loud celebration.
+Calm, warm and regulated baseline. Dad and Child are focused on a small shared shopping task and speak at an ordinary conversational volume.
+Child's eyes follow the shelf clue, then show mild recognition of the red bag and a small sense of competence during the transfer. Dad's acknowledgment is quiet and matter-of-fact.
+No exaggerated discovery, squealing, bouncing, frantic pointing, package grabbing, racing through aisles, climbing or pulling away from Dad. Do not turn successful shopping into a loud celebration.
 No screaming, extreme excitement, rage, distorted facial or body shapes, frantic gestures or uncontrolled running.
 
 SETTING
-A simple grocery shelf with Mom and Child standing together; the pasta and basket are within Child's easy reach.
+A simple grocery shelf with Dad and Child standing together; the pasta and basket are within Child's easy reach.
 
 SCENE AND PROP CONTINUITY
-A simple, quiet grocery setting with Mom screen left and Child screen right, standing together beside one short shelf unit. Use a locked 16:9 medium-wide two-shot showing both faces, Child's knees, the bottom shelf and basket. There is exactly one red pasta bag: a small upright packet with a clear rectangular window showing short yellow pasta tubes. It begins on the bottom shelf at Child's knee height, immediately to his right and always visible to the camera. There are no other packages, aisle signs, hidden shelves, workers or shoppers. Mom wears her coral cardigan over a cream top; Child is the same four-year-old tiger boy in his yellow T-shirt, he/him if needed. Mom's right hand holds the basket's rigid handle, keeping the open basket level beside her right hip at Child's waist height; it begins empty. Her left hand rests at her side. Child can grasp the bag with a shallow knee bend and place it directly into the nearby basket without a step, climb or stretch. Preserve the same package color, window, pasta shape and basket throughout.
+A simple, quiet grocery setting with Dad screen left and Child screen right, standing together beside one short shelf unit. Use a locked 16:9 medium-wide two-shot showing both faces, Child's knees, the bottom shelf and basket. There is exactly one red pasta bag: a small upright packet with a clear rectangular window showing short yellow pasta tubes. It begins on the bottom shelf at Child's knee height, immediately to his right and always visible to the camera. There are no other packages, aisle signs, hidden shelves, workers or shoppers. Dad is the same warm tan-brown cartoon dog in his olive-green T-shirt; Child is the same four-year-old tiger boy in his yellow T-shirt, he/him if needed. Dad's right hand holds the basket's rigid handle, keeping the open basket level beside his right hip at Child's waist height; it begins empty. His left hand rests at her side. Child can grasp the bag with a shallow knee bend and place it directly into the nearby basket without a step, climb or stretch. Preserve the same package color, window, pasta shape and basket throughout.
 Keep base character designs, garment identities, lighting, set and camera consistent across the three clips; allow the explicitly scripted dressing or undressing actions. Track hands and props continuously through the scripted movements rather than freezing their positions. The START FRAME below specifies this clip's current state; do not reset to the scene's initial arrangement. If the generation workflow supports reference frames, reuse the established character references and the preceding clip's final frame; text instructions alone do not guarantee visual consistency.
 
 START FRAME
-Mom and Child stand together beside the shelf, looking at each other; the red pasta bag stands on the bottom shelf and Mom holds the empty basket level in her right hand beside her right hip. Child's hands are at his sides.
+Dad and Child stand together beside the shelf, looking at each other; the red pasta bag stands on the bottom shelf and Dad holds the empty basket level in her right hand beside his right hip. Child's hands are at his sides.
 
 ACTION AND REACTIONS
-Mom names the dinner need, and Child asks her where to look before scanning the shelf. Mom gives the bottom-shelf clue with a small glance toward it, keeping the basket steady in her right hand. Child follows her gaze to the already visible red packet. The item was never concealed; the question directs his search. Neither character steps away or touches the bag yet.
+Dad names the dinner need, and Child asks her where to look before scanning the shelf. Dad gives the bottom-shelf clue with a small glance toward it, keeping the basket steady in her right hand. Child follows her gaze to the already visible red packet. The item was never concealed; the question directs his search. Neither character steps away or touches the bag yet.
 
 SPOKEN DIALOGUE (verbatim, in order):
-Mom: "We need some pasta for dinner tonight."
+Dad: "We need some pasta for dinner tonight."
 Child: "Where can we find the pasta?"
-Mom: "It's on the bottom shelf."
+Dad: "It's on the bottom shelf."
 
 END FRAME
-Mom and Child look toward the red pasta bag on the bottom shelf; Mom holds the empty basket level in her right hand beside her right hip, and Child's hands remain at his sides.
+Dad and Child look toward the red pasta bag on the bottom shelf; Dad holds the empty basket level in her right hand beside his right hip, and Child's hands remain at his sides.
 Leave a short natural settling beat, without adding speech. Do not repeat earlier clips' lines.
 
 PACING (18 spoken words)

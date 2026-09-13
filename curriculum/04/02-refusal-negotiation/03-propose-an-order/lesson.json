@@ -23,7 +23,7 @@
   },
   "replay_cards": [
     {"title": "Coats and shoes", "setting": "At the front door", "change": "Both coat and shoes are needed", "challenge": "Propose shoes first, then coat; Dad agrees and both steps are completed"},
-    {"title": "Books and animals", "setting": "Tidying the bedroom", "change": "Two groups belong in different places, and Mom initially reverses Child's proposed order", "challenge": "Child proposes books before animals. When Mom checks animals first, Child repairs, \"I mean books first, then animals.\" Mom accepts the complete order; they shelve the books together, then begin putting the animals away."}
+    {"title": "Books and animals", "setting": "Tidying the bedroom", "change": "Two groups belong in different places, and Dad initially reverses Child's proposed order", "challenge": "Child proposes books before animals. When Dad checks animals first, Child repairs, \"I mean books first, then animals.\" Dad accepts the complete order; they shelve the books together, then begin putting the animals away."}
   ],
   "parent_support": ["Keep the real boundary: both toy groups go away. The child may change the order, not cancel a job.", "Accept a safe order, finish the first group together, and leave space for the child to initiate the second."],
   "reviews": {"motivation": true, "causality": true, "physical": true, "adult_behavior": true, "child_language": true, "knowledge_safety": true, "resolution": true, "replay_logic": true, "character_continuity": true, "emotion_stability": true},

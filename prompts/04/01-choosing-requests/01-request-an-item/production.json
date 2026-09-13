@@ -1,29 +1,38 @@
 {
-  "content_revision": 3,
-  "scene": "At a quiet home snack counter, Mom stands screen-left and Child stands screen-right. Child is the four-year-old tiger boy and keeps his yellow T-shirt throughout. A single red apple rests at center-right and one banana at center-left within Mom's reach, plus one small empty plate that appears only after Child asks for it. All items remain visible and keep their colors and identities. Use the same locked 16:9 medium two-shot throughout; show both faces, hands and the countertop. No extra fruit or eating while speaking.",
+  "content_revision": 4,
+  "scene": "At a quiet home snack counter, Dad stands screen-left and Child stands screen-right. Child is the four-year-old tiger boy and keeps his yellow T-shirt throughout. A single red apple rests at center-right and one banana at center-left within Dad's reach, plus one small empty plate that appears only after Child asks for it. All items remain visible and keep their colors and identities. Use the same locked 16:9 medium two-shot throughout; show both faces, hands and the countertop. No extra fruit or eating while speaking.",
   "emotion": {
     "baseline": "Calm, warm and regulated baseline. Both are attentive and relaxed, using normal family conversation volume and small, proportionate facial movements.",
-    "allowed_shift": "Child briefly accepts a small wait and adds a polite extra request. Mom responds warmly and hands over the apple; the ending allows a small smile of quiet pleasure.",
+    "allowed_shift": "Child briefly accepts a small wait and adds a polite extra request. Dad responds warmly and hands over the apple; the ending allows a small smile of quiet pleasure.",
     "forbidden": "No exaggerated surprise, wide-eyed shock, bouncing, raised voices, impatience, blaming or teasing. The wait stays ordinary and short, with no tapping foot, sighing or body jerk."
   },
   "clips": [
     {
-      "turns": [0, 1],
-      "start": "Mom and Child face each other across the counter; the red apple rests at center-right and the banana at center-left; both have empty hands.",
-      "action": "Mom indicates the two fruits with one small open-hand gesture during her offer. Child looks at the apple and then at Mom during his request, without taking either fruit. Keep the exchange fluid, with gestures during speech.",
-      "end": "Mom and Child face each other; the red apple remains at center-right and the banana at center-left; Child waits with empty hands."
+      "turns": [
+        0,
+        1
+      ],
+      "start": "Dad and Child face each other across the counter; the red apple rests at center-right and the banana at center-left; both have empty hands.",
+      "action": "Dad indicates the two fruits with one small open-hand gesture during her offer. Child looks at the apple and then at Dad during his request, without taking either fruit. Keep the exchange fluid, with gestures during speech.",
+      "end": "Dad and Child face each other; the red apple remains at center-right and the banana at center-left; Child waits with empty hands."
     },
     {
-      "turns": [2, 3],
-      "start": "Mom and Child face each other; the red apple remains at center-right and the banana at center-left; Child waits with empty hands.",
-      "action": "Mom lifts the red apple and gives it a small wipe with a cloth while saying it is still wet; she keeps the movement short and ordinary. Child accepts the wait and asks for a small plate. Mom sets one empty plate on the counter and rests the apple beside it.",
-      "end": "Mom's right hand rests beside a now-dry red apple and one empty plate at center-right; the banana remains at center-left; Child waits with empty hands."
+      "turns": [
+        2,
+        3
+      ],
+      "start": "Dad and Child face each other; the red apple remains at center-right and the banana at center-left; Child waits with empty hands.",
+      "action": "Dad lifts the red apple and gives it a small wipe with a cloth while saying it is still wet; she keeps the movement short and ordinary. Child accepts the wait and asks for a small plate. Dad sets one empty plate on the counter and rests the apple beside it.",
+      "end": "Dad's right hand rests beside a now-dry red apple and one empty plate at center-right; the banana remains at center-left; Child waits with empty hands."
     },
     {
-      "turns": [4, 5],
-      "start": "Mom's right hand rests beside a now-dry red apple and one empty plate at center-right; the banana remains at center-left; Child waits with empty hands.",
-      "action": "Mom slides the plate forward and hands the red apple to Child during her opening turn. Child receives the apple with both hands and thanks her. He says he will eat at the table and turns a little toward the table, holding the apple below his face; no eating while speaking.",
-      "end": "Child holds the single red apple with both hands and starts toward the table; the empty plate is in his other hand or on the counter; the banana remains at center-left; Mom has empty hands and smiles at Child."
+      "turns": [
+        4,
+        5
+      ],
+      "start": "Dad's right hand rests beside a now-dry red apple and one empty plate at center-right; the banana remains at center-left; Child waits with empty hands.",
+      "action": "Dad slides the plate forward and hands the red apple to Child during her opening turn. Child receives the apple with both hands and thanks her. He says he will eat at the table and turns a little toward the table, holding the apple below his face; no eating while speaking.",
+      "end": "Child holds the single red apple with both hands and starts toward the table; the empty plate is in his other hand or on the counter; the banana remains at center-left; Dad has empty hands and smiles at Child."
     }
   ]
 }

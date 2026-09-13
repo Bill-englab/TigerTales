@@ -6,13 +6,13 @@
     "id": "describe-a-person",
     "label": "describe a person's looks and likes"
   },
-  "trigger": "Mom has not met the new classmate and asks Child what he is like.",
+  "trigger": "Dad has not met the new classmate and asks Child what he is like.",
   "recycle": [
     "describe-an-item"
   ],
   "roles": [
     "child",
-    "mom"
+    "dad"
   ],
   "setting": "Evening chat in the living room.",
   "essential_props": [],
@@ -20,7 +20,7 @@
   "dialogue": {
     "turns": [
       {
-        "speaker": "mom",
+        "speaker": "dad",
         "line": "You said a new kid joined your class today."
       },
       {
@@ -28,7 +28,7 @@
         "line": "Yes! His name is Sam, and he loves dinosaurs."
       },
       {
-        "speaker": "mom",
+        "speaker": "dad",
         "line": "What does he look like?"
       },
       {
@@ -36,7 +36,7 @@
         "line": "He has brown curly fur and a green backpack."
       },
       {
-        "speaker": "mom",
+        "speaker": "dad",
         "line": "A green backpack like yours?"
       },
       {
@@ -44,7 +44,7 @@
         "line": "No, mine is blue. His has a T-rex on it."
       },
       {
-        "speaker": "mom",
+        "speaker": "dad",
         "line": "Did you two play together?"
       },
       {
@@ -57,7 +57,7 @@
     {
       "title": "The new music teacher",
       "setting": "A new music teacher starts at school.",
-      "change": "Mom has not met her yet.",
+      "change": "Dad has not met her yet.",
       "challenge": "Child describes her as the tall one with gray fur who plays guitar, and tells one thing she did in class."
     },
     {
@@ -85,5 +85,5 @@
     "emotion_stability": true
   },
   "status": "draft",
-  "content_revision": 1
+  "content_revision": 2
 }

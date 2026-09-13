@@ -1,6 +1,6 @@
 Blocks First — Clip 3
 Production prompt draft | Source: curriculum/04/02-refusal-negotiation/03-propose-an-order/lesson.json | Content revision: 4
-Source SHA256: 98fbf7ed82a743f49e49bec45680408066e11ba4559b546411c187e1e3579546
+Source SHA256: 00fe5780ec5a47ec709c9826ef7e19875a55f4cbf6d1a48148c27e9f3961b751
 The source/revision above are production metadata, not spoken words or on-screen text.
 
 VIDEO AND SOUND

@@ -1,6 +1,6 @@
 The Dinner Messenger — Clip 1
 Production prompt draft | Source: curriculum/05/05-relaying-messages/01-relay-a-message/lesson.json | Content revision: 1
-Source SHA256: 7ec1288d0a2832b041efeeb35aab472112194875cedeb08a91f4d4efa5272d80
+Source SHA256: 62daf4bbadd81a311f298c8b05f44122c60331db444a0a0edf8d1a16220642cc
 The source/revision above are production metadata, not spoken words or on-screen text.
 
 VIDEO AND SOUND
@@ -31,7 +31,7 @@ Dad turns the lamp slightly with one hand while speaking. Child pops into the do
 
 SPOKEN DIALOGUE (verbatim, in order):
 Dad: "I'm almost done fixing this lamp."
-Child: "Daddy, Mom says dinner is ready."
+Child: "Daddy, Dad says dinner is ready."
 Dad: "Please tell her I'll come after one minute."
 
 END FRAME

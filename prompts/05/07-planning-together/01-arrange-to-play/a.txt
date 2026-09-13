@@ -1,6 +1,6 @@
 Castle After Snack — Clip 1
-Production prompt draft | Source: curriculum/05/07-planning-together/01-arrange-to-play/lesson.json | Content revision: 1
-Source SHA256: 380e3d5f4bc198bf3b04390a12027b1b5975aec0d466ce3ff8599b5ed40120b2
+Production prompt draft | Source: curriculum/05/07-planning-together/01-arrange-to-play/lesson.json | Content revision: 2
+Source SHA256: 978baed5e8e0f7184736a37e2d38c19ee0c1bb1c8fe285b8ee2d113a43892add
 The source/revision above are production metadata, not spoken words or on-screen text.
 
 VIDEO AND SOUND
@@ -8,11 +8,11 @@ Create one 16:9 animated clip for a preschool family role-play. Pixar-style 3D a
 
 FIXED CAST (only these two)
 Child — a small four-year-old cartoon tiger boy, bright orange fur with bold black stripes, bright attentive eyes full of curiosity, chubby round cheeks, tiny rounded ears, wearing a little yellow T-shirt, short chubby toddler proportions; alert, clever and quick to smile, eyes tracking the conversation; clear natural child voice.
-Bear Peer — the same small brown bear in a teal T-shirt in every peer lesson; age four, child-sized proportions and a distinct natural child voice, never an adult.
+Dog Dad — a young, friendly cartoon dog father, warm tan-brown fur, big soft floppy ears, bright round eyes with a lively spark, soft round snout, wearing an olive-green casual T-shirt; cheerful warm dad energy, warm natural adult male voice.
 
 EMOTIONAL PERFORMANCE
 Calm, warm and regulated baseline. Both speak at a normal family volume with small, natural facial movements and gestures.
-Both friends show light, friendly energy while arranging; the mood stays calm and cooperative; the ending is happily ready.
+Both of them show light, friendly energy while arranging; the mood stays calm and cooperative; the ending is happily ready.
 No exaggerated surprise, wide-eyed shock, bouncing, raised voices, impatience, blaming or teasing. Any disappointment, worry or sadness stays mild and brief, and the adult helps things stay steady.
 No screaming, extreme excitement, rage, distorted facial or body shapes, frantic gestures or uncontrolled running.
 
@@ -20,18 +20,18 @@ SETTING
 An afternoon playdate at home.
 
 SCENE AND PROP CONTINUITY
-Living-room rug in the afternoon. A bin of building blocks sits at the rug's edge; a small plate with two berry cakes rests on the side table behind them. Child stands at screen-right and Peer at screen-left, both with empty hands. Locked 16:9 medium two-shot with both faces visible.
+Living-room rug in the afternoon. A bin of building blocks sits at the rug's edge; a small plate with two berry cakes rests on the side table behind them. Child stands at screen-right and Dad at screen-left, both with empty hands. Locked 16:9 medium two-shot with both faces visible.
 Keep base character designs, garment identities, lighting, set and camera consistent across the three clips; allow the explicitly scripted dressing or undressing actions. Track hands and props continuously through the scripted movements rather than freezing their positions. The START FRAME below specifies this clip's current state; do not reset to the scene's initial arrangement. If the generation workflow supports reference frames, reuse the established character references and the preceding clip's final frame; text instructions alone do not guarantee visual consistency.
 
 START FRAME
-Child and Peer stand by the block bin with empty hands; the snack plate rests on the side table.
+Child and Dad stand by the block bin with empty hands; the snack plate rests on the side table.
 
 ACTION AND REACTIONS
-Child opens with his invitation, gesturing once toward the block bin. Peer bounces once on his toes and asks about starting now.
+Child opens with his invitation, gesturing once toward the block bin. Dad bounces once on his toes and asks about starting now.
 
 SPOKEN DIALOGUE (verbatim, in order):
 Child: "Max, do you want to build a castle with me?"
-Peer: "Yes! Can we start right now?"
+Dad: "Yes! Can we start right now?"
 
 END FRAME
 Both look toward the snack plate on the side table.

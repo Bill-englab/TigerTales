@@ -1,6 +1,6 @@
 The Box from Grandma — Clip 3
-Production prompt draft | Source: curriculum/05/01-follow-up-questions/02-ask-for-detail/lesson.json | Content revision: 1
-Source SHA256: df8e5a260f27e0abe030c7f2ba08659141cb978087c79771eafab8170575a5fa
+Production prompt draft | Source: curriculum/05/01-follow-up-questions/02-ask-for-detail/lesson.json | Content revision: 2
+Source SHA256: 2032ce565a493cc993e262d6f640283eec85aaeaedda0d4b8accdfa4d5e5866e
 The source/revision above are production metadata, not spoken words or on-screen text.
 
 VIDEO AND SOUND
@@ -8,11 +8,11 @@ Create one 16:9 animated clip for a preschool family role-play. Pixar-style 3D a
 
 FIXED CAST (only these two)
 Child — a small four-year-old cartoon tiger boy, bright orange fur with bold black stripes, bright attentive eyes full of curiosity, chubby round cheeks, tiny rounded ears, wearing a little yellow T-shirt, short chubby toddler proportions; alert, clever and quick to smile, eyes tracking the conversation; clear natural child voice.
-Pig Mom — a young, pretty cartoon pig mother, soft rosy-pink fur, lighter blush on the cheeks, big warm round eyes with long lashes, small rounded snout, slim young-mother proportions, wearing a coral cardigan over a cream top; sweet gentle mom energy, warm natural adult female voice.
+Dog Dad — a young, friendly cartoon dog father, warm tan-brown fur, big soft floppy ears, bright round eyes with a lively spark, soft round snout, wearing an olive-green casual T-shirt; cheerful warm dad energy, warm natural adult male voice.
 
 EMOTIONAL PERFORMANCE
 Calm, warm and regulated baseline. Both speak at a normal family volume with small, natural facial movements and gestures.
-Child shows brief curiosity while asking about the box and a small happy smile when the gloves appear; Mom stays warm and unhurried.
+Child shows brief curiosity while asking about the box and a small happy smile when the gloves appear; Dad stays warm and unhurried.
 No exaggerated surprise, wide-eyed shock, bouncing, raised voices, impatience, blaming or teasing. Any disappointment, worry or sadness stays mild and brief, and the adult helps things stay steady.
 No screaming, extreme excitement, rage, distorted facial or body shapes, frantic gestures or uncontrolled running.
 
@@ -20,23 +20,23 @@ SETTING
 A package delivery moment at the entry counter.
 
 SCENE AND PROP CONTINUITY
-Home entry counter. A plain brown delivery box sits at center; a small white card and a pair of small green winter gloves appear only when the box is opened. Mom stands screen-left and Child stands screen-right. Locked 16:9 medium two-shot with both faces and the countertop visible.
+Home entry counter. A plain brown delivery box sits at center; a small white card and a pair of small green winter gloves appear only when the box is opened. Dad stands screen-left and Child stands screen-right. Locked 16:9 medium two-shot with both faces and the countertop visible.
 Keep base character designs, garment identities, lighting, set and camera consistent across the three clips; allow the explicitly scripted dressing or undressing actions. Track hands and props continuously through the scripted movements rather than freezing their positions. The START FRAME below specifies this clip's current state; do not reset to the scene's initial arrangement. If the generation workflow supports reference frames, reuse the established character references and the preceding clip's final frame; text instructions alone do not guarantee visual consistency.
 
 START FRAME
-The box is open at center; Mom holds the small card in one hand; the folded green gloves remain visible inside the box.
+The box is open at center; Dad holds the small card in one hand; the folded green gloves remain visible inside the box.
 
 ACTION AND REACTIONS
-Mom sets the card on the counter, lifts the green gloves from the box, and offers them; Child takes them with both hands, holds them up briefly, and asks his last question while holding them.
+Dad sets the card on the counter, lifts the green gloves from the box, and offers them; Child takes them with both hands, holds them up briefly, and asks his last question while holding them.
 
 SPOKEN DIALOGUE (verbatim, in order):
-Mom: "It says, "A surprise for brave helpers.""
+Dad: "It says, "A surprise for brave helpers.""
 Child: "A surprise for helpers! Is it for me?"
-Mom: "Winter gloves, for helping outside."
+Dad: "Winter gloves, for helping outside."
 Child: "I love them! What can I help with first?"
 
 END FRAME
-Child holds the small green gloves with both hands at chest height; the open box and card rest at center; Mom has empty hands and a warm smile.
+Child holds the small green gloves with both hands at chest height; the open box and card rest at center; Dad has empty hands and a warm smile.
 Leave a short natural settling beat, without adding speech. Do not repeat earlier clips' lines.
 
 PACING (29 spoken words)

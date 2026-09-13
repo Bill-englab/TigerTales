@@ -1,6 +1,6 @@
 How Much Longer? — Clip 3
 Production prompt draft | Source: curriculum/04/09-outings-safety/01-how-much-longer/lesson.json | Content revision: 3
-Source SHA256: 4ec9f40031901f4cb2d79ffd2c49f883ee13ed4ded532b15828be21aa531a7a8
+Source SHA256: 9b857a8b51c33aaafd40ef9e96793491ddcb85a2a8971aac5d0f4a7e706111f9
 The source/revision above are production metadata, not spoken words or on-screen text.
 
 VIDEO AND SOUND

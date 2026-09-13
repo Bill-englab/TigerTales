@@ -1,6 +1,6 @@
 Space Pirates — Clip 2
-Production prompt draft | Source: curriculum/04/07-joining-cooperation/03-plan-the-game/lesson.json | Content revision: 3
-Source SHA256: c7808297575f9cb3629f6aec26cd56228b0aa38bf05fffea2c86a086a527cee8
+Production prompt draft | Source: curriculum/04/07-joining-cooperation/03-plan-the-game/lesson.json | Content revision: 4
+Source SHA256: 573c6fbb6f9b37e2ec422e3d0ebc45f4a510ac2d22879ea036966229a6397560
 The source/revision above are production metadata, not spoken words or on-screen text.
 
 VIDEO AND SOUND
@@ -8,33 +8,33 @@ Create one 16:9 animated clip for a preschool family role-play. Pixar-style 3D a
 
 FIXED CAST (only these two)
 Child — a small four-year-old cartoon tiger boy, bright orange fur with bold black stripes, bright attentive eyes full of curiosity, chubby round cheeks, tiny rounded ears, wearing a little yellow T-shirt, short chubby toddler proportions; alert, clever and quick to smile, eyes tracking the conversation; clear natural child voice.
-Bear Peer — the same small brown bear in a teal T-shirt in every peer lesson; age four, child-sized proportions and a distinct natural child voice, never an adult.
+Dog Dad — a young, friendly cartoon dog father, warm tan-brown fur, big soft floppy ears, bright round eyes with a lively spark, soft round snout, wearing an olive-green casual T-shirt; cheerful warm dad energy, warm natural adult male voice.
 
 EMOTIONAL PERFORMANCE
-Calm, warm and regulated baseline. The two friends discuss play ideas at ordinary indoor volume, each comfortable stating a different preference.
-Peer shows mild thoughtful disagreement while keeping his treasure idea, then a small interested smile when he can choose the pilot role. Child considers that condition and chooses the treasure-finder role with a small nod. Shared play uses only a slight seated steering gesture and quiet smiles.
+Calm, warm and regulated baseline. The two of them discuss play ideas at ordinary indoor volume, each comfortable stating a different preference.
+Dad shows mild thoughtful disagreement while keeping his treasure idea, then a small interested smile when he can choose the pilot role. Child considers that condition and chooses the treasure-finder role with a small nod. Shared play uses only a slight seated steering gesture and quiet smiles.
 No instant compliance, pressured agreement, shouting, jumping frenzy, bouncing, dramatic salutes, exaggerated triumph or elastic facial expressions. Do not turn disagreement into anger or perform pretend flight with frantic movement or extra sound effects.
 No screaming, extreme excitement, rage, distorted facial or body shapes, frantic gestures or uncontrolled running.
 
 SETTING
-Two friends plan a pretend voyage while seated on one blanket in a home play area.
+The two of them plan a pretend voyage while seated on one blanket in a home play area.
 
 SCENE AND PROP CONTINUITY
-A quiet home play area with one blanket laid flat as the proposed pretend ship. Bear Peer sits on its left edge and Child on its right edge, facing inward within easy reach. Peer is the same small brown bear, age four, in his teal T-shirt; Child is the four-year-old tiger boy in his yellow T-shirt. Exactly one paper treasure map lies by Peer's right knee at the outset. It has two simple circles joined by a dotted route, with an X inside one circle, and no written words. The map, flat blanket, room and ordinary clothes keep their identities throughout; space travel remains pretend. Locked 16:9 medium two-shot shows both faces, hands and the map. No costumes, weapons, steering wheel, treasure chest, new props or extra characters.
+A quiet home play area with one blanket laid flat as the proposed pretend ship. Dog Dad sits on its left edge and Child on its right edge, facing inward within easy reach. Dad is the same warm tan-brown cartoon dog in his olive-green T-shirt; Child is the four-year-old tiger boy in his yellow T-shirt. Exactly one paper treasure map lies by Dad's right knee at the outset. It has two simple circles joined by a dotted route, with an X inside one circle, and no written words. The map, flat blanket, room and ordinary clothes keep their identities throughout; space travel remains pretend. Locked 16:9 medium two-shot shows both faces, hands and the map. No costumes, weapons, steering wheel, treasure chest, new props or extra characters.
 Keep base character designs, garment identities, lighting, set and camera consistent across the three clips; allow the explicitly scripted dressing or undressing actions. Track hands and props continuously through the scripted movements rather than freezing their positions. The START FRAME below specifies this clip's current state; do not reset to the scene's initial arrangement. If the generation workflow supports reference frames, reuse the established character references and the preceding clip's final frame; text instructions alone do not guarantee visual consistency.
 
 START FRAME
-Peer holds the map low between the two seated friends, with its marked circle visible to Child. The blanket remains flat and Child rests his hands on his own knees while considering the combined idea.
+Dad holds the map low between the two seated friends, with its marked circle visible to Child. The blanket remains flat and Child rests his hands on his own knees while considering the combined idea.
 
 ACTION AND REACTIONS
-Peer brightens with a small interested smile at the combined idea and states his condition — he wants to fly the spaceship; he has not agreed to any role Child assigns him. Child nods and chooses the treasure-finder role for himself. During the end of Child's response, Peer passes the existing map into Child's waiting hands to support that chosen job. No steering or pretend departure starts until both roles are agreed.
+Dad brightens with a small interested smile at the combined idea and states his condition — he wants to fly the spaceship; he has not agreed to any role Child assigns him. Child nods and chooses the treasure-finder role for himself. During the end of Child's response, Dad passes the existing map into Child's waiting hands to support that chosen job. No steering or pretend departure starts until both roles are agreed.
 
 SPOKEN DIALOGUE (verbatim, in order):
-Peer: "Space pirates! Can I fly the spaceship?"
+Dad: "Space pirates! Can I fly the spaceship?"
 Child: "Yes. I'll be the treasure finder."
 
 END FRAME
-Child holds the same map low over his knees with its two circles, dotted route and X visible. Peer rests his empty hands on his own knees; both sit on the unchanged flat blanket with their two roles agreed.
+Child holds the same map low over his knees with its two circles, dotted route and X visible. Dad rests his empty hands on his own knees; both sit on the unchanged flat blanket with their two roles agreed.
 Leave a short natural settling beat, without adding speech. Do not repeat earlier clips' lines.
 
 PACING (13 spoken words)

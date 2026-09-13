@@ -1,6 +1,6 @@
 Shoes, Then Jacket — Clip 3
 Production prompt draft | Source: curriculum/04/05-routines-transitions/01-first-then/lesson.json | Content revision: 4
-Source SHA256: 7d3c0836952f3ee8dab98228a8fcbda5cd20f6a6173d4b2d06de521b4149170b
+Source SHA256: 858f4e9e68ccd4159292e6f450ae8bfd5d1eb9201bf84228ea4418fe6a76638a
 The source/revision above are production metadata, not spoken words or on-screen text.
 
 VIDEO AND SOUND

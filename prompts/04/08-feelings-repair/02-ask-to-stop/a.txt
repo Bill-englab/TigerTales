@@ -1,6 +1,6 @@
 Please Stop — Clip 1
 Production prompt draft | Source: curriculum/04/08-feelings-repair/02-ask-to-stop/lesson.json | Content revision: 3
-Source SHA256: 49a00126226bfaeeddec2219b9b57bd2afe587c3377a5e5d42c2310846f77b4c
+Source SHA256: 7527e5db402f0d5c301b05501032b14b1250aa6675803f547a42afafdcf55fce
 The source/revision above are production metadata, not spoken words or on-screen text.
 
 VIDEO AND SOUND

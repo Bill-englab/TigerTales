@@ -1,29 +1,40 @@
 {
-  "content_revision": 3,
-  "scene": "A shared home play mat with Peer kneeling screen left and Child kneeling screen right. Peer is the same small brown bear, age four, in his teal T-shirt from every Chapter 7 peer lesson; Child is the four-year-old tiger boy in his yellow T-shirt. Exactly three wide, easy-to-stack blocks form one small tower between them: tan base, blue middle, red top. The tower is within both children's reach. When Child accidentally brushes the two upper blocks, the tan base stays put and the blue and red blocks fall a short distance onto the soft mat toward Child, without hitting anyone. No truck, bridge, additional blocks or props. Locked 16:9 medium two-shot shows faces, hands and all three blocks throughout.",
+  "content_revision": 4,
+  "scene": "A shared home play mat with Dad kneeling screen left and Child kneeling screen right. Dad is the same warm tan-brown cartoon dog in his olive-green T-shirt; Child is the four-year-old tiger boy in his yellow T-shirt. Exactly three wide, easy-to-stack blocks form one small tower between them: tan base, blue middle, red top. The tower is within both of them's reach. When Child accidentally brushes the two upper blocks, the tan base stays put and the blue and red blocks fall a short distance onto the soft mat toward Child, without hitting anyone. No truck, bridge, additional blocks or props. Locked 16:9 medium two-shot shows faces, hands and all three blocks throughout.",
   "emotion": {
-    "baseline": "Calm, warm and regulated baseline. Both children are interested in the shared building activity and use ordinary play volume.",
-    "allowed_shift": "Child makes one small surprised pause at his accidental bump, then speaks with sincere calm concern and apology. Peer shows mild disappointment about the fallen tower and may keep that expression while accepting help. The completed repair earns a quiet look of acknowledgment; neither child must smile.",
+    "baseline": "Calm, warm and regulated baseline. Both of them are interested in the shared building activity and use ordinary play volume.",
+    "allowed_shift": "Child makes one small surprised pause at his accidental bump, then speaks with sincere calm concern and apology. Dad shows mild disappointment about the fallen tower and may keep that expression while accepting help. The completed repair earns a quiet look of acknowledgment; neither child must smile.",
     "forbidden": "No crying spectacle, rage, shame posture, forced hug or automatic smile. No blame performance, collapsed shoulders, bowed head, exaggerated gasp, frantic grabbing, celebratory bouncing or distorted face or body. An apology does not require instant forgiveness or physical affection; keep voices normal and actions small."
   },
   "clips": [
     {
-      "turns": [0, 1],
-      "start": "Peer kneels left with his hands just released from the red top of the intact three-block tower. Child kneels right with his left hand beside the tower at the height of the blue middle block, about to return it to his lap; the tan base is flat on the mat.",
-      "action": "As Child draws his left hand back toward his lap, it accidentally brushes the blue middle block once; the blue and red upper blocks fall onto the mat toward him while the tan base stays upright. No block touches either child. Child stops his hand, notices the fallen blocks and immediately apologizes to Peer with sincere calm. Peer answers that he is okay, then names the lost tower with mild disappointment. Neither touches the fallen blocks yet.",
-      "end": "The tan base remains upright between the children. The fallen blue block rests beside the base toward Child, with the fallen red block just beyond it; Child's empty hands are in his lap and Peer's empty hands rest by his knees as they face each other."
+      "turns": [
+        0,
+        1
+      ],
+      "start": "Dad kneels left with his hands just released from the red top of the intact three-block tower. Child kneels right with his left hand beside the tower at the height of the blue middle block, about to return it to his lap; the tan base is flat on the mat.",
+      "action": "As Child draws his left hand back toward his lap, it accidentally brushes the blue middle block once; the blue and red upper blocks fall onto the mat toward him while the tan base stays upright. No block touches either child. Child stops his hand, notices the fallen blocks and immediately apologizes to Dad with sincere calm. Dad answers that he is okay, then names the lost tower with mild disappointment. Neither touches the fallen blocks yet.",
+      "end": "The tan base remains upright between the children. The fallen blue block rests beside the base toward Child, with the fallen red block just beyond it; Child's empty hands are in his lap and Dad's empty hands rest by his knees as they face each other."
     },
     {
-      "turns": [2, 3, 4],
-      "start": "The tan base remains upright between the children. The fallen blue block rests beside the base toward Child, with the fallen red block just beyond it; Child's empty hands are in his lap and Peer's empty hands rest by his knees as they face each other.",
-      "action": "Child looks at the fallen blocks, offers to help rebuild and names the tan block as the base without reaching for anything. Peer considers the useful offer, accepts it and divides the jobs: Child holds the base while Peer stacks the blue and red blocks. Child places his left hand gently on the tan base and confirms he will hold it very steady. Peer can remain mildly disappointed while choosing to work together; no hug, praise, forced forgiveness or automatic smile occurs.",
-      "end": "The tan base is still upright with Child's left hand steadying it; the blue and red blocks remain fallen in their same positions toward Child. Peer looks toward the base with both hands beside his knees, ready to stack."
+      "turns": [
+        2,
+        3,
+        4
+      ],
+      "start": "The tan base remains upright between the children. The fallen blue block rests beside the base toward Child, with the fallen red block just beyond it; Child's empty hands are in his lap and Dad's empty hands rest by his knees as they face each other.",
+      "action": "Child looks at the fallen blocks, offers to help rebuild and names the tan block as the base without reaching for anything. Dad considers the useful offer, accepts it and divides the jobs: Child holds the base while Dad stacks the blue and red blocks. Child places his left hand gently on the tan base and confirms he will hold it very steady. Dad can remain mildly disappointed while choosing to work together; no hug, praise, forced forgiveness or automatic smile occurs.",
+      "end": "The tan base is still upright with Child's left hand steadying it; the blue and red blocks remain fallen in their same positions toward Child. Dad looks toward the base with both hands beside his knees, ready to stack."
     },
     {
-      "turns": [5, 6, 7],
-      "start": "The tan base is still upright with Child's left hand steadying it; the blue and red blocks remain fallen in their same positions toward Child. Peer looks toward the base with both hands beside his knees, ready to stack.",
-      "action": "While stating the color order, Peer lifts the fallen blue block once and places it on the tan base, then lifts the fallen red block once and places it on the blue block, releasing it as he names the top. Both short placements happen during speech without a montage or rushed movement. Child's left hand stays on the base until the red top is secure, then he releases it and observes the restored tower, adding that he is glad Peer is okay. Peer agrees warmly that building together is fun. Keep the same three blocks, their color order and calm, sincere expressions; the joint repair closes the scene without requiring smiles or affection.",
-      "end": "The three-block tower is restored in the same place and order: tan base, blue middle and red top. Child's hands rest in his lap and Peer has released the red top; both calmly look at the standing tower."
+      "turns": [
+        5,
+        6,
+        7
+      ],
+      "start": "The tan base is still upright with Child's left hand steadying it; the blue and red blocks remain fallen in their same positions toward Child. Dad looks toward the base with both hands beside his knees, ready to stack.",
+      "action": "While stating the color order, Dad lifts the fallen blue block once and places it on the tan base, then lifts the fallen red block once and places it on the blue block, releasing it as he names the top. Both short placements happen during speech without a montage or rushed movement. Child's left hand stays on the base until the red top is secure, then he releases it and observes the restored tower, adding that he is glad Dad is okay. Dad agrees warmly that building together is fun. Keep the same three blocks, their color order and calm, sincere expressions; the joint repair closes the scene without requiring smiles or affection.",
+      "end": "The three-block tower is restored in the same place and order: tan base, blue middle and red top. Child's hands rest in his lap and Dad has released the red top; both calmly look at the standing tower."
     }
   ]
 }

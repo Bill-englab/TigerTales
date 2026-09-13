@@ -1,6 +1,6 @@
 The Dinner Messenger — Clip 3
 Production prompt draft | Source: curriculum/05/05-relaying-messages/01-relay-a-message/lesson.json | Content revision: 1
-Source SHA256: 7ec1288d0a2832b041efeeb35aab472112194875cedeb08a91f4d4efa5272d80
+Source SHA256: 62daf4bbadd81a311f298c8b05f44122c60331db444a0a0edf8d1a16220642cc
 The source/revision above are production metadata, not spoken words or on-screen text.
 
 VIDEO AND SOUND
@@ -31,7 +31,7 @@ Child runs out and returns once more, delivering the final message with a big we
 
 SPOKEN DIALOGUE (verbatim, in order):
 Dad: "Deal. Tell her I'm the fastest hand-washer."
-Child: "Mom says dinner is on the table, come see!"
+Child: "Dad says dinner is on the table, come see!"
 
 END FRAME
 Dad and Child exit through the doorway side by side; the desk, lamp and screwdriver stay behind in the quiet study.

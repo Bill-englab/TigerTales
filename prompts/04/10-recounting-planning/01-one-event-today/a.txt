@@ -1,6 +1,6 @@
 I Built a Tower — Clip 1
-Production prompt draft | Source: curriculum/04/10-recounting-planning/01-one-event-today/lesson.json | Content revision: 3
-Source SHA256: ef35f67e7f8c14c27abf6990fa325ff1e4bd41f93a95683b4bcbe142cbc51be0
+Production prompt draft | Source: curriculum/04/10-recounting-planning/01-one-event-today/lesson.json | Content revision: 4
+Source SHA256: 616bd6512650d49b27df5fe3a24110045743219ec8dec68fe760e7fae50333bc
 The source/revision above are production metadata, not spoken words or on-screen text.
 
 VIDEO AND SOUND
@@ -8,34 +8,34 @@ Create one 16:9 animated clip for a preschool family role-play. Pixar-style 3D a
 
 FIXED CAST (only these two)
 Child — a small four-year-old cartoon tiger boy, bright orange fur with bold black stripes, bright attentive eyes full of curiosity, chubby round cheeks, tiny rounded ears, wearing a little yellow T-shirt, short chubby toddler proportions; alert, clever and quick to smile, eyes tracking the conversation; clear natural child voice.
-Rabbit Teacher — a cream rabbit with upright ears and a lavender cardigan, calm natural adult voice.
+Dog Dad — a young, friendly cartoon dog father, warm tan-brown fur, big soft floppy ears, bright round eyes with a lively spark, soft round snout, wearing an olive-green casual T-shirt; cheerful warm dad energy, warm natural adult male voice.
 
 EMOTIONAL PERFORMANCE
-Calm, warm and regulated baseline; Teacher listens with ordinary interest and Child shares a recent memory in a natural child voice.
+Calm, warm and regulated baseline; Dad listens with ordinary interest and Child shares a recent memory in a natural child voice.
 A slight thoughtful pause for the fall, followed by a small pleased smile about rebuilding it taller. Express the shift through a glance, small nod or brief hand gesture at normal conversation volume.
 No startled gasp, alarm at the remembered fall, triumphant cheering, exaggerated pride, testing expression, repeated praise demand or reenacted distress. Keep eyes, face and body proportions stable.
 No screaming, extreme excitement, rage, distorted facial or body shapes, frantic gestures or uncontrolled running.
 
 SETTING
-A quiet end-of-day classroom conversation with Rabbit Teacher and Child seated facing each other.
+A quiet end-of-day conversation at home with Dog Dad and Child seated facing each other.
 
 SCENE AND PROP CONTINUITY
-One continuous conversation in an uncluttered end-of-day classroom corner. Rabbit Teacher stays seated screen left and Child stays seated screen right on nearby chairs, facing each other in a locked 16:9 medium two-shot. No essential props. The tower, the red block and Maya belong only to Child's recalled play episode; none of them appears. No flashback montage, no extra voices, no imagined-location cutaways, thought bubbles, generated blocks or reenacted collapse. Small illustrative hand gestures only; both remain in this classroom for all three clips, with no time jump.
+One continuous conversation in an uncluttered end-of-day corner at home. Dog Dad stays seated screen left and Child stays seated screen right on nearby chairs, facing each other in a locked 16:9 medium two-shot. No essential props. The tower, the red block and Maya belong only to Child's recalled play episode; none of them appears. No flashback montage, no extra voices, no imagined-location cutaways, thought bubbles, generated blocks or reenacted collapse. Small illustrative hand gestures only; both remain in this home corner for all three clips, with no time jump.
 Keep base character designs, garment identities, lighting, set and camera consistent across the three clips; allow the explicitly scripted dressing or undressing actions. Track hands and props continuously through the scripted movements rather than freezing their positions. The START FRAME below specifies this clip's current state; do not reset to the scene's initial arrangement. If the generation workflow supports reference frames, reuse the established character references and the preceding clip's final frame; text instructions alone do not guarantee visual consistency.
 
 START FRAME
-Teacher remains seated screen left and Child seated screen right in the quiet classroom; both have empty hands resting near their laps and attentive expressions.
+Dad remains seated screen left and Child seated screen right in the quiet home corner; both have empty hands resting near their laps and attentive expressions.
 
 ACTION AND REACTIONS
-Teacher invites one recent event. Child briefly marks a modest tower height with one empty hand while naming the shared building with Maya, then lowers it. Teacher asks only whether that tower stayed upright, with quiet interest. Keep both faces visible; no one turns toward an offscreen peer and no tower appears.
+Dad invites one recent event. Child briefly marks a modest tower height with one empty hand while naming the shared building with Maya, then lowers it. Dad asks only whether that tower stayed upright, with quiet interest. Keep both faces visible; no one turns toward an offscreen peer and no tower appears.
 
 SPOKEN DIALOGUE (verbatim, in order):
-Teacher: "Tell me one thing you did today."
+Dad: "Tell me one thing you did today."
 Child: "I built a big tower with Maya."
-Teacher: "Did your tower stay up?"
+Dad: "Did your tower stay up?"
 
 END FRAME
-Teacher and Child remain seated in the same classroom positions with empty hands near their laps; Teacher is listening for the tower's outcome.
+Dad and Child remain seated in the same home corner positions with empty hands near their laps; Dad is listening for the tower's outcome.
 Leave a short natural settling beat, without adding speech. Do not repeat earlier clips' lines.
 
 PACING (19 spoken words)

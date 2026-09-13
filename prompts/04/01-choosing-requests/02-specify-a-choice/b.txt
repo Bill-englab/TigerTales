@@ -1,6 +1,6 @@
 The Dinosaur Shirt — Clip 2
 Production prompt draft | Source: curriculum/04/01-choosing-requests/02-specify-a-choice/lesson.json | Content revision: 3
-Source SHA256: bfc356d516ece920d3b59c5eb4e3f7cdf3f815047453716d4ae5d671c374305c
+Source SHA256: d694d518917ec88c72b29b5168ac1888afef8f1146cb62d9b463184f6e62d27a
 The source/revision above are production metadata, not spoken words or on-screen text.
 
 VIDEO AND SOUND

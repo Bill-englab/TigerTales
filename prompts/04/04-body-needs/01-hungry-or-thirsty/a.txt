@@ -1,6 +1,6 @@
 Water First — Clip 1
-Production prompt draft | Source: curriculum/04/04-body-needs/01-hungry-or-thirsty/lesson.json | Content revision: 3
-Source SHA256: 1ad3f005703bc5258d7a4b90351fed92f586c0127ce61bfb2b3f414231316865
+Production prompt draft | Source: curriculum/04/04-body-needs/01-hungry-or-thirsty/lesson.json | Content revision: 4
+Source SHA256: e8ca00a0804576e83e6e0816601c8d168633d5f2ce60238326df5b51937902ff
 The source/revision above are production metadata, not spoken words or on-screen text.
 
 VIDEO AND SOUND
@@ -8,11 +8,11 @@ Create one 16:9 animated clip for a preschool family role-play. Pixar-style 3D a
 
 FIXED CAST (only these two)
 Child — a small four-year-old cartoon tiger boy, bright orange fur with bold black stripes, bright attentive eyes full of curiosity, chubby round cheeks, tiny rounded ears, wearing a little yellow T-shirt, short chubby toddler proportions; alert, clever and quick to smile, eyes tracking the conversation; clear natural child voice.
-Pig Mom — a young, pretty cartoon pig mother, soft rosy-pink fur, lighter blush on the cheeks, big warm round eyes with long lashes, small rounded snout, slim young-mother proportions, wearing a coral cardigan over a cream top; sweet gentle mom energy, warm natural adult female voice.
+Dog Dad — a young, friendly cartoon dog father, warm tan-brown fur, big soft floppy ears, bright round eyes with a lively spark, soft round snout, wearing an olive-green casual T-shirt; cheerful warm dad energy, warm natural adult male voice.
 
 EMOTIONAL PERFORMANCE
 Calm, warm and regulated baseline at ordinary family conversation volume. Both are settled after quiet play, with small natural gestures.
-Child matter-of-factly notices thirst and specifies water first. After a comfortable sip he shows quiet relief; Mom accepts his plan without pressing the snack.
+Child matter-of-factly notices thirst and specifies water first. After a comfortable sip he shows quiet relief; Dad accepts his plan without pressing the snack.
 No breathless arrival, frantic reaching, exaggerated thirst, gulping, bouncing, emotional bargaining or triumphant reaction to the drink. No distorted faces or bodies; never make Child earn water through speech.
 No screaming, extreme excitement, rage, distorted facial or body shapes, frantic gestures or uncontrolled running.
 
@@ -20,21 +20,21 @@ SETTING
 A quiet break at the home table after play.
 
 SCENE AND PROP CONTINUITY
-After quiet play at the home table, Mom sits screen-left and Child sits screen-right. Child is the four-year-old tiger boy in his unchanged yellow T-shirt and blue shorts. One tray at table-center holds one blue cup already filled with drinking water and one small snack on a plain dish. The cup is nearest Child; no pouring, extra cup, temperature choice or additional food is needed. A locked 16:9 medium two-shot shows both faces, hands and the tray. Mom makes the water available immediately when he reports thirst; it is never withheld for a polite or complete sentence.
+After quiet play at the home table, Dad sits screen-left and Child sits screen-right. Child is the four-year-old tiger boy in his unchanged yellow T-shirt and blue shorts. One tray at table-center holds one blue cup already filled with drinking water and one small snack on a plain dish. The cup is nearest Child; no pouring, extra cup, temperature choice or additional food is needed. A locked 16:9 medium two-shot shows both faces, hands and the tray. Dad makes the water available immediately when he reports thirst; it is never withheld for a polite or complete sentence.
 Keep base character designs, garment identities, lighting, set and camera consistent across the three clips; allow the explicitly scripted dressing or undressing actions. Track hands and props continuously through the scripted movements rather than freezing their positions. The START FRAME below specifies this clip's current state; do not reset to the scene's initial arrangement. If the generation workflow supports reference frames, reuse the established character references and the preceding clip's final frame; text instructions alone do not guarantee visual consistency.
 
 START FRAME
-Mom sits left and Child sits right at the table with empty hands. A single tray rests at center, holding the filled blue water cup nearest Child and the untouched snack on its plain dish farther left.
+Dad sits left and Child sits right at the table with empty hands. A single tray rests at center, holding the filled blue water cup nearest Child and the untouched snack on its plain dish farther left.
 
 ACTION AND REACTIONS
-Mom suggests a break with a small open-hand gesture and names what is on the tray. As soon as Child states thirst and asks for the water first, Mom immediately slides the tray slightly toward him. Keep the cup within his easy reach; do not hold it away while awaiting another line.
+Dad suggests a break with a small open-hand gesture and names what is on the tray. As soon as Child states thirst and asks for the water first, Dad immediately slides the tray slightly toward him. Keep the cup within his easy reach; do not hold it away while awaiting another line.
 
 SPOKEN DIALOGUE (verbatim, in order):
-Mom: "Let's take a break. There's water and a little snack."
-Child: "I'm thirsty, Mom. Can I have the water first?"
+Dad: "Let's take a break. There's water and a little snack."
+Child: "I'm thirsty, Dad. Can I have the water first?"
 
 END FRAME
-The tray is within Child's easy reach. The filled blue cup remains nearest him and the snack stays on the dish to its left; Mom's open right hand rests beside the cup and Child's hands are empty.
+The tray is within Child's easy reach. The filled blue cup remains nearest him and the snack stays on the dish to its left; Dad's open right hand rests beside the cup and Child's hands are empty.
 Leave a short natural settling beat, without adding speech. Do not repeat earlier clips' lines.
 
 PACING (19 spoken words)

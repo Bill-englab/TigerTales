@@ -1,6 +1,6 @@
 Calling Daddy — Clip 1
 Production prompt draft | Source: curriculum/05/05-relaying-messages/03-phone-a-family-member/lesson.json | Content revision: 1
-Source SHA256: e523e9e1a779dc531359e56ba069d65303c2549a481b5beddd3b85977d16b85e
+Source SHA256: 73d566ac34751f6ef1125366bb7d4b1edd8c3f7522f76256c965303e7725225b
 The source/revision above are production metadata, not spoken words or on-screen text.
 
 VIDEO AND SOUND

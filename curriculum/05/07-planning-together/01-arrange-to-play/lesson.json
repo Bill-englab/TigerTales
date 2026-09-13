@@ -6,13 +6,13 @@
     "id": "arrange-to-play",
     "label": "arrange when, where and what to play"
   },
-  "trigger": "A playdate begins and the two friends need to settle snack, place and plan.",
+  "trigger": "A playdate begins and the two of them need to settle snack, place and plan.",
   "recycle": [
     "ask-about-arrangement"
   ],
   "roles": [
     "child",
-    "peer"
+    "dad"
   ],
   "setting": "An afternoon playdate at home.",
   "essential_props": [
@@ -26,15 +26,15 @@
         "line": "Max, do you want to build a castle with me?"
       },
       {
-        "speaker": "peer",
+        "speaker": "dad",
         "line": "Yes! Can we start right now?"
       },
       {
         "speaker": "child",
-        "line": "Snack first, then we build. Mom made berry cakes."
+        "line": "Snack first, then we build. Dad made berry cakes."
       },
       {
-        "speaker": "peer",
+        "speaker": "dad",
         "line": "Berry cakes! Then building?"
       },
       {
@@ -42,7 +42,7 @@
         "line": "Yes! We'll build on the big rug in my room."
       },
       {
-        "speaker": "peer",
+        "speaker": "dad",
         "line": "Where should the tall tower go?"
       },
       {
@@ -50,7 +50,7 @@
         "line": "In the middle, so the flag can touch the ceiling."
       },
       {
-        "speaker": "peer",
+        "speaker": "dad",
         "line": "A ceiling flag! Best castle ever."
       }
     ]
@@ -66,7 +66,7 @@
       "title": "The sleepover evening",
       "setting": "Max sleeps over on Friday.",
       "change": "The evening is unplanned.",
-      "challenge": "Child leads the arrangement — blocks after bath, tent reading, pancakes in the morning — and checks that Mom agrees."
+      "challenge": "Child leads the arrangement — blocks after bath, tent reading, pancakes in the morning — and checks that Dad agrees."
     }
   ],
   "parent_support": [
@@ -87,5 +87,5 @@
     "emotion_stability": true
   },
   "status": "draft",
-  "content_revision": 1
+  "content_revision": 2
 }

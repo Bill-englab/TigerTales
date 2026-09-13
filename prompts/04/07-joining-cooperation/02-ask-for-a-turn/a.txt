@@ -1,6 +1,6 @@
 After Your Turn — Clip 1
-Production prompt draft | Source: curriculum/04/07-joining-cooperation/02-ask-for-a-turn/lesson.json | Content revision: 3
-Source SHA256: fab3ce1ec41bbad838ddcf3ef7ca009a351d101b214ce8eee77b20821c617991
+Production prompt draft | Source: curriculum/04/07-joining-cooperation/02-ask-for-a-turn/lesson.json | Content revision: 4
+Source SHA256: 94023bf7871008d0bfb5fbc1701cd1a5d189048e9c4cf6db9ea8a77967305d7b
 The source/revision above are production metadata, not spoken words or on-screen text.
 
 VIDEO AND SOUND
@@ -8,35 +8,35 @@ Create one 16:9 animated clip for a preschool family role-play. Pixar-style 3D a
 
 FIXED CAST (only these two)
 Child — a small four-year-old cartoon tiger boy, bright orange fur with bold black stripes, bright attentive eyes full of curiosity, chubby round cheeks, tiny rounded ears, wearing a little yellow T-shirt, short chubby toddler proportions; alert, clever and quick to smile, eyes tracking the conversation; clear natural child voice.
-Bear Peer — the same small brown bear in a teal T-shirt in every peer lesson; age four, child-sized proportions and a distinct natural child voice, never an adult.
+Dog Dad — a young, friendly cartoon dog father, warm tan-brown fur, big soft floppy ears, bright round eyes with a lively spark, soft round snout, wearing an olive-green casual T-shirt; cheerful warm dad energy, warm natural adult male voice.
 
 EMOTIONAL PERFORMANCE
-Calm, warm and regulated baseline. Both friends speak at ordinary play volume and keep relaxed seated postures.
-Peer shows a small earnest look when requesting one final roll. Child considers and confirms the order, watches attentively and shows a small appreciative smile after receiving the ball; neither needs to look delighted about waiting.
+Calm, warm and regulated baseline. Both of them speak at ordinary play volume and keep relaxed seated postures.
+Dad shows a small earnest look when requesting one final roll. Child considers and confirms the order, watches attentively and shows a small appreciative smile after receiving the ball; neither needs to look delighted about waiting.
 No grabbing, sulking used to force agreement, pressured smiling, shouting, jumping frenzy, competitive cheering, frantic gestures or elastic faces. The ball moves slowly and stays on the mat during each roll.
 No screaming, extreme excitement, rage, distorted facial or body shapes, frantic gestures or uncontrolled running.
 
 SETTING
-Two friends sit close together on a clear home play mat and share one ball.
+The two of them sit close together on a clear home play mat and share one ball.
 
 SCENE AND PROP CONTINUITY
-A clear home play mat with Bear Peer sitting screen left and Child sitting screen right, angled toward each other and close enough for a short hand-to-hand pass. Peer is the same small brown bear, age four, in his teal T-shirt; Child is the four-year-old tiger boy in his yellow T-shirt. Exactly one small red ball is present. Peer can roll it about twenty centimeters between his own hands in front of his knees; a separate clear short path between the friends will allow Child's later roll back. No truck, blocks, targets, extra balls or other props. Locked 16:9 medium two-shot keeps both faces, knees, hands and the full ball path visible.
+A clear home play mat with Dog Dad sitting screen left and Child sitting screen right, angled toward each other and close enough for a short hand-to-hand pass. Dad is the same warm tan-brown cartoon dog in his olive-green T-shirt; Child is the four-year-old tiger boy in his yellow T-shirt. Exactly one small red ball is present. Dad can roll it about twenty centimeters between his own hands in front of his knees; a separate clear short path between the friends will allow Child's later roll back. No truck, blocks, targets, extra balls or other props. Locked 16:9 medium two-shot keeps both faces, knees, hands and the full ball path visible.
 Keep base character designs, garment identities, lighting, set and camera consistent across the three clips; allow the explicitly scripted dressing or undressing actions. Track hands and props continuously through the scripted movements rather than freezing their positions. The START FRAME below specifies this clip's current state; do not reset to the scene's initial arrangement. If the generation workflow supports reference frames, reuse the established character references and the preceding clip's final frame; text instructions alone do not guarantee visual consistency.
 
 START FRAME
-Peer steadies the one red ball under his right palm in front of his knees, with his left hand twenty centimeters away. Child sits close on the right with his hands resting on his own knees.
+Dad steadies the one red ball under his right palm in front of his knees, with his left hand twenty centimeters away. Child sits close on the right with his hands resting on his own knees.
 
 ACTION AND REACTIONS
-Peer gently rolls the ball from his right palm into his waiting left hand during the opening turn, making his current play visible. The ball has stopped before Child requests the next turn. Peer holds it still as he asks for one additional roll; Child confirms the order and settles in to watch how Peer rolls it, leaving control with Peer. This opening roll precedes the agreement and is distinct from the single final roll in the next clip.
+Dad gently rolls the ball from his right palm into his waiting left hand during the opening turn, making his current play visible. The ball has stopped before Child requests the next turn. Dad holds it still as he asks for one additional roll; Child confirms the order and settles in to watch how Dad rolls it, leaving control with Dad. This opening roll precedes the agreement and is distinct from the single final roll in the next clip.
 
 SPOKEN DIALOGUE (verbatim, in order):
-Peer: "Watch me roll the red ball."
+Dad: "Watch me roll the red ball."
 Child: "Can I have a turn after you?"
-Peer: "Can I roll it once more first?"
+Dad: "Can I roll it once more first?"
 Child: "You first, then me. I'll watch how you roll it."
 
 END FRAME
-The red ball is stopped beneath Peer's left palm in front of his knees. His right hand rests twenty centimeters away, and Child watches attentively with his hands on his own knees.
+The red ball is stopped beneath Dad's left palm in front of his knees. His right hand rests twenty centimeters away, and Child watches attentively with his hands on his own knees.
 Leave a short natural settling beat, without adding speech. Do not repeat earlier clips' lines.
 
 PACING (30 spoken words)

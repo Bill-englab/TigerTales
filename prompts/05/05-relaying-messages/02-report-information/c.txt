@@ -1,6 +1,6 @@
 No School Friday — Clip 3
-Production prompt draft | Source: curriculum/05/05-relaying-messages/02-report-information/lesson.json | Content revision: 1
-Source SHA256: 408f9b327161c0ac22017e29243392acf301d7d8b0cba10412059c34e543f093
+Production prompt draft | Source: curriculum/05/05-relaying-messages/02-report-information/lesson.json | Content revision: 2
+Source SHA256: dd4578576a6f8996ec14b38d67c855e036fbf2b2c552c62f0aaf6e7052fefdfd
 The source/revision above are production metadata, not spoken words or on-screen text.
 
 VIDEO AND SOUND
@@ -8,11 +8,11 @@ Create one 16:9 animated clip for a preschool family role-play. Pixar-style 3D a
 
 FIXED CAST (only these two)
 Child — a small four-year-old cartoon tiger boy, bright orange fur with bold black stripes, bright attentive eyes full of curiosity, chubby round cheeks, tiny rounded ears, wearing a little yellow T-shirt, short chubby toddler proportions; alert, clever and quick to smile, eyes tracking the conversation; clear natural child voice.
-Pig Mom — a young, pretty cartoon pig mother, soft rosy-pink fur, lighter blush on the cheeks, big warm round eyes with long lashes, small rounded snout, slim young-mother proportions, wearing a coral cardigan over a cream top; sweet gentle mom energy, warm natural adult female voice.
+Dog Dad — a young, friendly cartoon dog father, warm tan-brown fur, big soft floppy ears, bright round eyes with a lively spark, soft round snout, wearing an olive-green casual T-shirt; cheerful warm dad energy, warm natural adult male voice.
 
 EMOTIONAL PERFORMANCE
 Calm, warm and regulated baseline. Both speak at a normal family volume with small, natural facial movements and gestures.
-Child reports his news with bright, proud energy; Mom reacts with warm interest and one soft surprised lift of the eyebrows; both end planning together.
+Child reports his news with bright, proud energy; Dad reacts with warm interest and one soft surprised lift of the eyebrows; both end planning together.
 No exaggerated surprise, wide-eyed shock, bouncing, raised voices, impatience, blaming or teasing. Any disappointment, worry or sadness stays mild and brief, and the adult helps things stay steady.
 No screaming, extreme excitement, rage, distorted facial or body shapes, frantic gestures or uncontrolled running.
 
@@ -20,21 +20,21 @@ SETTING
 After school, in the kitchen.
 
 SCENE AND PROP CONTINUITY
-Kitchen after school. Mom stands at the counter at screen-left with empty hands; Child sits at the table at screen-right with his hands on the tabletop. Locked 16:9 medium two-shot with both faces visible.
+Kitchen after school. Dad stands at the counter at screen-left with empty hands; Child sits at the table at screen-right with his hands on the tabletop. Locked 16:9 medium two-shot with both faces visible.
 Keep base character designs, garment identities, lighting, set and camera consistent across the three clips; allow the explicitly scripted dressing or undressing actions. Track hands and props continuously through the scripted movements rather than freezing their positions. The START FRAME below specifies this clip's current state; do not reset to the scene's initial arrangement. If the generation workflow supports reference frames, reuse the established character references and the preceding clip's final frame; text instructions alone do not guarantee visual consistency.
 
 START FRAME
 Both look at each other, curious about the boots.
 
 ACTION AND REACTIONS
-Mom points down at imaginary boots with both index fingers. Child mimes two small stomping steps in place and sweeps one hand across the table like falling leaves; Mom claps once softly, delighted.
+Dad points down at imaginary boots with both index fingers. Child mimes two small stomping steps in place and sweeps one hand across the table like falling leaves; Dad claps once softly, delighted.
 
 SPOKEN DIALOGUE (verbatim, in order):
-Mom: "Rain boots? Is it a water-play day?"
+Dad: "Rain boots? Is it a water-play day?"
 Child: "Yes, for the leaf hunt in the garden!"
 
 END FRAME
-Child sits with hands flat on the table, pleased; Mom smiles with empty hands by the counter.
+Child sits with hands flat on the table, pleased; Dad smiles with empty hands by the counter.
 Leave a short natural settling beat, without adding speech. Do not repeat earlier clips' lines.
 
 PACING (15 spoken words)

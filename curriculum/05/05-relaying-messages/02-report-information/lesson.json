@@ -6,13 +6,13 @@
     "id": "report-information",
     "label": "report heard news to the family"
   },
-  "trigger": "Child comes home with real news from Teacher, and Mom has not heard it yet.",
+  "trigger": "Child comes home with real news from Teacher, and Dad has not heard it yet.",
   "recycle": [
     "relay-a-message"
   ],
   "roles": [
     "child",
-    "mom"
+    "dad"
   ],
   "setting": "After school, in the kitchen.",
   "essential_props": [],
@@ -20,7 +20,7 @@
   "dialogue": {
     "turns": [
       {
-        "speaker": "mom",
+        "speaker": "dad",
         "line": "How was school, my dear?"
       },
       {
@@ -28,7 +28,7 @@
         "line": "Good! Teacher says there's no school on Friday."
       },
       {
-        "speaker": "mom",
+        "speaker": "dad",
         "line": "No school? Why is that?"
       },
       {
@@ -36,7 +36,7 @@
         "line": "She says the teachers have a big meeting."
       },
       {
-        "speaker": "mom",
+        "speaker": "dad",
         "line": "So Friday is a family day. What should we do?"
       },
       {
@@ -44,7 +44,7 @@
         "line": "She also says to bring our rain boots tomorrow."
       },
       {
-        "speaker": "mom",
+        "speaker": "dad",
         "line": "Rain boots? Is it a water-play day?"
       },
       {
@@ -57,14 +57,14 @@
     {
       "title": "The class plant",
       "setting": "School gets a new class plant by the window.",
-      "change": "Mom has not heard about it yet.",
-      "challenge": "Child reports what Teacher says about watering days and where the plant sits, and answers Mom's follow-up questions."
+      "change": "Dad has not heard about it yet.",
+      "challenge": "Child reports what Teacher says about watering days and where the plant sits, and answers Dad's follow-up questions."
     },
     {
       "title": "The shoe shop",
-      "setting": "Mom comes home from shopping without new shoes.",
+      "setting": "Dad comes home from shopping without new shoes.",
       "change": "The shop had none in her size.",
-      "challenge": "Child reports what happened and what Mom bought instead, then answers Dad's questions about it at dinner."
+      "challenge": "Child reports what happened and what Dad bought instead, then answers Dad's questions about it at dinner."
     }
   ],
   "parent_support": [
@@ -85,5 +85,5 @@
     "emotion_stability": true
   },
   "status": "draft",
-  "content_revision": 1
+  "content_revision": 2
 }

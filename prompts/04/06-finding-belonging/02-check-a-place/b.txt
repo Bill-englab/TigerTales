@@ -1,6 +1,6 @@
 Under the Bed? — Clip 2
-Production prompt draft | Source: curriculum/04/06-finding-belonging/02-check-a-place/lesson.json | Content revision: 3
-Source SHA256: ce3c89ab5679d87f6b10ab026d20453eedbd52891287a3841ec394047dd29ccc
+Production prompt draft | Source: curriculum/04/06-finding-belonging/02-check-a-place/lesson.json | Content revision: 4
+Source SHA256: 5da25ce3b1b5e3506109e9503407ae263cd708f083605461e2f6e06603456aa5
 The source/revision above are production metadata, not spoken words or on-screen text.
 
 VIDEO AND SOUND
@@ -8,10 +8,10 @@ Create one 16:9 animated clip for a preschool family role-play. Pixar-style 3D a
 
 FIXED CAST (only these two)
 Child — a small four-year-old cartoon tiger boy, bright orange fur with bold black stripes, bright attentive eyes full of curiosity, chubby round cheeks, tiny rounded ears, wearing a little yellow T-shirt, short chubby toddler proportions; alert, clever and quick to smile, eyes tracking the conversation; clear natural child voice.
-Pig Mom — a young, pretty cartoon pig mother, soft rosy-pink fur, lighter blush on the cheeks, big warm round eyes with long lashes, small rounded snout, slim young-mother proportions, wearing a coral cardigan over a cream top; sweet gentle mom energy, warm natural adult female voice.
+Dog Dad — a young, friendly cartoon dog father, warm tan-brown fur, big soft floppy ears, bright round eyes with a lively spark, soft round snout, wearing an olive-green casual T-shirt; cheerful warm dad energy, warm natural adult male voice.
 
 EMOTIONAL PERFORMANCE
-Calm, warm and regulated baseline. Mom and Child treat the missing sock as a small everyday problem.
+Calm, warm and regulated baseline. Dad and Child treat the missing sock as a small everyday problem.
 A brief thoughtful look after the empty-bed check, a small head turn when Child proposes the chair, mild satisfaction when he finds the sock and where he sat on it.
 No impatience, nagging, frantic rummaging, exaggerated confusion or surprise, crawling under furniture, bouncing or distorted faces and bodies.
 No screaming, extreme excitement, rage, distorted facial or body shapes, frantic gestures or uncontrolled running.
@@ -20,21 +20,21 @@ SETTING
 Finding the other sock while getting ready in the bedroom.
 
 SCENE AND PROP CONTINUITY
-A compact bedroom with a low bed at screen-left and a low wooden chair immediately to Child's right. Mom kneels screen-left beside the bed, and Child sits on the floor screen-right between the bed and chair. Child is the same four-year-old tiger boy in a yellow T-shirt and navy shorts, with one blue sock with a yellow toe on his left foot and his right foot bare. The matching loose blue sock with a yellow toe lies flat on the near-right of the chair seat, within his easy right-arm reach. It is visible to the camera from the start, but both characters initially attend to the bed and Child's feet. The gap under the bed is empty and visible without crawling underneath. The chair, bed and their distance never change. Lock a 16:9 medium two-shot wide enough for both faces, the bed gap, the chair seat, Child's hands and socked/bare feet. No basket, curtain, extra loose sock or wardrobe change.
+A compact bedroom with a low bed at screen-left and a low wooden chair immediately to Child's right. Dad kneels screen-left beside the bed, and Child sits on the floor screen-right between the bed and chair. Child is the same four-year-old tiger boy in a yellow T-shirt and navy shorts, with one blue sock with a yellow toe on his left foot and his right foot bare. The matching loose blue sock with a yellow toe lies flat on the near-right of the chair seat, within his easy right-arm reach. It is visible to the camera from the start, but both characters initially attend to the bed and Child's feet. The gap under the bed is empty and visible without crawling underneath. The chair, bed and their distance never change. Lock a 16:9 medium two-shot wide enough for both faces, the bed gap, the chair seat, Child's hands and socked/bare feet. No basket, curtain, extra loose sock or wardrobe change.
 Keep base character designs, garment identities, lighting, set and camera consistent across the three clips; allow the explicitly scripted dressing or undressing actions. Track hands and props continuously through the scripted movements rather than freezing their positions. The START FRAME below specifies this clip's current state; do not reset to the scene's initial arrangement. If the generation workflow supports reference frames, reuse the established character references and the preceding clip's final frame; text instructions alone do not guarantee visual consistency.
 
 START FRAME
-Mom kneels screen-left and Child sits screen-right leaning slightly toward the empty bed gap with empty hands. The loose blue sock with a yellow toe remains on the near-right of the chair seat. Child still wears the matching sock on his left foot; his right foot is bare and his yellow T-shirt and navy shorts are unchanged.
+Dad kneels screen-left and Child sits screen-right leaning slightly toward the empty bed gap with empty hands. The loose blue sock with a yellow toe remains on the near-right of the chair seat. Child still wears the matching sock on his left foot; his right foot is bare and his yellow T-shirt and navy shorts are unchanged.
 
 ACTION AND REACTIONS
-After the actual empty-bed check, Child straightens slightly, rules out under the bed and proposes the chair seat as the next place to check. Mom follows his suggestion with warm approval. Both turn their heads and upper bodies toward the chair during her line, ending with an unobstructed view of the stationary sock. Child does not retrieve it yet; the change of search direction follows his words.
+After the actual empty-bed check, Child straightens slightly, rules out under the bed and proposes the chair seat as the next place to check. Dad follows his suggestion with warm approval. Both turn their heads and upper bodies toward the chair during her line, ending with an unobstructed view of the stationary sock. Child does not retrieve it yet; the change of search direction follows his words.
 
 SPOKEN DIALOGUE (verbatim, in order):
 Child: "Not under the bed. Maybe it's on the chair."
-Mom: "Good thinking. Check the seat."
+Dad: "Good thinking. Check the seat."
 
 END FRAME
-Mom kneels screen-left and Child sits screen-right, both turned toward the low chair with empty hands and a clear view of the loose blue sock with a yellow toe on its near-right seat. The bed gap is empty. Child's matching left sock, bare right foot, yellow T-shirt and navy shorts are unchanged.
+Dad kneels screen-left and Child sits screen-right, both turned toward the low chair with empty hands and a clear view of the loose blue sock with a yellow toe on its near-right seat. The bed gap is empty. Child's matching left sock, bare right foot, yellow T-shirt and navy shorts are unchanged.
 Leave a short natural settling beat, without adding speech. Do not repeat earlier clips' lines.
 
 PACING (14 spoken words)

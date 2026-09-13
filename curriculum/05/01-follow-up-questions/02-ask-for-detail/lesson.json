@@ -6,11 +6,11 @@
     "id": "ask-for-detail",
     "label": "ask detail questions about something new"
   },
-  "trigger": "A delivery box arrives and Mom does not know what is inside, so Child's questions are the way to find out.",
+  "trigger": "A delivery box arrives and Dad does not know what is inside, so Child's questions are the way to find out.",
   "recycle": [],
   "roles": [
     "child",
-    "mom"
+    "dad"
   ],
   "setting": "A package delivery moment at the entry counter.",
   "essential_props": [
@@ -20,15 +20,15 @@
   "dialogue": {
     "turns": [
       {
-        "speaker": "mom",
+        "speaker": "dad",
         "line": "A big box came for us today."
       },
       {
         "speaker": "child",
-        "line": "What's inside it, Mom?"
+        "line": "What's inside it, Dad?"
       },
       {
-        "speaker": "mom",
+        "speaker": "dad",
         "line": "I don't know yet. It's from Grandma."
       },
       {
@@ -36,7 +36,7 @@
         "line": "From Grandma? What did she send?"
       },
       {
-        "speaker": "mom",
+        "speaker": "dad",
         "line": "Open it with me and find out."
       },
       {
@@ -44,7 +44,7 @@
         "line": "What does the little card say?"
       },
       {
-        "speaker": "mom",
+        "speaker": "dad",
         "line": "It says, \"A surprise for brave helpers.\""
       },
       {
@@ -52,7 +52,7 @@
         "line": "A surprise for helpers! Is it for me?"
       },
       {
-        "speaker": "mom",
+        "speaker": "dad",
         "line": "Winter gloves, for helping outside."
       },
       {
@@ -93,5 +93,5 @@
     "emotion_stability": true
   },
   "status": "draft",
-  "content_revision": 1
+  "content_revision": 2
 }

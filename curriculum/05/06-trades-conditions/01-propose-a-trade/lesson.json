@@ -10,7 +10,7 @@
   "recycle": [],
   "roles": [
     "child",
-    "mom"
+    "dad"
   ],
   "setting": "Bedtime routine in the bedroom.",
   "essential_props": [
@@ -20,15 +20,15 @@
   "dialogue": {
     "turns": [
       {
-        "speaker": "mom",
+        "speaker": "dad",
         "line": "Bedtime is in ten minutes, sweetheart."
       },
       {
         "speaker": "child",
-        "line": "Mom, if I clean my blocks fast, can we read two books?"
+        "line": "Dad, if I clean my blocks fast, can we read two books?"
       },
       {
-        "speaker": "mom",
+        "speaker": "dad",
         "line": "Two books is a lot for one night."
       },
       {
@@ -36,7 +36,7 @@
         "line": "But I'll brush my teeth without a reminder."
       },
       {
-        "speaker": "mom",
+        "speaker": "dad",
         "line": "Hmm, that would help my evening a lot."
       },
       {
@@ -44,7 +44,7 @@
         "line": "So is it a deal? Blocks, teeth, two books?"
       },
       {
-        "speaker": "mom",
+        "speaker": "dad",
         "line": "Deal, if the blocks are away by seven."
       },
       {
@@ -58,7 +58,7 @@
       "title": "The morning trade",
       "setting": "A rushed morning, shoes still to put on.",
       "change": "Child wants one more cartoon before leaving.",
-      "challenge": "Child offers to dress super fast first; Mom agrees to one short episode after he is ready."
+      "challenge": "Child offers to dress super fast first; Dad agrees to one short episode after he is ready."
     },
     {
       "title": "The park trade",
@@ -85,5 +85,5 @@
     "emotion_stability": true
   },
   "status": "draft",
-  "content_revision": 1
+  "content_revision": 2
 }

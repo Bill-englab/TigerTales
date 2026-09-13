@@ -23,7 +23,7 @@
   },
   "replay_cards": [
     {"title": "Wash and eat", "setting": "Before a snack", "change": "Hands need washing before carrying the snack plate", "challenge": "Say wash first, then carry the plate; wash and dry hands, carry the plate, and say you are ready to eat"},
-    {"title": "Pajamas and teeth", "setting": "Getting ready for bed", "change": "A pajama top and pants are on the bed. Mom mishears the order and points toward the bathroom for toothbrushing first", "challenge": "Say, \"First I'll put on my pajamas, then brush my teeth.\" When Mom checks, \"Teeth first?\", correct her: \"No, pajamas first. Teeth come next.\" Mom accepts the correction and waits while Child gets changed, then helps with brushing; Child reports ready for bed"}
+    {"title": "Pajamas and teeth", "setting": "Getting ready for bed", "change": "A pajama top and pants are on the bed. Dad mishears the order and points toward the bathroom for toothbrushing first", "challenge": "Say, \"First I'll put on my pajamas, then brush my teeth.\" When Dad checks, \"Teeth first?\", correct her: \"No, pajamas first. Teeth come next.\" Dad accepts the correction and waits while Child gets changed, then helps with brushing; Child reports ready for bed"}
   ],
   "parent_support": [
     "Ask what remains while the actual clothes are within sight and reach; let the child name the order.",

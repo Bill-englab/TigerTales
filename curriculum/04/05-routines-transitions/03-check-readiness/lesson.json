@@ -22,7 +22,7 @@
     ]
   },
   "replay_cards": [
-    {"title": "Missing sun hat", "setting": "Ready to go to the playground", "change": "Shoes are on and the sun hat is on the bench behind Child. Mom sees him pick up his bag and mistakenly assumes he is fully ready to leave", "challenge": "When Mom says, \"All ready. Let's go!\", correct her: \"Wait, not yet. I still need my hat.\" Mom pauses inside the closed door. Ask, \"Can you help me find my hat before we go?\" Mom points to the bench; put on the hat and confirm readiness before leaving together"},
+    {"title": "Missing sun hat", "setting": "Ready to go to the playground", "change": "Shoes are on and the sun hat is on the bench behind Child. Dad sees him pick up his bag and mistakenly assumes he is fully ready to leave", "challenge": "When Dad says, \"All ready. Let's go!\", correct her: \"Wait, not yet. I still need my hat.\" Dad pauses inside the closed door. Ask, \"Can you help me find my hat before we go?\" Dad points to the bench; put on the hat and confirm readiness before leaving together"},
     {"title": "Missing library book", "setting": "Packing a bag at home", "change": "The bag is zipped before the library book goes in", "challenge": "Say what is still needed, reopen the bag, add the book, close it, and confirm readiness"}
   ],
   "parent_support": [

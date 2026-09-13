@@ -1,18 +1,18 @@
 {
-  "title": "Mom's Cozy Chair",
+  "title": "Dad's Cozy Chair",
   "title_zh": "妈妈累了",
   "can_do": "注意到大人的状态，主动问“你累吗、需要什么”，并用行动关心。",
   "conversation_move": {
     "id": "ask-about-feelings",
     "label": "notice and ask how someone feels"
   },
-  "trigger": "Mom sits down slowly after a long day, and Child notices and asks about her.",
+  "trigger": "Dad sits down slowly after a long day, and Child notices and asks about her.",
   "recycle": [
     "ask-for-detail"
   ],
   "roles": [
     "child",
-    "mom"
+    "dad"
   ],
   "setting": "Early evening in the living room.",
   "essential_props": [
@@ -23,10 +23,10 @@
     "turns": [
       {
         "speaker": "child",
-        "line": "Mom, are you feeling tired today?"
+        "line": "Dad, are you feeling tired today?"
       },
       {
-        "speaker": "mom",
+        "speaker": "dad",
         "line": "A little, my dear. My legs are heavy."
       },
       {
@@ -34,7 +34,7 @@
         "line": "Do you want to sit down and rest?"
       },
       {
-        "speaker": "mom",
+        "speaker": "dad",
         "line": "I do, but dinner isn't started yet."
       },
       {
@@ -42,7 +42,7 @@
         "line": "Dad can start dinner. I can bring your slippers!"
       },
       {
-        "speaker": "mom",
+        "speaker": "dad",
         "line": "You taking care of me? That's so sweet."
       },
       {
@@ -83,5 +83,5 @@
     "emotion_stability": true
   },
   "status": "draft",
-  "content_revision": 1
+  "content_revision": 2
 }

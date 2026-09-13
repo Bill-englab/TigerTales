@@ -5,11 +5,19 @@
   "version": 1,
   "status": "language_reviewed",
   "dialogue_contract": "continuous-dialogue-v1",
-  "completed_phases": ["A", "B", "C", "D"],
+  "completed_phases": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
   "expected_chapters": 10,
   "expected_lessons": 30,
   "minimum_family_partner_ratio": 0.7,
-  "roles": ["child", "dad", "mom", "teacher", "peer"],
+  "roles": [
+    "child",
+    "dad"
+  ],
   "carry_forward_moves": [
     "signal-nonunderstanding",
     "describe-discomfort",

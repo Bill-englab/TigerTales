@@ -6,13 +6,13 @@
     "id": "disagree-politely",
     "label": "disagree politely and offer a blend"
   },
-  "trigger": "The two friends imagine their pretend dragon differently, and Child speaks up kindly.",
+  "trigger": "The two of them imagine their pretend dragon differently, and Child speaks up kindly.",
   "recycle": [
     "counter-an-offer"
   ],
   "roles": [
     "child",
-    "peer"
+    "dad"
   ],
   "setting": "A pretend game on the playroom rug.",
   "essential_props": [],
@@ -20,7 +20,7 @@
   "dialogue": {
     "turns": [
       {
-        "speaker": "peer",
+        "speaker": "dad",
         "line": "Let's pretend our dragon is scary and mean!"
       },
       {
@@ -28,7 +28,7 @@
         "line": "I like your idea, but scary dragons make me worried."
       },
       {
-        "speaker": "peer",
+        "speaker": "dad",
         "line": "Not even a little bit scary?"
       },
       {
@@ -36,7 +36,7 @@
         "line": "Maybe a tiny bit scary, but mostly friendly."
       },
       {
-        "speaker": "peer",
+        "speaker": "dad",
         "line": "Friendly dragons can't guard treasure!"
       },
       {
@@ -44,7 +44,7 @@
         "line": "They can. Our dragon guards it with big hugs."
       },
       {
-        "speaker": "peer",
+        "speaker": "dad",
         "line": "A hugging dragon... that's funny!"
       },
       {
@@ -57,7 +57,7 @@
     {
       "title": "Which movie tonight",
       "setting": "Family movie night with two choices.",
-      "change": "Child wants the dinosaur movie, Mom the cooking one.",
+      "change": "Child wants the dinosaur movie, Dad the cooking one.",
       "challenge": "Child disagrees politely with a reason and proposes one movie tonight and the other tomorrow."
     },
     {
@@ -85,5 +85,5 @@
     "emotion_stability": true
   },
   "status": "draft",
-  "content_revision": 1
+  "content_revision": 2
 }

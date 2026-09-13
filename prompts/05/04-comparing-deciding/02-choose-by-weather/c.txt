@@ -1,6 +1,6 @@
 The Windy Walk — Clip 3
 Production prompt draft | Source: curriculum/05/04-comparing-deciding/02-choose-by-weather/lesson.json | Content revision: 1
-Source SHA256: b817a8683678fd052e7b18f5ead6f98bea69b0553f0b3953993115163e93d2d8
+Source SHA256: 5f22977b4908384bcdf252f6792d6e3f8f35e1083a9588fd33d72b2b20196092
 The source/revision above are production metadata, not spoken words or on-screen text.
 
 VIDEO AND SOUND

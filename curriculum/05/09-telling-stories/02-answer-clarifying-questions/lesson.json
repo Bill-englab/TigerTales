@@ -6,29 +6,29 @@
     "id": "answer-clarifying-questions",
     "label": "answer clarifying questions while telling a story"
   },
-  "trigger": "Child tells Teacher about the farm trip, and Teacher asks small clarifying questions along the way.",
+  "trigger": "Child tells Dad about the farm trip, and Dad asks small clarifying questions along the way.",
   "recycle": [
     "tell-two-events-detail"
   ],
   "roles": [
     "child",
-    "teacher"
+    "dad"
   ],
-  "setting": "A quiet reading corner at school.",
+  "setting": "A quiet reading corner at home.",
   "essential_props": [],
   "dialogue_contract": "continuous-dialogue-v1",
   "dialogue": {
     "turns": [
       {
-        "speaker": "teacher",
+        "speaker": "dad",
         "line": "I heard you went to the farm on Saturday!"
       },
       {
         "speaker": "child",
-        "line": "Yes! We saw so many animals, Teacher."
+        "line": "Yes! We saw so many animals, Dad."
       },
       {
-        "speaker": "teacher",
+        "speaker": "dad",
         "line": "Which animal did you see first?"
       },
       {
@@ -36,7 +36,7 @@
         "line": "The goats, because their house is by the gate."
       },
       {
-        "speaker": "teacher",
+        "speaker": "dad",
         "line": "And what did the goats do?"
       },
       {
@@ -44,7 +44,7 @@
         "line": "One little goat climbed on its mom's back!"
       },
       {
-        "speaker": "teacher",
+        "speaker": "dad",
         "line": "On its mom's back? Then what happened?"
       },
       {
@@ -52,7 +52,7 @@
         "line": "It slid down and jumped off, like at the pool!"
       },
       {
-        "speaker": "teacher",
+        "speaker": "dad",
         "line": "A pool-slide goat! What a day."
       }
     ]
@@ -60,13 +60,13 @@
   "replay_cards": [
     {
       "title": "The new bike",
-      "setting": "Child tells Teacher about riding without training wheels.",
-      "change": "Teacher was not there and keeps asking.",
+      "setting": "Child tells Dad about riding without training wheels.",
+      "change": "Dad was not there and keeps asking.",
       "challenge": "Child answers precisely — where he rode, who held the seat at first, and how it felt."
     },
     {
       "title": "The library visit",
-      "setting": "Mom asks about the school library trip.",
+      "setting": "Dad asks about the school library trip.",
       "change": "She has not heard about it yet.",
       "challenge": "Child answers her clarifying questions about which book he picked and why he picked it."
     }
@@ -89,5 +89,5 @@
     "emotion_stability": true
   },
   "status": "draft",
-  "content_revision": 1
+  "content_revision": 2
 }

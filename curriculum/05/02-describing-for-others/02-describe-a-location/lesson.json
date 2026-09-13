@@ -6,13 +6,13 @@
     "id": "describe-a-location",
     "label": "describe a place clearly enough for someone to act"
   },
-  "trigger": "Mom does not know where the trains are stored now and needs Child's directions.",
+  "trigger": "Dad does not know where the trains are stored now and needs Child's directions.",
   "recycle": [
     "describe-an-item"
   ],
   "roles": [
     "child",
-    "mom"
+    "dad"
   ],
   "setting": "Child's bedroom doorway before tidy-up time.",
   "essential_props": [
@@ -22,7 +22,7 @@
   "dialogue": {
     "turns": [
       {
-        "speaker": "mom",
+        "speaker": "dad",
         "line": "Can you tell me where your trains go?"
       },
       {
@@ -30,7 +30,7 @@
         "line": "They live on the top shelf, by the big bear."
       },
       {
-        "speaker": "mom",
+        "speaker": "dad",
         "line": "Which shelf do you mean?"
       },
       {
@@ -38,7 +38,7 @@
         "line": "The tall one behind my door, in the white box."
       },
       {
-        "speaker": "mom",
+        "speaker": "dad",
         "line": "Is it the white box or the blue basket?"
       },
       {
@@ -46,7 +46,7 @@
         "line": "The white box. The blue basket holds my blocks."
       },
       {
-        "speaker": "mom",
+        "speaker": "dad",
         "line": "Found them! You're a good guide."
       },
       {
@@ -58,9 +58,9 @@
   "replay_cards": [
     {
       "title": "Where the crayons live",
-      "setting": "Mom tidies up and asks where the crayons belong now.",
+      "setting": "Dad tidies up and asks where the crayons belong now.",
       "change": "They moved from the old basket last week.",
-      "challenge": "Child describes the new place as the second drawer, under the paper stack, clearly enough for Mom to put them away."
+      "challenge": "Child describes the new place as the second drawer, under the paper stack, clearly enough for Dad to put them away."
     },
     {
       "title": "The watering can",
@@ -87,5 +87,5 @@
     "emotion_stability": true
   },
   "status": "draft",
-  "content_revision": 1
+  "content_revision": 2
 }

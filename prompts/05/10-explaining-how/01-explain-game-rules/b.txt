@@ -1,6 +1,6 @@
 Freeze Bug — Clip 2
-Production prompt draft | Source: curriculum/05/10-explaining-how/01-explain-game-rules/lesson.json | Content revision: 1
-Source SHA256: 46063a7b25e54eccee5296ee93efde1e606332471b70a097e8cb74108b847f7c
+Production prompt draft | Source: curriculum/05/10-explaining-how/01-explain-game-rules/lesson.json | Content revision: 2
+Source SHA256: 8cd7789a4cf8980a8c48940622ad57e864f964a9e91f4f300548bb00070e40e2
 The source/revision above are production metadata, not spoken words or on-screen text.
 
 VIDEO AND SOUND
@@ -8,11 +8,11 @@ Create one 16:9 animated clip for a preschool family role-play. Pixar-style 3D a
 
 FIXED CAST (only these two)
 Child — a small four-year-old cartoon tiger boy, bright orange fur with bold black stripes, bright attentive eyes full of curiosity, chubby round cheeks, tiny rounded ears, wearing a little yellow T-shirt, short chubby toddler proportions; alert, clever and quick to smile, eyes tracking the conversation; clear natural child voice.
-Bear Peer — the same small brown bear in a teal T-shirt in every peer lesson; age four, child-sized proportions and a distinct natural child voice, never an adult.
+Dog Dad — a young, friendly cartoon dog father, warm tan-brown fur, big soft floppy ears, bright round eyes with a lively spark, soft round snout, wearing an olive-green casual T-shirt; cheerful warm dad energy, warm natural adult male voice.
 
 EMOTIONAL PERFORMANCE
 Calm, warm and regulated baseline. Both speak at a normal family volume with small, natural facial movements and gestures.
-Child teaches with playful confidence; Peer copies each step eagerly; both end with light giggles and wiggling fingers, ready to play.
+Child teaches with playful confidence; Dad copies each step eagerly; both end with light giggles and wiggling fingers, ready to play.
 No exaggerated surprise, wide-eyed shock, bouncing, raised voices, impatience, blaming or teasing. Any disappointment, worry or sadness stays mild and brief, and the adult helps things stay steady.
 No screaming, extreme excitement, rage, distorted facial or body shapes, frantic gestures or uncontrolled running.
 
@@ -20,22 +20,22 @@ SETTING
 Open floor in the playroom.
 
 SCENE AND PROP CONTINUITY
-Playroom with a clear open floor. Child and Peer stand facing each other, Child at screen-right and Peer at screen-left, with empty hands and room to move in place. Locked 16:9 medium two-shot; movements stay small and in place.
+Playroom with a clear open floor. Child and Dad stand facing each other, Child at screen-right and Dad at screen-left, with empty hands and room to move in place. Locked 16:9 medium two-shot; movements stay small and in place.
 Keep base character designs, garment identities, lighting, set and camera consistent across the three clips; allow the explicitly scripted dressing or undressing actions. Track hands and props continuously through the scripted movements rather than freezing their positions. The START FRAME below specifies this clip's current state; do not reset to the scene's initial arrangement. If the generation workflow supports reference frames, reuse the established character references and the preceding clip's final frame; text instructions alone do not guarantee visual consistency.
 
 START FRAME
 Both stand with hands relaxed, smiling.
 
 ACTION AND REACTIONS
-Peer freezes mid-gesture like a statue while asking. Child demonstrates the statue pose with stiff arms, then counts on five fingers slowly; Peer wiggles one shoulder while asking his rule question.
+Dad freezes mid-gesture like a statue while asking. Child demonstrates the statue pose with stiff arms, then counts on five fingers slowly; Dad wiggles one shoulder while asking his rule question.
 
 SPOKEN DIALOGUE (verbatim, in order):
-Peer: "Then what happens when we freeze?"
+Dad: "Then what happens when we freeze?"
 Child: "You stop like a statue, and count to five slowly."
-Peer: "What if I move while counting?"
+Dad: "What if I move while counting?"
 
 END FRAME
-Child holds up one finger for the rule; Peer waits to hear it.
+Child holds up one finger for the rule; Dad waits to hear it.
 Leave a short natural settling beat, without adding speech. Do not repeat earlier clips' lines.
 
 PACING (22 spoken words)

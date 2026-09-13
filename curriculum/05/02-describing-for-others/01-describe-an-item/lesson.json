@@ -49,16 +49,16 @@
       },
       {
         "speaker": "child",
-        "line": "The light-blue mug is Mom's. Don't mix them up!"
+        "line": "The light-blue mug is Dad's. Don't mix them up!"
       }
     ]
   },
   "replay_cards": [
     {
-      "title": "Mom's missing keys",
-      "setting": "Mom cannot find her keys before shopping.",
+      "title": "Dad's missing keys",
+      "setting": "Dad cannot find her keys before shopping.",
       "change": "Two key rings sit in the bowl by the door.",
-      "challenge": "Child describes Mom's ring as the round one with the blue bead, and remembers where he last saw it."
+      "challenge": "Child describes Dad's ring as the round one with the blue bead, and remembers where he last saw it."
     },
     {
       "title": "The lost remote",

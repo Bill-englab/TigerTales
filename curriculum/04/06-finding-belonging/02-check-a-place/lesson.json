@@ -2,44 +2,90 @@
   "title": "Under the Bed?",
   "title_zh": "在床底下吗",
   "can_do": "用位置词提出能实际检查的猜测，排除一个位置后再换地方，并说出找到的位置。",
-  "conversation_move": {"id": "check-location", "label": "check a possible location"},
+  "conversation_move": {
+    "id": "check-location",
+    "label": "check a possible location"
+  },
   "trigger": "Child has one sock on but cannot find the other; he checks under the bed first, then guesses the chair.",
-  "recycle": ["ask-location", "repair-meaning"],
-  "roles": ["child", "mom"],
+  "recycle": [
+    "ask-location",
+    "repair-meaning"
+  ],
+  "roles": [
+    "child",
+    "dad"
+  ],
   "setting": "Finding the other sock while getting ready in the bedroom.",
-  "essential_props": ["one pair of blue socks with yellow toes, with one worn and one missing"],
+  "essential_props": [
+    "one pair of blue socks with yellow toes, with one worn and one missing"
+  ],
   "dialogue_contract": "continuous-dialogue-v1",
   "dialogue": {
     "turns": [
-      {"speaker": "mom", "line": "One sock is on, one sock is missing."},
-      {"speaker": "child", "line": "Is it under the bed?"},
-      {"speaker": "mom", "line": "Let's have a look."},
-      {"speaker": "child", "line": "Not under the bed. Maybe it's on the chair."},
-      {"speaker": "mom", "line": "Good thinking. Check the seat."},
-      {"speaker": "child", "line": "Found it, on the chair! I sat right on it."},
-      {"speaker": "mom", "line": "There's your blue sock with yellow toes."},
-      {"speaker": "child", "line": "Now I have both socks. Ready for shoes."}
+      {
+        "speaker": "dad",
+        "line": "One sock is on, one sock is missing."
+      },
+      {
+        "speaker": "child",
+        "line": "Is it under the bed?"
+      },
+      {
+        "speaker": "dad",
+        "line": "Let's have a look."
+      },
+      {
+        "speaker": "child",
+        "line": "Not under the bed. Maybe it's on the chair."
+      },
+      {
+        "speaker": "dad",
+        "line": "Good thinking. Check the seat."
+      },
+      {
+        "speaker": "child",
+        "line": "Found it, on the chair! I sat right on it."
+      },
+      {
+        "speaker": "dad",
+        "line": "There's your blue sock with yellow toes."
+      },
+      {
+        "speaker": "child",
+        "line": "Now I have both socks. Ready for shoes."
+      }
     ]
   },
   "replay_cards": [
     {
       "title": "Check the coat pocket",
       "setting": "Looking for a mitten by the door",
-      "change": "The mitten is missing from its basket. When Child asks about the coat pocket, Mom mishears and starts looking under the coat instead.",
-      "challenge": "Child first asks where his mitten is, then whether it is in his coat pocket. As Mom checks under the coat, he corrects the location: \"No, I mean in the pocket.\" Mom acknowledges and holds the coat steady. Child checks the reachable pocket, finds the mitten there and puts it with its partner."
+      "change": "The mitten is missing from its basket. When Child asks about the coat pocket, Dad mishears and starts looking under the coat instead.",
+      "challenge": "Child first asks where his mitten is, then whether it is in his coat pocket. As Dad checks under the coat, he corrects the location: \"No, I mean in the pocket.\" Dad acknowledges and holds the coat steady. Child checks the reachable pocket, finds the mitten there and puts it with its partner."
     },
     {
       "title": "Check under the book",
       "setting": "Drawing together at the family table",
       "change": "Child cannot find his red crayon, but its red tip shows from under the corner of a book.",
-      "challenge": "Child notices the red tip and asks whether his crayon is under the book. Mom agrees to check and lifts just the corner. Child finds the same red crayon, states that it was under the book, takes it and continues coloring."
+      "challenge": "Child notices the red tip and asks whether his crayon is under the book. Dad agrees to check and lifts just the corner. Child finds the same red crayon, states that it was under the book, takes it and continues coloring."
     }
   ],
   "parent_support": [
     "Actually check the child's first safe suggestion. Only rule it out after looking, then let him suggest another reachable place.",
     "Keep the sock in its original place until he finds it. If you misunderstand a location, accept his correction and look where he meant."
   ],
-  "reviews": {"motivation": true, "causality": true, "physical": true, "adult_behavior": true, "child_language": true, "knowledge_safety": true, "resolution": true, "replay_logic": true, "character_continuity": true, "emotion_stability": true},
+  "reviews": {
+    "motivation": true,
+    "causality": true,
+    "physical": true,
+    "adult_behavior": true,
+    "child_language": true,
+    "knowledge_safety": true,
+    "resolution": true,
+    "replay_logic": true,
+    "character_continuity": true,
+    "emotion_stability": true
+  },
   "status": "language_reviewed",
-  "content_revision": 3
+  "content_revision": 4
 }

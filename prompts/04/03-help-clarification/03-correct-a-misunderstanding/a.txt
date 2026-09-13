@@ -1,6 +1,6 @@
 The Blue Cup — Clip 1
-Production prompt draft | Source: curriculum/04/03-help-clarification/03-correct-a-misunderstanding/lesson.json | Content revision: 3
-Source SHA256: 77aa50cd1b03251cb1720cc71442b0d1fff56c800fc201aac62d773c05be6caa
+Production prompt draft | Source: curriculum/04/03-help-clarification/03-correct-a-misunderstanding/lesson.json | Content revision: 4
+Source SHA256: bd8bb7fa1bbeef0ecb7e9a94fbd36fb903b0a53e6923d565bbe35d081b569a5d
 The source/revision above are production metadata, not spoken words or on-screen text.
 
 VIDEO AND SOUND
@@ -8,34 +8,34 @@ Create one 16:9 animated clip for a preschool family role-play. Pixar-style 3D a
 
 FIXED CAST (only these two)
 Child — a small four-year-old cartoon tiger boy, bright orange fur with bold black stripes, bright attentive eyes full of curiosity, chubby round cheeks, tiny rounded ears, wearing a little yellow T-shirt, short chubby toddler proportions; alert, clever and quick to smile, eyes tracking the conversation; clear natural child voice.
-Pig Mom — a young, pretty cartoon pig mother, soft rosy-pink fur, lighter blush on the cheeks, big warm round eyes with long lashes, small rounded snout, slim young-mother proportions, wearing a coral cardigan over a cream top; sweet gentle mom energy, warm natural adult female voice.
+Dog Dad — a young, friendly cartoon dog father, warm tan-brown fur, big soft floppy ears, bright round eyes with a lively spark, soft round snout, wearing an olive-green casual T-shirt; cheerful warm dad energy, warm natural adult male voice.
 
 EMOTIONAL PERFORMANCE
-Calm, warm and regulated baseline with ordinary kitchen conversation volume. Mom is attentive but briefly mishears a word; Child expects that a clear correction will help.
-Child may show a brief puzzled look and one small head shake at the wrong cup. Mom pauses and acknowledges her mistake without drama. Child supplies the visible handle and confirms the cup with quiet assurance.
-No shouting to repeat a word, accusatory pointing, eye rolling, ashamed posture, angry distortion, exaggerated surprise or repeated intentional misunderstanding. Mom does not insist on green or demand an apology; no oversized relief or victory gesture.
+Calm, warm and regulated baseline with ordinary kitchen conversation volume. Dad is attentive but briefly mishears a word; Child expects that a clear correction will help.
+Child may show a brief puzzled look and one small head shake at the wrong cup. Dad pauses and acknowledges her mistake without drama. Child supplies the visible handle and confirms the cup with quiet assurance.
+No shouting to repeat a word, accusatory pointing, eye rolling, ashamed posture, angry distortion, exaggerated surprise or repeated intentional misunderstanding. Dad does not insist on green or demand an apology; no oversized relief or victory gesture.
 No screaming, extreme excitement, rage, distorted facial or body shapes, frantic gestures or uncontrolled running.
 
 SETTING
 Choosing an empty cup at the kitchen table.
 
 SCENE AND PROP CONTINUITY
-At a quiet kitchen table, Mom sits screen-left and Child screen-right. Child is the four-year-old tiger boy in his unchanged yellow T-shirt. Exactly two empty cups stand within Mom's easy reach: a green cup without a handle at table-left and a blue cup with one clearly visible camera-facing handle at table-center. Neither cup changes color or gains a handle. Use a locked 16:9 medium two-shot showing both faces, hands, both cups and the blue handle. Mom mishears the color once and lifts the green cup; the cups stay with Mom until Child corrects her and adds the handle. No drink, pitcher, pouring, third cup or extra character.
+At a quiet kitchen table, Dad sits screen-left and Child screen-right. Child is the four-year-old tiger boy in his unchanged yellow T-shirt. Exactly two empty cups stand within Dad's easy reach: a green cup without a handle at table-left and a blue cup with one clearly visible camera-facing handle at table-center. Neither cup changes color or gains a handle. Use a locked 16:9 medium two-shot showing both faces, hands, both cups and the blue handle. Dad mishears the color once and lifts the green cup; the cups stay with Dad until Child corrects her and adds the handle. No drink, pitcher, pouring, third cup or extra character.
 Keep base character designs, garment identities, lighting, set and camera consistent across the three clips; allow the explicitly scripted dressing or undressing actions. Track hands and props continuously through the scripted movements rather than freezing their positions. The START FRAME below specifies this clip's current state; do not reset to the scene's initial arrangement. If the generation workflow supports reference frames, reuse the established character references and the preceding clip's final frame; text instructions alone do not guarantee visual consistency.
 
 START FRAME
-The empty green handleless cup stands at table-left and the empty blue handled cup at table-center with its handle facing the camera. Mom and Child have empty hands beside the cups.
+The empty green handleless cup stands at table-left and the empty blue handled cup at table-center with its handle facing the camera. Dad and Child have empty hands beside the cups.
 
 ACTION AND REACTIONS
-Mom indicates the two available cups with a small open-hand gesture during her question. Child requests blue while looking at Mom, without pointing out the handle yet. Mom agrees, looks toward the table having heard the color wrong, lifts the green cup in her right hand and offers it halfway.
+Dad indicates the two available cups with a small open-hand gesture during her question. Child requests blue while looking at Dad, without pointing out the handle yet. Dad agrees, looks toward the table having heard the color wrong, lifts the green cup in her right hand and offers it halfway.
 
 SPOKEN DIALOGUE (verbatim, in order):
-Mom: "Snack time. Which cup would you like?"
+Dad: "Snack time. Which cup would you like?"
 Child: "Can I have the blue cup, please?"
-Mom: "Sure. Here's the green one."
+Dad: "Sure. Here's the green one."
 
 END FRAME
-Mom holds the empty green cup in her right hand just above table-left; the empty blue handled cup remains at table-center; Child waits with empty hands.
+Dad holds the empty green cup in her right hand just above table-left; the empty blue handled cup remains at table-center; Child waits with empty hands.
 Leave a short natural settling beat, without adding speech. Do not repeat earlier clips' lines.
 
 PACING (19 spoken words)

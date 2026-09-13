@@ -1,6 +1,6 @@
-I Can't Find My Mom — Clip 1
-Production prompt draft | Source: curriculum/04/09-outings-safety/03-safe-adult-help/lesson.json | Content revision: 4
-Source SHA256: c58d1875df1ddea4c11870051850aaa94a24c8080ed14c5cb1491ece47181972
+I Can't Find My Dad — Clip 1
+Production prompt draft | Source: curriculum/04/09-outings-safety/03-safe-adult-help/lesson.json | Content revision: 5
+Source SHA256: 8539b9b1859bd1e207d75efb7ba4948fc470bff4b02128acf13e8892cd8e9817
 The source/revision above are production metadata, not spoken words or on-screen text.
 
 VIDEO AND SOUND
@@ -8,34 +8,34 @@ Create one 16:9 animated clip for a preschool family role-play. Pixar-style 3D a
 
 FIXED CAST (only these two)
 Child — a small four-year-old cartoon tiger boy, bright orange fur with bold black stripes, bright attentive eyes full of curiosity, chubby round cheeks, tiny rounded ears, wearing a little yellow T-shirt, short chubby toddler proportions; alert, clever and quick to smile, eyes tracking the conversation; clear natural child voice.
-Pig Mom — a young, pretty cartoon pig mother, soft rosy-pink fur, lighter blush on the cheeks, big warm round eyes with long lashes, small rounded snout, slim young-mother proportions, wearing a coral cardigan over a cream top; sweet gentle mom energy, warm natural adult female voice.
+Dog Dad — a young, friendly cartoon dog father, warm tan-brown fur, big soft floppy ears, bright round eyes with a lively spark, soft round snout, wearing an olive-green casual T-shirt; cheerful warm dad energy, warm natural adult male voice.
 
 EMOTIONAL PERFORMANCE
-Calm, warm and regulated baseline. Both know this is a home rehearsal. Child is attentive and may look mildly serious when practicing the help request; Mom listens supportively at normal volume.
-A small serious look can ease slightly when Mom explains the stay-and-contact plan. Child's agreement is a quiet nod and remaining in place, with no required smile or relief spectacle.
+Calm, warm and regulated baseline. Both know this is a home rehearsal. Child is attentive and may look mildly serious when practicing the help request; Dad listens supportively at normal volume.
+A small serious look can ease slightly when Dad explains the stay-and-contact plan. Child's agreement is a quiet nod and remaining in place, with no required smile or relief spectacle.
 No real separation, hiding, parking lot movement, stranger touch, panic, crying spectacle, terrified staring, frantic searching, rescue drama, forced hug or cheering reunion. Do not add surnames, addresses, phone numbers, quizzes or personal-information displays.
 No screaming, extreme excitement, rage, distorted facial or body shapes, frantic gestures or uncontrolled running.
 
 SETTING
-A calm store-worker rehearsal at a small home desk, with Mom and Child seated together and the familiar living room visible.
+A calm store-worker rehearsal at a small home desk, with Dad and Child seated together and the familiar living room visible.
 
 SCENE AND PROP CONTINUITY
-A clearly domestic living room during calm pretend practice. Mom sits screen left and Child screen right at adjacent sides of a small home desk, within easy conversational distance. A recognizable home sofa stays visible behind them in every clip. Use a locked 16:9 medium two-shot of their faces, resting hands and desk. Mom remains the same pink pig in her coral cardigan over a cream top, with one pretend store-worker badge pinned to the cardigan. Child is the same four-year-old tiger boy in his yellow T-shirt; he/him if needed. Mom explicitly announces her pretend role in the first clip and is understood as the same Mom playing that worker afterward. She never disappears, hides or changes identity. Both remain seated together at home throughout; the desk stands in for a customer-service desk without transforming the room into a shop. No stranger, actual separation, extra helper, outdoor location, phone, call audio or reunion appears. The badge signals a pre-agreed pretend role; it is not a claim that any person with a badge is trustworthy. Leo is only a fictional practice first name.
+A clearly domestic living room during calm pretend practice. Dad sits screen left and Child screen right at adjacent sides of a small home desk, within easy conversational distance. A recognizable home sofa stays visible behind them in every clip. Use a locked 16:9 medium two-shot of their faces, resting hands and desk. Dad remains the same warm tan-brown cartoon dog in his olive-green T-shirt, with one pretend store-worker badge pinned to the cardigan. Child is the same four-year-old tiger boy in his yellow T-shirt; he/him if needed. Dad explicitly announces her pretend role in the first clip and is understood as the same Dad playing that worker afterward. She never disappears, hides or changes identity. Both remain seated together at home throughout; the desk stands in for a customer-service desk without transforming the room into a shop. No stranger, actual separation, extra helper, outdoor location, phone, call audio or reunion appears. The badge signals a pre-agreed pretend role; it is not a claim that any person with a badge is trustworthy. Leo is only a fictional practice first name.
 Keep base character designs, garment identities, lighting, set and camera consistent across the three clips; allow the explicitly scripted dressing or undressing actions. Track hands and props continuously through the scripted movements rather than freezing their positions. The START FRAME below specifies this clip's current state; do not reset to the scene's initial arrangement. If the generation workflow supports reference frames, reuse the established character references and the preceding clip's final frame; text instructions alone do not guarantee visual consistency.
 
 START FRAME
-Mom and Child are seated together at the small desk at home, with the familiar sofa behind them; Mom's pretend worker badge is visible, and each rests their own hands on the desk.
+Dad and Child are seated together at the small desk at home, with the familiar sofa behind them; Dad's pretend worker badge is visible, and each rests their own hands on the desk.
 
 ACTION AND REACTIONS
-Mom announces the practice and that she will pretend to be a store worker, briefly indicating her own badge with her right hand and returning it to the desk. Only then does Child begin the rehearsed missing-parent statement toward Mom, at normal volume with an attentive or slightly serious face. Mom-as-worker responds by reassuring him and asking his name. Keep Mom and the domestic background visible without hiding, searching, leaving a seat or touching Child.
+Dad announces the practice and that she will pretend to be a store worker, briefly indicating her own badge with her right hand and returning it to the desk. Only then does Child begin the rehearsed missing-parent statement toward Dad, at normal volume with an attentive or slightly serious face. Dad-as-worker responds by reassuring him and asking his name. Keep Dad and the domestic background visible without hiding, searching, leaving a seat or touching Child.
 
 SPOKEN DIALOGUE (verbatim, in order):
-Mom: "Let's practice. I'll be the store worker."
+Dad: "Let's practice. I'll be the store worker."
 Child: "I can't find my mom."
-Mom: "You're safe here. What's your name?"
+Dad: "You're safe here. What's your name?"
 
 END FRAME
-Mom and Child remain seated together at the same desk at home, with the sofa and badge visible; both have their own hands resting on the desk as Child prepares to answer Mom's name question.
+Dad and Child remain seated together at the same desk at home, with the sofa and badge visible; both have their own hands resting on the desk as Child prepares to answer Dad's name question.
 Leave a short natural settling beat, without adding speech. Do not repeat earlier clips' lines.
 
 PACING (18 spoken words)

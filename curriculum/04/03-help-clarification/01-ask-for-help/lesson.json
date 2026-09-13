@@ -23,7 +23,7 @@
   },
   "replay_cards": [
     {"title": "Open the lunch box", "setting": "At the kitchen table", "change": "The box slides when Child tries to lift its latch", "challenge": "Child says, 'Can you help me hold the box?' Dad asks where to hold it. Child points to the side away from the latch. Dad steadies that side, Child lifts the latch and opens the lid, then confirms it is open."},
-    {"title": "Zip the coat", "setting": "Before going outside", "change": "The zipper has been started but its bottom lifts when Child pulls", "challenge": "Child asks Mom for help and points to the bottom of the zipper. Mom holds the joined base steady while Child pulls the zipper up. Child checks that the coat is closed, and they go outside together."}
+    {"title": "Zip the coat", "setting": "Before going outside", "change": "The zipper has been started but its bottom lifts when Child pulls", "challenge": "Child asks Dad for help and points to the bottom of the zipper. Dad holds the joined base steady while Child pulls the zipper up. Child checks that the coat is closed, and they go outside together."}
   ],
   "parent_support": ["Let him show the join that will not connect; ask which piece needs support if his first request is unclear.", "Hold only the side he identifies and let him do the connecting. The useful sequence is adult support first, then his own action.", "Once the ring closes, let him test it with the train himself. A brief puzzled look is enough; help is ordinary and does not require visible distress."],
   "reviews": {"motivation": true, "causality": true, "physical": true, "adult_behavior": true, "child_language": true, "knowledge_safety": true, "resolution": true, "replay_logic": true, "character_continuity": true, "emotion_stability": true},

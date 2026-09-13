@@ -1,6 +1,6 @@
 Every Block Needs a Friend — Clip 1
-Production prompt draft | Source: curriculum/05/08-opinions-empathy/03-comfort-a-friend/lesson.json | Content revision: 1
-Source SHA256: 0d7782f31bdf2b8841e987532e9fce0af6e019b62e8b743095c1931239b9a287
+Production prompt draft | Source: curriculum/05/08-opinions-empathy/03-comfort-a-friend/lesson.json | Content revision: 2
+Source SHA256: 92d47fb2b213a05f75027495ace30406f2c6cea1faf21fb17b8f2d47ce791513
 The source/revision above are production metadata, not spoken words or on-screen text.
 
 VIDEO AND SOUND
@@ -8,11 +8,11 @@ Create one 16:9 animated clip for a preschool family role-play. Pixar-style 3D a
 
 FIXED CAST (only these two)
 Child — a small four-year-old cartoon tiger boy, bright orange fur with bold black stripes, bright attentive eyes full of curiosity, chubby round cheeks, tiny rounded ears, wearing a little yellow T-shirt, short chubby toddler proportions; alert, clever and quick to smile, eyes tracking the conversation; clear natural child voice.
-Bear Peer — the same small brown bear in a teal T-shirt in every peer lesson; age four, child-sized proportions and a distinct natural child voice, never an adult.
+Dog Dad — a young, friendly cartoon dog father, warm tan-brown fur, big soft floppy ears, bright round eyes with a lively spark, soft round snout, wearing an olive-green casual T-shirt; cheerful warm dad energy, warm natural adult male voice.
 
 EMOTIONAL PERFORMANCE
 Calm, warm and regulated baseline. Both speak at a normal family volume with small, natural facial movements and gestures.
-Peer shows mild sadness with dropped shoulders and a small pout; Child stays gentle and steady; the sadness eases into hope and a small shared smile.
+Dad shows mild sadness with dropped shoulders and a small pout; Child stays gentle and steady; the sadness eases into hope and a small shared smile.
 No exaggerated surprise, wide-eyed shock, bouncing, raised voices, impatience, blaming or teasing. Any disappointment, worry or sadness stays mild and brief, and the adult helps things stay steady.
 No screaming, extreme excitement, rage, distorted facial or body shapes, frantic gestures or uncontrolled running.
 
@@ -20,22 +20,22 @@ SETTING
 Playroom floor after a tumble.
 
 SCENE AND PROP CONTINUITY
-Playroom floor after a tumble. A low scattered pile of blocks lies at center; Child kneels at screen-right and Peer kneels at screen-left with his shoulders dropped. Locked 16:9 medium two-shot at floor level with both faces and the pile visible.
+Playroom floor after a tumble. A low scattered pile of blocks lies at center; Child kneels at screen-right and Dad kneels at screen-left with his shoulders dropped. Locked 16:9 medium two-shot at floor level with both faces and the pile visible.
 Keep base character designs, garment identities, lighting, set and camera consistent across the three clips; allow the explicitly scripted dressing or undressing actions. Track hands and props continuously through the scripted movements rather than freezing their positions. The START FRAME below specifies this clip's current state; do not reset to the scene's initial arrangement. If the generation workflow supports reference frames, reuse the established character references and the preceding clip's final frame; text instructions alone do not guarantee visual consistency.
 
 START FRAME
-The scattered block pile lies at center; Peer kneels with dropped shoulders looking at it; Child kneels facing him.
+The scattered block pile lies at center; Dad kneels with dropped shoulders looking at it; Child kneels facing him.
 
 ACTION AND REACTIONS
-Peer spreads both hands over the pile while telling the news. Child leans toward him and asks his caring question; Peer touches his own chest once, saying he is fine but the tower is ruined.
+Dad spreads both hands over the pile while telling the news. Child leans toward him and asks his caring question; Dad touches his own chest once, saying he is fine but the tower is ruined.
 
 SPOKEN DIALOGUE (verbatim, in order):
-Peer: "My tower fell down. All of it."
+Dad: "My tower fell down. All of it."
 Child: "Oh no. Are you okay, Max?"
-Peer: "I'm fine, but my tower is ruined."
+Dad: "I'm fine, but my tower is ruined."
 
 END FRAME
-Peer's hands rest on his knees; Child keeps looking at him kindly.
+Dad's hands rest on his knees; Child keeps looking at him kindly.
 Leave a short natural settling beat, without adding speech. Do not repeat earlier clips' lines.
 
 PACING (20 spoken words)

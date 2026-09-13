@@ -6,13 +6,13 @@
     "id": "ask-about-arrangement",
     "label": "ask who, when and what about a family plan"
   },
-  "trigger": "Mom announces a family plan without the details, so Child asks for who, when and what.",
+  "trigger": "Dad announces a family plan without the details, so Child asks for who, when and what.",
   "recycle": [
     "ask-for-detail"
   ],
   "roles": [
     "child",
-    "mom"
+    "dad"
   ],
   "setting": "A weekday morning at the kitchen table.",
   "essential_props": [
@@ -22,7 +22,7 @@
   "dialogue": {
     "turns": [
       {
-        "speaker": "mom",
+        "speaker": "dad",
         "line": "Grandma is visiting us on Saturday."
       },
       {
@@ -30,7 +30,7 @@
         "line": "Who is coming with her?"
       },
       {
-        "speaker": "mom",
+        "speaker": "dad",
         "line": "Just Grandma, and she stays for lunch."
       },
       {
@@ -38,7 +38,7 @@
         "line": "What time does she come?"
       },
       {
-        "speaker": "mom",
+        "speaker": "dad",
         "line": "Her train arrives at ten in the morning."
       },
       {
@@ -46,7 +46,7 @@
         "line": "What should I show her when she comes?"
       },
       {
-        "speaker": "mom",
+        "speaker": "dad",
         "line": "Your new drawing would make her happy."
       },
       {
@@ -54,7 +54,7 @@
         "line": "I'll show the big rainbow one! Can we make pancakes for lunch?"
       },
       {
-        "speaker": "mom",
+        "speaker": "dad",
         "line": "Grandma loves pancakes. Good plan, sweetheart."
       }
     ]
@@ -62,7 +62,7 @@
   "replay_cards": [
     {
       "title": "The dentist visit",
-      "setting": "Mom says Child has a dentist appointment this week.",
+      "setting": "Dad says Child has a dentist appointment this week.",
       "change": "Child does not know when it is or who takes him.",
       "challenge": "Child asks who takes him, what time, and what happens there, then adds one thing he wants to do afterward."
     },
@@ -91,5 +91,5 @@
     "emotion_stability": true
   },
   "status": "draft",
-  "content_revision": 1
+  "content_revision": 2
 }

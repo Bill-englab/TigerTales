@@ -12,7 +12,7 @@
   ],
   "roles": [
     "child",
-    "peer"
+    "dad"
   ],
   "setting": "Playroom floor after a tumble.",
   "essential_props": [
@@ -22,7 +22,7 @@
   "dialogue": {
     "turns": [
       {
-        "speaker": "peer",
+        "speaker": "dad",
         "line": "My tower fell down. All of it."
       },
       {
@@ -30,7 +30,7 @@
         "line": "Oh no. Are you okay, Max?"
       },
       {
-        "speaker": "peer",
+        "speaker": "dad",
         "line": "I'm fine, but my tower is ruined."
       },
       {
@@ -38,7 +38,7 @@
         "line": "It was really tall. I saw you build it."
       },
       {
-        "speaker": "peer",
+        "speaker": "dad",
         "line": "Now it's just a pile of blocks."
       },
       {
@@ -46,7 +46,7 @@
         "line": "Tall towers can be built twice. Want to try together?"
       },
       {
-        "speaker": "peer",
+        "speaker": "dad",
         "line": "Together? You'd help me?"
       },
       {
@@ -87,5 +87,5 @@
     "emotion_stability": true
   },
   "status": "draft",
-  "content_revision": 1
+  "content_revision": 2
 }

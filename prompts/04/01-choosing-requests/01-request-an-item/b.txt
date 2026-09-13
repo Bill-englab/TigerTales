@@ -1,6 +1,6 @@
 The Apple, Please — Clip 2
-Production prompt draft | Source: curriculum/04/01-choosing-requests/01-request-an-item/lesson.json | Content revision: 3
-Source SHA256: 7d43b5fbc4ad6a75992eb7ff9f6e845a4856c8368e1eb0cac6f9accf8db65fc6
+Production prompt draft | Source: curriculum/04/01-choosing-requests/01-request-an-item/lesson.json | Content revision: 4
+Source SHA256: edda77794ed6068111a07cd179475f8798b242ebe0ac667dca3284a2d51c44d9
 The source/revision above are production metadata, not spoken words or on-screen text.
 
 VIDEO AND SOUND
@@ -8,11 +8,11 @@ Create one 16:9 animated clip for a preschool family role-play. Pixar-style 3D a
 
 FIXED CAST (only these two)
 Child — a small four-year-old cartoon tiger boy, bright orange fur with bold black stripes, bright attentive eyes full of curiosity, chubby round cheeks, tiny rounded ears, wearing a little yellow T-shirt, short chubby toddler proportions; alert, clever and quick to smile, eyes tracking the conversation; clear natural child voice.
-Pig Mom — a young, pretty cartoon pig mother, soft rosy-pink fur, lighter blush on the cheeks, big warm round eyes with long lashes, small rounded snout, slim young-mother proportions, wearing a coral cardigan over a cream top; sweet gentle mom energy, warm natural adult female voice.
+Dog Dad — a young, friendly cartoon dog father, warm tan-brown fur, big soft floppy ears, bright round eyes with a lively spark, soft round snout, wearing an olive-green casual T-shirt; cheerful warm dad energy, warm natural adult male voice.
 
 EMOTIONAL PERFORMANCE
 Calm, warm and regulated baseline. Both are attentive and relaxed, using normal family conversation volume and small, proportionate facial movements.
-Child briefly accepts a small wait and adds a polite extra request. Mom responds warmly and hands over the apple; the ending allows a small smile of quiet pleasure.
+Child briefly accepts a small wait and adds a polite extra request. Dad responds warmly and hands over the apple; the ending allows a small smile of quiet pleasure.
 No exaggerated surprise, wide-eyed shock, bouncing, raised voices, impatience, blaming or teasing. The wait stays ordinary and short, with no tapping foot, sighing or body jerk.
 No screaming, extreme excitement, rage, distorted facial or body shapes, frantic gestures or uncontrolled running.
 
@@ -20,21 +20,21 @@ SETTING
 Snack time at home.
 
 SCENE AND PROP CONTINUITY
-At a quiet home snack counter, Mom stands screen-left and Child stands screen-right. Child is the four-year-old tiger boy and keeps his yellow T-shirt throughout. A single red apple rests at center-right and one banana at center-left within Mom's reach, plus one small empty plate that appears only after Child asks for it. All items remain visible and keep their colors and identities. Use the same locked 16:9 medium two-shot throughout; show both faces, hands and the countertop. No extra fruit or eating while speaking.
+At a quiet home snack counter, Dad stands screen-left and Child stands screen-right. Child is the four-year-old tiger boy and keeps his yellow T-shirt throughout. A single red apple rests at center-right and one banana at center-left within Dad's reach, plus one small empty plate that appears only after Child asks for it. All items remain visible and keep their colors and identities. Use the same locked 16:9 medium two-shot throughout; show both faces, hands and the countertop. No extra fruit or eating while speaking.
 Keep base character designs, garment identities, lighting, set and camera consistent across the three clips; allow the explicitly scripted dressing or undressing actions. Track hands and props continuously through the scripted movements rather than freezing their positions. The START FRAME below specifies this clip's current state; do not reset to the scene's initial arrangement. If the generation workflow supports reference frames, reuse the established character references and the preceding clip's final frame; text instructions alone do not guarantee visual consistency.
 
 START FRAME
-Mom and Child face each other; the red apple remains at center-right and the banana at center-left; Child waits with empty hands.
+Dad and Child face each other; the red apple remains at center-right and the banana at center-left; Child waits with empty hands.
 
 ACTION AND REACTIONS
-Mom lifts the red apple and gives it a small wipe with a cloth while saying it is still wet; she keeps the movement short and ordinary. Child accepts the wait and asks for a small plate. Mom sets one empty plate on the counter and rests the apple beside it.
+Dad lifts the red apple and gives it a small wipe with a cloth while saying it is still wet; she keeps the movement short and ordinary. Child accepts the wait and asks for a small plate. Dad sets one empty plate on the counter and rests the apple beside it.
 
 SPOKEN DIALOGUE (verbatim, in order):
-Mom: "Sure. It's still a little wet from washing. Just a second."
+Dad: "Sure. It's still a little wet from washing. Just a second."
 Child: "Okay, I'll wait. Can I have a small plate too?"
 
 END FRAME
-Mom's right hand rests beside a now-dry red apple and one empty plate at center-right; the banana remains at center-left; Child waits with empty hands.
+Dad's right hand rests beside a now-dry red apple and one empty plate at center-right; the banana remains at center-left; Child waits with empty hands.
 Leave a short natural settling beat, without adding speech. Do not repeat earlier clips' lines.
 
 PACING (21 spoken words)

@@ -2,31 +2,88 @@
   "title": "Show Me Again",
   "title_zh": "再给我示范一次",
   "can_do": "听不懂一个指令时直接说明，并请求一次示范。",
-  "conversation_move": {"id": "signal-nonunderstanding", "label": "say I do not understand"},
-  "trigger": "Rabbit Teacher gives a clap-then-tap pattern; Child does not understand the order and asks to see it once before trying.",
-  "recycle": ["request-help"],
-  "roles": ["child", "teacher"],
-  "setting": "A short hands-and-knees movement game in a quiet school corner.",
+  "conversation_move": {
+    "id": "signal-nonunderstanding",
+    "label": "say I do not understand"
+  },
+  "trigger": "Dog Dad gives a clap-then-tap pattern; Child does not understand the order and asks to see it once before trying.",
+  "recycle": [
+    "request-help"
+  ],
+  "roles": [
+    "child",
+    "dad"
+  ],
+  "setting": "A short hands-and-knees movement game in a quiet corner at home.",
   "essential_props": [],
   "dialogue_contract": "continuous-dialogue-v1",
   "dialogue": {
     "turns": [
-      {"speaker": "teacher", "line": "New game. Clap your hands, then tap your knees."},
-      {"speaker": "child", "line": "I don't understand. Can you show me?"},
-      {"speaker": "teacher", "line": "Of course. Watch my hands."},
-      {"speaker": "child", "line": "First clap, then tap. Like that?"},
-      {"speaker": "teacher", "line": "Exactly. Now you try."},
-      {"speaker": "child", "line": "Clap... and tap. I understand now!"},
-      {"speaker": "teacher", "line": "You've got the order."},
-      {"speaker": "child", "line": "Clap and tap! This game is fun."}
+      {
+        "speaker": "dad",
+        "line": "New game. Clap your hands, then tap your knees."
+      },
+      {
+        "speaker": "child",
+        "line": "I don't understand. Can you show me?"
+      },
+      {
+        "speaker": "dad",
+        "line": "Of course. Watch my hands."
+      },
+      {
+        "speaker": "child",
+        "line": "First clap, then tap. Like that?"
+      },
+      {
+        "speaker": "dad",
+        "line": "Exactly. Now you try."
+      },
+      {
+        "speaker": "child",
+        "line": "Clap... and tap. I understand now!"
+      },
+      {
+        "speaker": "dad",
+        "line": "You've got the order."
+      },
+      {
+        "speaker": "child",
+        "line": "Clap and tap! This game is fun."
+      }
     ]
   },
   "replay_cards": [
-    {"title": "Show me beside", "setting": "A small sorting game", "change": "Teacher asks Child to place a card beside the box, but Child is unsure of the location", "challenge": "Child says it is unclear and asks to see an example. Teacher places a separate card beside the box. Child checks the location by pointing, then puts his own card beside the box and confirms that he understands."},
-    {"title": "Show me fold", "setting": "Folding napkins at home", "change": "Dad asks for a napkin folded in half, but Child does not know which edges to bring together", "challenge": "Child says, 'I don't understand. Can you show me?' Dad slowly folds his own napkin once. Child points to the matching edges of his second napkin to check, folds it himself, and places it beside Dad's."}
+    {
+      "title": "Show me beside",
+      "setting": "A small sorting game",
+      "change": "Dad asks Child to place a card beside the box, but Child is unsure of the location",
+      "challenge": "Child says it is unclear and asks to see an example. Dad places a separate card beside the box. Child checks the location by pointing, then puts his own card beside the box and confirms that he understands."
+    },
+    {
+      "title": "Show me fold",
+      "setting": "Folding napkins at home",
+      "change": "Dad asks for a napkin folded in half, but Child does not know which edges to bring together",
+      "challenge": "Child says, 'I don't understand. Can you show me?' Dad slowly folds his own napkin once. Child points to the matching edges of his second napkin to check, folds it himself, and places it beside Dad's."
+    }
   ],
-  "parent_support": ["Treat not understanding as useful information. A brief puzzled look and an ordinary request are enough; do not demand guessing or an apology.", "After he asks, show one slow, visible clap followed by one gentle tap on your own knees. Keep your voice normal and your hands in view.", "Answer his order check, then let him perform the pattern. Do not move his hands, clap over him, add props, or turn success into theatrical praise."],
-  "reviews": {"motivation": true, "causality": true, "physical": true, "adult_behavior": true, "child_language": true, "knowledge_safety": true, "resolution": true, "replay_logic": true, "character_continuity": true, "emotion_stability": true},
+  "parent_support": [
+    "Treat not understanding as useful information. A brief puzzled look and an ordinary request are enough; do not demand guessing or an apology.",
+    "After he asks, show one slow, visible clap followed by one gentle tap on your own knees. Keep your voice normal and your hands in view.",
+    "Answer his order check, then let him perform the pattern. Do not move his hands, clap over him, add props, or turn success into theatrical praise."
+  ],
+  "reviews": {
+    "motivation": true,
+    "causality": true,
+    "physical": true,
+    "adult_behavior": true,
+    "child_language": true,
+    "knowledge_safety": true,
+    "resolution": true,
+    "replay_logic": true,
+    "character_continuity": true,
+    "emotion_stability": true
+  },
   "status": "language_reviewed",
-  "content_revision": 3
+  "content_revision": 4
 }

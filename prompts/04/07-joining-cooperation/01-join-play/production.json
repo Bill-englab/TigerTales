@@ -1,29 +1,40 @@
 {
-  "content_revision": 3,
-  "scene": "A simple home play mat, Bear Peer kneeling screen left and Child kneeling screen right within easy reach of the same toy road. Peer is the same small brown bear, age four, in his teal T-shirt; Child is the four-year-old tiger boy in his yellow T-shirt. Use exactly one modular road-and-bridge set: four wide tan straight road pieces and one low blue arched bridge piece with built-in ramps. Three tan pieces already form a short straight road pointing toward the clear space between the children; the fourth tan piece lies beside Peer's right knee, and the single blue bridge lies beside Child's right knee. The matching pieces simply meet end to end on the mat, without delicate fasteners or separate supports. No cars, additional blocks or props. Locked 16:9 medium two-shot shows both faces, hands and the entire short road.",
+  "content_revision": 4,
+  "scene": "A simple home play mat, Dog Dad kneeling screen left and Child kneeling screen right within easy reach of the same toy road. Dad is the same warm tan-brown cartoon dog in his olive-green T-shirt; Child is the four-year-old tiger boy in his yellow T-shirt. Use exactly one modular road-and-bridge set: four wide tan straight road pieces and one low blue arched bridge piece with built-in ramps. Three tan pieces already form a short straight road pointing toward the clear space between the children; the fourth tan piece lies beside Dad's right knee, and the single blue bridge lies beside Child's right knee. The matching pieces simply meet end to end on the mat, without delicate fasteners or separate supports. No cars, additional blocks or props. Locked 16:9 medium two-shot shows both faces, hands and the entire short road.",
   "emotion": {
-    "baseline": "Calm, warm and regulated baseline. Both friends are interested in the building task and speak at normal play volume.",
-    "allowed_shift": "Peer considers the offer and checks that the bridge serves his road before agreeing. Child shows a small thoughtful look while explaining the connection; their finished connection earns only small smiles and a quiet nod.",
+    "baseline": "Calm, warm and regulated baseline. Both of them are interested in the building task and speak at normal play volume.",
+    "allowed_shift": "Dad considers the offer and checks that the bridge serves his road before agreeing. Child shows a small thoughtful look while explaining the connection; their finished connection earns only small smiles and a quiet nod.",
     "forbidden": "No automatic agreement, pressured smiling, shouting, jumping frenzy, triumphant bouncing, forceful grabbing or elastic facial expressions. Keep faces and bodies in their normal proportions and all gestures small."
   },
   "clips": [
     {
-      "turns": [0, 1, 2, 3],
-      "start": "Peer kneels left with his fingertips on the third of three connected tan road pieces; the fourth tan piece lies beside his right knee. Child kneels right with the blue bridge untouched beside his right knee.",
-      "action": "Peer straightens the third tan piece by a few centimeters as he describes his road and the bridge it needs. Child watches, asks to join and offers to build the bridge, keeping his hands in his own space. Peer checks whether the bridge will join his road; he does not agree before Child answers. Child explains that the blue bridge fits at the road's end so the road goes on, with a small gesture along the road's continuation. Both pieces stay on the mat until the shared plan is agreed.",
-      "end": "The three tan road pieces form a straight connected line. Peer rests his hands beside the fourth tan piece with a small accepting nod, and Child faces him with both hands beside the untouched blue bridge."
+      "turns": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "start": "Dad kneels left with his fingertips on the third of three connected tan road pieces; the fourth tan piece lies beside his right knee. Child kneels right with the blue bridge untouched beside his right knee.",
+      "action": "Dad straightens the third tan piece by a few centimeters as he describes his road and the bridge it needs. Child watches, asks to join and offers to build the bridge, keeping his hands in his own space. Dad checks whether the bridge will join his road; he does not agree before Child answers. Child explains that the blue bridge fits at the road's end so the road goes on, with a small gesture along the road's continuation. Both pieces stay on the mat until the shared plan is agreed.",
+      "end": "The three tan road pieces form a straight connected line. Dad rests his hands beside the fourth tan piece with a small accepting nod, and Child faces him with both hands beside the untouched blue bridge."
     },
     {
-      "turns": [4, 5],
-      "start": "The three tan road pieces form a straight connected line. Peer rests his hands beside the fourth tan piece with a small accepting nod, and Child faces him with both hands beside the untouched blue bridge.",
-      "action": "During his turn Peer lifts the fourth tan piece once and places it against the open road end. Child then lifts the one blue bridge and sets its ramp flush against that new tan piece, reporting the fit only after the visible connection. These are two short placements within easy reach; no rebuilding or separate bridge assembly occurs.",
-      "end": "All four tan road pieces form one connected line ending at the blue arched bridge. Both children have released the pieces and look at the finished connection with small smiles; no loose pieces or cars have appeared."
+      "turns": [
+        4,
+        5
+      ],
+      "start": "The three tan road pieces form a straight connected line. Dad rests his hands beside the fourth tan piece with a small accepting nod, and Child faces him with both hands beside the untouched blue bridge.",
+      "action": "During his turn Dad lifts the fourth tan piece once and places it against the open road end. Child then lifts the one blue bridge and sets its ramp flush against that new tan piece, reporting the fit only after the visible connection. These are two short placements within easy reach; no rebuilding or separate bridge assembly occurs.",
+      "end": "All four tan road pieces form one connected line ending at the blue arched bridge. Both of them have released the pieces and look at the finished connection with small smiles; no loose pieces or cars have appeared."
     },
     {
-      "turns": [6, 7],
-      "start": "All four tan road pieces form one connected line ending at the blue arched bridge. Both children have released the pieces and look at the finished connection with small smiles; no loose pieces or cars have appeared.",
-      "action": "Peer looks along the whole line and acknowledges their longer road with a small smile. Child rests one hand lightly near the bridge and sums up the combination — Peer's road plus his bridge — with a quiet, pleased tone. No further building, cars or new props appear; the two friends simply share the finished result.",
-      "end": "The connected road-and-bridge line stays complete on the mat. Peer kneels screen-left and Child screen-right with empty hands and small shared smiles, ready to keep playing together."
+      "turns": [
+        6,
+        7
+      ],
+      "start": "All four tan road pieces form one connected line ending at the blue arched bridge. Both of them have released the pieces and look at the finished connection with small smiles; no loose pieces or cars have appeared.",
+      "action": "Dad looks along the whole line and acknowledges their longer road with a small smile. Child rests one hand lightly near the bridge and sums up the combination — Dad's road plus his bridge — with a quiet, pleased tone. No further building, cars or new props appear; the two of them simply share the finished result.",
+      "end": "The connected road-and-bridge line stays complete on the mat. Dad kneels screen-left and Child screen-right with empty hands and small shared smiles, ready to keep playing together."
     }
   ]
 }

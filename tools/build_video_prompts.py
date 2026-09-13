@@ -28,9 +28,6 @@ VISUAL_STYLE = (
 CAST = {
     "child": "Child — a small four-year-old cartoon tiger boy, bright orange fur with bold black stripes, bright attentive eyes full of curiosity, chubby round cheeks, tiny rounded ears, wearing a little yellow T-shirt, short chubby toddler proportions; alert, clever and quick to smile, eyes tracking the conversation; clear natural child voice.",
     "dad": "Dog Dad — a young, friendly cartoon dog father, warm tan-brown fur, big soft floppy ears, bright round eyes with a lively spark, soft round snout, wearing an olive-green casual T-shirt; cheerful warm dad energy, warm natural adult male voice.",
-    "mom": "Pig Mom — a young, pretty cartoon pig mother, soft rosy-pink fur, lighter blush on the cheeks, big warm round eyes with long lashes, small rounded snout, slim young-mother proportions, wearing a coral cardigan over a cream top; sweet gentle mom energy, warm natural adult female voice.",
-    "teacher": "Rabbit Teacher — a cream rabbit with upright ears and a lavender cardigan, calm natural adult voice.",
-    "peer": "Bear Peer — the same small brown bear in a teal T-shirt in every peer lesson; age four, child-sized proportions and a distinct natural child voice, never an adult.",
 }
 PARTS = ("A", "B", "C")
 LEGACY_CHILD_CAST = "Child — a four-year-old cartoon tiger, orange fur with black stripes, yellow T-shirt, short rounded toddler proportions; clear natural child voice."

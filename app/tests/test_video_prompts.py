@@ -23,17 +23,17 @@ def renderer():
 @pytest.fixture
 def source():
     lesson = {
-        "title": "Please help", "content_revision": 1, "roles": ["child", "mom"],
+        "title": "Please help", "content_revision": 1, "roles": ["child", "dad"],
         "setting": "At home.", "essential_props": ["a box"],
         "parts": [
             {"id": "A", "beat": "goal", "turns": [{"speaker": "child", "line": "Can you help me?"}]},
-            {"id": "B", "beat": "change", "turns": [{"speaker": "mom", "line": "The lid is stuck."}]},
-            {"id": "C", "beat": "resolve", "turns": [{"speaker": "child", "line": "Thank you, Mom!"}]},
+            {"id": "B", "beat": "change", "turns": [{"speaker": "dad", "line": "The lid is stuck."}]},
+            {"id": "C", "beat": "resolve", "turns": [{"speaker": "child", "line": "Thank you, Dad!"}]},
         ],
     }
-    production = {"content_revision": 1, "scene": "Mom left, Child right, box between them.", "parts": {
+    production = {"content_revision": 1, "scene": "Dad left, Child right, box between them.", "parts": {
         "A": {"start": "Lid closed.", "action": "Child reaches for the lid.", "end": "Child holds lid."},
-        "B": {"start": "Child holds lid.", "action": "Mom loosens the lid.", "end": "Lid loose."},
+        "B": {"start": "Child holds lid.", "action": "Dad loosens the lid.", "end": "Lid loose."},
         "C": {"start": "Lid loose.", "action": "Child opens it.", "end": "Lid open."},
     }}
     return lesson, production
@@ -45,9 +45,9 @@ def v2_source(source):
     lesson["dialogue_contract"] = "three-by-ten-v2"
     for part in lesson["parts"]:
         part["turns"] = [
-            {"speaker": "mom", "line": "Would you like some help?"},
-            {"speaker": "child", "line": "Yes, please help me, Mom."},
-            {"speaker": "mom", "line": "Let us open it together."},
+            {"speaker": "dad", "line": "Would you like some help?"},
+            {"speaker": "child", "line": "Yes, please help me, Dad."},
+            {"speaker": "dad", "line": "Let us open it together."},
         ]
     production["emotion"] = {
         "baseline": "Calm, warm and regulated baseline.",
@@ -60,12 +60,12 @@ def v2_source(source):
 def test_exports_exact_lines_in_their_own_parts_with_only_the_used_cast(source):
     result = renderer().render_prompts(*source, "curriculum/04/01-test/01-help/lesson.json")
     assert list(result) == ["a", "b", "c"]
-    expected = {'a': 'Child: "Can you help me?"', 'b': 'Mom: "The lid is stuck."', 'c': 'Child: "Thank you, Mom!"'}
+    expected = {'a': 'Child: "Can you help me?"', 'b': 'Dad: "The lid is stuck."', 'c': 'Child: "Thank you, Dad!"'}
     for part, text in result.items():
         dialogue = text.split("SPOKEN DIALOGUE (verbatim, in order):\n")[1].split("\n\n")[0]
         assert dialogue == expected[part]
-        assert "Pig Mom" in text and "pig mother" in text and "tiger" in text
-        assert "Dog Dad" not in text and "Rabbit Teacher" not in text and "Bear Peer" not in text
+        assert "Dog Dad" in text and "tiger" in text
+        assert "Pig Mom" not in text and "Rabbit Teacher" not in text and "Bear Peer" not in text
         assert "16:9" in text and "10 seconds" in text
 
 
@@ -140,7 +140,7 @@ def test_v2_renders_restrained_emotion_boy_cast_and_ten_second_limit(v2_source):
         assert not re.search(r"\b(she|her|hers)\b", text, re.IGNORECASE)
         assert "12-15 seconds" not in text and "PACING REVIEW" not in text
         dialogue = text.split("SPOKEN DIALOGUE (verbatim, in order):\n")[1].split("\n\n")[0]
-        assert dialogue == 'Mom: "Would you like some help?"\nChild: "Yes, please help me, Mom."\nMom: "Let us open it together."'
+        assert dialogue == 'Dad: "Would you like some help?"\nChild: "Yes, please help me, Dad."\nDad: "Let us open it together."'
 
 
 def test_rejects_unknown_nonempty_dialogue_contract_before_rendering(v2_source):

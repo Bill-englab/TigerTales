@@ -1,6 +1,6 @@
 Not Ready Yet — Clip 1
 Production prompt draft | Source: curriculum/04/02-refusal-negotiation/01-not-ready-yet/lesson.json | Content revision: 5
-Source SHA256: 04b6e2a5d1b552fdaf6e1bccf8093a678382679bdc1ff9ef032f8727833e3c7c
+Source SHA256: 8936e61f9874cc4368adfd90fe6d22621da4d8ab78f64b8bf69cc8ccfd5dca50
 The source/revision above are production metadata, not spoken words or on-screen text.
 
 VIDEO AND SOUND

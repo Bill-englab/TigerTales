@@ -1,6 +1,6 @@
 The Hugging Dragon — Clip 1
-Production prompt draft | Source: curriculum/05/08-opinions-empathy/02-disagree-politely/lesson.json | Content revision: 1
-Source SHA256: 53e280788648b94fde32affa7f5c104c1e55c205fdc2d314fdb6810a011bded3
+Production prompt draft | Source: curriculum/05/08-opinions-empathy/02-disagree-politely/lesson.json | Content revision: 2
+Source SHA256: 58c5af0b0cf4abb89a245f637f4f58544cf78341a7dc82e91d80ba56eb4e037c
 The source/revision above are production metadata, not spoken words or on-screen text.
 
 VIDEO AND SOUND
@@ -8,7 +8,7 @@ Create one 16:9 animated clip for a preschool family role-play. Pixar-style 3D a
 
 FIXED CAST (only these two)
 Child — a small four-year-old cartoon tiger boy, bright orange fur with bold black stripes, bright attentive eyes full of curiosity, chubby round cheeks, tiny rounded ears, wearing a little yellow T-shirt, short chubby toddler proportions; alert, clever and quick to smile, eyes tracking the conversation; clear natural child voice.
-Bear Peer — the same small brown bear in a teal T-shirt in every peer lesson; age four, child-sized proportions and a distinct natural child voice, never an adult.
+Dog Dad — a young, friendly cartoon dog father, warm tan-brown fur, big soft floppy ears, bright round eyes with a lively spark, soft round snout, wearing an olive-green casual T-shirt; cheerful warm dad energy, warm natural adult male voice.
 
 EMOTIONAL PERFORMANCE
 Calm, warm and regulated baseline. Both speak at a normal family volume with small, natural facial movements and gestures.
@@ -20,19 +20,19 @@ SETTING
 A pretend game on the playroom rug.
 
 SCENE AND PROP CONTINUITY
-Playroom rug. Child and Peer sit cross-legged facing each other, Child at screen-right and Peer at screen-left, both with empty hands. The dragon and the treasure are imaginary and never shown as props. Locked 16:9 medium two-shot at floor level.
+Playroom rug. Child and Dad sit cross-legged facing each other, Child at screen-right and Dad at screen-left, both with empty hands. The dragon and the treasure are imaginary and never shown as props. Locked 16:9 medium two-shot at floor level.
 Keep base character designs, garment identities, lighting, set and camera consistent across the three clips; allow the explicitly scripted dressing or undressing actions. Track hands and props continuously through the scripted movements rather than freezing their positions. The START FRAME below specifies this clip's current state; do not reset to the scene's initial arrangement. If the generation workflow supports reference frames, reuse the established character references and the preceding clip's final frame; text instructions alone do not guarantee visual consistency.
 
 START FRAME
-Child and Peer sit cross-legged facing each other with empty hands.
+Child and Dad sit cross-legged facing each other with empty hands.
 
 ACTION AND REACTIONS
-Peer raises claw hands for the scary dragon. Child holds one palm out gently while saying he likes the idea but feels worried; Peer shrugs with open hands while asking again.
+Dad raises claw hands for the scary dragon. Child holds one palm out gently while saying he likes the idea but feels worried; Dad shrugs with open hands while asking again.
 
 SPOKEN DIALOGUE (verbatim, in order):
-Peer: "Let's pretend our dragon is scary and mean!"
+Dad: "Let's pretend our dragon is scary and mean!"
 Child: "I like your idea, but scary dragons make me worried."
-Peer: "Not even a little bit scary?"
+Dad: "Not even a little bit scary?"
 
 END FRAME
 Both sit with relaxed hands, thinking.

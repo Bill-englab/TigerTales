@@ -2,33 +2,86 @@
   "title": "One Book Before Bed",
   "title_zh": "睡前读一本",
   "can_do": "在一本故事后关灯的约定内提出请求、选定书，并在读完后接受睡觉。",
-  "conversation_move": {"id": "request-before-boundary", "label": "request one thing before a boundary"},
-  "trigger": "Mom offers one story before lights out, and Child chooses the blue sleepy-bear book for that agreed time.",
-  "recycle": ["request-item", "specify-choice"],
-  "roles": ["child", "mom"],
+  "conversation_move": {
+    "id": "request-before-boundary",
+    "label": "request one thing before a boundary"
+  },
+  "trigger": "Dad offers one story before lights out, and Child chooses the blue sleepy-bear book for that agreed time.",
+  "recycle": [
+    "request-item",
+    "specify-choice"
+  ],
+  "roles": [
+    "child",
+    "dad"
+  ],
   "setting": "A quiet bedtime story together; a brief time transition leads from opening the book to finishing it later.",
-  "essential_props": ["one bedtime book choice: a blue sleepy-bear book and a cream wide-awake-bear book"],
+  "essential_props": [
+    "one bedtime book choice: a blue sleepy-bear book and a cream wide-awake-bear book"
+  ],
   "dialogue_contract": "continuous-dialogue-v1",
   "dialogue": {
     "turns": [
-      {"speaker": "mom", "line": "Bedtime. One story, then lights out."},
-      {"speaker": "child", "line": "Can we read the bear book before bed?"},
-      {"speaker": "mom", "line": "We have two bear books. Which one?"},
-      {"speaker": "child", "line": "The blue one, please. The sleepy bear, not the wide-awake bear."},
-      {"speaker": "mom", "line": "A sleepy story for bedtime. Snuggle in."},
-      {"speaker": "mom", "line": "The end. Lights out now?"},
-      {"speaker": "child", "line": "Yes. Goodnight, sleepy bear. Goodnight, Mom."}
+      {
+        "speaker": "dad",
+        "line": "Bedtime. One story, then lights out."
+      },
+      {
+        "speaker": "child",
+        "line": "Can we read the bear book before bed?"
+      },
+      {
+        "speaker": "dad",
+        "line": "We have two bear books. Which one?"
+      },
+      {
+        "speaker": "child",
+        "line": "The blue one, please. The sleepy bear, not the wide-awake bear."
+      },
+      {
+        "speaker": "dad",
+        "line": "A sleepy story for bedtime. Snuggle in."
+      },
+      {
+        "speaker": "dad",
+        "line": "The end. Lights out now?"
+      },
+      {
+        "speaker": "child",
+        "line": "Yes. Goodnight, sleepy bear. Goodnight, Dad."
+      }
     ]
   },
   "replay_cards": [
-    {"title": "One goodnight song", "setting": "Choosing tonight's activity before lights out", "change": "Mom offers one short song as tonight's bedtime activity", "challenge": "Request a named song, sing it together, and accept lights out when the song finishes"},
-    {"title": "Choose tomorrow's shirt", "setting": "Before getting into bed", "change": "Mom agrees there is time to choose between two shirts already on the chair", "challenge": "Ask to choose tomorrow's shirt, identify one, set it aside, then get into bed as agreed"}
+    {
+      "title": "One goodnight song",
+      "setting": "Choosing tonight's activity before lights out",
+      "change": "Dad offers one short song as tonight's bedtime activity",
+      "challenge": "Request a named song, sing it together, and accept lights out when the song finishes"
+    },
+    {
+      "title": "Choose tomorrow's shirt",
+      "setting": "Before getting into bed",
+      "change": "Dad agrees there is time to choose between two shirts already on the chair",
+      "challenge": "Ask to choose tomorrow's shirt, identify one, set it aside, then get into bed as agreed"
+    }
   ],
   "parent_support": [
     "Offer a real, manageable story with the lights-out boundary, and honor the chosen book.",
     "Read the whole book at a comfortable pace in real practice. The demo's brief time transition represents that reading time; ask about lights out only when the story is finished."
   ],
-  "reviews": {"motivation": true, "causality": true, "physical": true, "adult_behavior": true, "child_language": true, "knowledge_safety": true, "resolution": true, "replay_logic": true, "character_continuity": true, "emotion_stability": true},
+  "reviews": {
+    "motivation": true,
+    "causality": true,
+    "physical": true,
+    "adult_behavior": true,
+    "child_language": true,
+    "knowledge_safety": true,
+    "resolution": true,
+    "replay_logic": true,
+    "character_continuity": true,
+    "emotion_stability": true
+  },
   "status": "language_reviewed",
-  "content_revision": 3
+  "content_revision": 4
 }

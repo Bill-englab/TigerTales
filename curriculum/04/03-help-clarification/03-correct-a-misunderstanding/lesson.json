@@ -2,31 +2,91 @@
   "title": "The Blue Cup",
   "title_zh": "我说的是蓝杯子",
   "can_do": "对方听错时，用简短明确的话重述自己的意思。",
-  "conversation_move": {"id": "repair-meaning", "label": "correct a misunderstanding"},
-  "trigger": "Child asks for the blue cup, but Mom hears green and reaches toward the wrong one; he corrects the color and adds its visible handle so she can check the intended cup.",
-  "recycle": ["request-item", "specify-choice"],
-  "roles": ["child", "mom"],
+  "conversation_move": {
+    "id": "repair-meaning",
+    "label": "correct a misunderstanding"
+  },
+  "trigger": "Child asks for the blue cup, but Dad hears green and reaches toward the wrong one; he corrects the color and adds its visible handle so she can check the intended cup.",
+  "recycle": [
+    "request-item",
+    "specify-choice"
+  ],
+  "roles": [
+    "child",
+    "dad"
+  ],
   "setting": "Choosing an empty cup at the kitchen table.",
-  "essential_props": ["one blue cup with a handle and one green cup without a handle"],
+  "essential_props": [
+    "one blue cup with a handle and one green cup without a handle"
+  ],
   "dialogue_contract": "continuous-dialogue-v1",
   "dialogue": {
     "turns": [
-      {"speaker": "mom", "line": "Snack time. Which cup would you like?"},
-      {"speaker": "child", "line": "Can I have the blue cup, please?"},
-      {"speaker": "mom", "line": "Sure. Here's the green one."},
-      {"speaker": "child", "line": "No, I mean the blue cup. The one with the handle."},
-      {"speaker": "mom", "line": "The blue one with the handle. Got it."},
-      {"speaker": "child", "line": "Yes. The green cup has no handle."},
-      {"speaker": "mom", "line": "Here's your blue cup."},
-      {"speaker": "child", "line": "Thank you. Blue like the sky."}
+      {
+        "speaker": "dad",
+        "line": "Snack time. Which cup would you like?"
+      },
+      {
+        "speaker": "child",
+        "line": "Can I have the blue cup, please?"
+      },
+      {
+        "speaker": "dad",
+        "line": "Sure. Here's the green one."
+      },
+      {
+        "speaker": "child",
+        "line": "No, I mean the blue cup. The one with the handle."
+      },
+      {
+        "speaker": "dad",
+        "line": "The blue one with the handle. Got it."
+      },
+      {
+        "speaker": "child",
+        "line": "Yes. The green cup has no handle."
+      },
+      {
+        "speaker": "dad",
+        "line": "Here's your blue cup."
+      },
+      {
+        "speaker": "child",
+        "line": "Thank you. Blue like the sky."
+      }
     ]
   },
   "replay_cards": [
-    {"title": "The striped socks", "setting": "Choosing his socks before getting dressed", "change": "Mom hears stars instead of stripes and reaches for the pair with stars", "challenge": "Child points away from the star pair and says, 'No, I mean the striped socks, not those.' He traces a stripe on the correct pair. Mom checks the striped pair, Child confirms, and Mom passes them to him so he can put them on."},
-    {"title": "The bear book", "setting": "Choosing a bedtime story", "change": "Dad hears train and picks up the train book after Child asks for the bear story", "challenge": "Child corrects the title and points to the bear on the other cover. Dad puts the train book down and checks the bear book. Child confirms, and they open it to start the requested story."}
+    {
+      "title": "The striped socks",
+      "setting": "Choosing his socks before getting dressed",
+      "change": "Dad hears stars instead of stripes and reaches for the pair with stars",
+      "challenge": "Child points away from the star pair and says, 'No, I mean the striped socks, not those.' He traces a stripe on the correct pair. Dad checks the striped pair, Child confirms, and Dad passes them to him so he can put them on."
+    },
+    {
+      "title": "The bear book",
+      "setting": "Choosing a bedtime story",
+      "change": "Dad hears train and picks up the train book after Child asks for the bear story",
+      "challenge": "Child corrects the title and points to the bear on the other cover. Dad puts the train book down and checks the bear book. Child confirms, and they open it to start the requested story."
+    }
   ],
-  "parent_support": ["Keep exactly two empty cups visible: blue with a handle and green without one. Let a brief ordinary mishearing cause the wrong reach.", "Pause as soon as he corrects the color. Let him add the handle as visible evidence, check the blue cup, and pass it only after he confirms.", "A small head shake and normal voice are enough. Do not insist on the wrong cup, repeat the mistake, require an apology, or make him prove that he spoke clearly."],
-  "reviews": {"motivation": true, "causality": true, "physical": true, "adult_behavior": true, "child_language": true, "knowledge_safety": true, "resolution": true, "replay_logic": true, "character_continuity": true, "emotion_stability": true},
+  "parent_support": [
+    "Keep exactly two empty cups visible: blue with a handle and green without one. Let a brief ordinary mishearing cause the wrong reach.",
+    "Pause as soon as he corrects the color. Let him add the handle as visible evidence, check the blue cup, and pass it only after he confirms.",
+    "A small head shake and normal voice are enough. Do not insist on the wrong cup, repeat the mistake, require an apology, or make him prove that he spoke clearly."
+  ],
+  "reviews": {
+    "motivation": true,
+    "causality": true,
+    "physical": true,
+    "adult_behavior": true,
+    "child_language": true,
+    "knowledge_safety": true,
+    "resolution": true,
+    "replay_logic": true,
+    "character_continuity": true,
+    "emotion_stability": true
+  },
   "status": "language_reviewed",
-  "content_revision": 3
+  "content_revision": 4
 }

@@ -2,29 +2,58 @@
   "title": "Water First",
   "title_zh": "我想先喝水",
   "can_do": "说出身体需要，并说明先要什么，让成人及时提供帮助。",
-  "conversation_move": {"id": "state-body-need", "label": "state a body need"},
-  "trigger": "During a quiet break, Mom offers water and a small snack; Child states his thirst and chooses the water first.",
-  "recycle": ["request-item", "specify-choice"],
-  "roles": ["child", "mom"],
+  "conversation_move": {
+    "id": "state-body-need",
+    "label": "state a body need"
+  },
+  "trigger": "During a quiet break, Dad offers water and a small snack; Child states his thirst and chooses the water first.",
+  "recycle": [
+    "request-item",
+    "specify-choice"
+  ],
+  "roles": [
+    "child",
+    "dad"
+  ],
   "setting": "A quiet break at the home table after play.",
-  "essential_props": ["one tray with a blue cup of water and a small snack"],
+  "essential_props": [
+    "one tray with a blue cup of water and a small snack"
+  ],
   "dialogue_contract": "continuous-dialogue-v1",
   "dialogue": {
     "turns": [
-      {"speaker": "mom", "line": "Let's take a break. There's water and a little snack."},
-      {"speaker": "child", "line": "I'm thirsty, Mom. Can I have the water first?"},
-      {"speaker": "mom", "line": "Water first, sure. Here's your cup."},
-      {"speaker": "child", "line": "Thank you. Just a little drink, then the snack."},
-      {"speaker": "mom", "line": "Take your time."},
-      {"speaker": "child", "line": "I'm not thirsty now. I'll save the snack for later."}
+      {
+        "speaker": "dad",
+        "line": "Let's take a break. There's water and a little snack."
+      },
+      {
+        "speaker": "child",
+        "line": "I'm thirsty, Dad. Can I have the water first?"
+      },
+      {
+        "speaker": "dad",
+        "line": "Water first, sure. Here's your cup."
+      },
+      {
+        "speaker": "child",
+        "line": "Thank you. Just a little drink, then the snack."
+      },
+      {
+        "speaker": "dad",
+        "line": "Take your time."
+      },
+      {
+        "speaker": "child",
+        "line": "I'm not thirsty now. I'll save the snack for later."
+      }
     ]
   },
   "replay_cards": [
     {
       "title": "A snack after drawing",
       "setting": "At home after quiet drawing",
-      "change": "He feels hungry while Mom has a drink and a small snack available",
-      "challenge": "Say the hunger need and ask for the snack first. Mom hands it over promptly; he eats a little, then says whether he wants the drink. No food is withheld for a sentence."
+      "change": "He feels hungry while Dad has a drink and a small snack available",
+      "challenge": "Say the hunger need and ask for the snack first. Dad hands it over promptly; he eats a little, then says whether he wants the drink. No food is withheld for a sentence."
     },
     {
       "title": "Water before the car ride",
@@ -39,11 +68,17 @@
     "Let him take a comfortable sip before he reports how he feels; do not make him speak with water in his mouth."
   ],
   "reviews": {
-    "motivation": true, "causality": true, "physical": true, "adult_behavior": true,
-    "child_language": true, "knowledge_safety": true, "resolution": true, "replay_logic": true,
-    "character_continuity": true, "emotion_stability": true
+    "motivation": true,
+    "causality": true,
+    "physical": true,
+    "adult_behavior": true,
+    "child_language": true,
+    "knowledge_safety": true,
+    "resolution": true,
+    "replay_logic": true,
+    "character_continuity": true,
+    "emotion_stability": true
   },
   "status": "language_reviewed",
-  "content_revision": 3,
-  "dialogue_contract": "continuous-dialogue-v1"
+  "content_revision": 4
 }

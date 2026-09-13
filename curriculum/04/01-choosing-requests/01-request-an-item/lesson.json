@@ -2,33 +2,80 @@
   "title": "The Apple, Please",
   "title_zh": "请给我苹果",
   "can_do": "礼貌请求想要的物品，并在遇到小等待时接受并补充自己的请求。",
-  "conversation_move": {"id": "request-item", "label": "request an item and adjust to a small wait"},
-  "trigger": "Mom says the apple is still wet from washing, so Child must wait a moment and can ask for anything else he needs.",
+  "conversation_move": {
+    "id": "request-item",
+    "label": "request an item and adjust to a small wait"
+  },
+  "trigger": "Dad says the apple is still wet from washing, so Child must wait a moment and can ask for anything else he needs.",
   "recycle": [],
-  "roles": ["child", "mom"],
+  "roles": [
+    "child",
+    "dad"
+  ],
   "setting": "Snack time at home.",
-  "essential_props": ["one red apple and one banana"],
+  "essential_props": [
+    "one red apple and one banana"
+  ],
   "dialogue_contract": "continuous-dialogue-v1",
   "dialogue": {
     "turns": [
-      {"speaker": "mom", "line": "You look hungry, sweetheart. Dinner isn't ready yet, but there's an apple and a banana on the counter."},
-      {"speaker": "child", "line": "Can I have the apple, please? The red one."},
-      {"speaker": "mom", "line": "Sure. It's still a little wet from washing. Just a second."},
-      {"speaker": "child", "line": "Okay, I'll wait. Can I have a small plate too?"},
-      {"speaker": "mom", "line": "Here you go — a dry apple and a little plate."},
-      {"speaker": "child", "line": "Thanks, Mom. I'll eat it at the table."}
+      {
+        "speaker": "dad",
+        "line": "You look hungry, sweetheart. Dinner isn't ready yet, but there's an apple and a banana on the counter."
+      },
+      {
+        "speaker": "child",
+        "line": "Can I have the apple, please? The red one."
+      },
+      {
+        "speaker": "dad",
+        "line": "Sure. It's still a little wet from washing. Just a second."
+      },
+      {
+        "speaker": "child",
+        "line": "Okay, I'll wait. Can I have a small plate too?"
+      },
+      {
+        "speaker": "dad",
+        "line": "Here you go — a dry apple and a little plate."
+      },
+      {
+        "speaker": "child",
+        "line": "Thanks, Dad. I'll eat it at the table."
+      }
     ]
   },
   "replay_cards": [
-    {"title": "Pick a book before bed", "setting": "Before bedtime, beside the bookshelf", "change": "Dad says the bear book is still in the other room and he needs a moment to fetch it", "challenge": "Child asks for the bear book, then accepts the small wait and asks Dad to bring the train book too if he finds it. Dad comes back with the bear book, and Child settles on the bed to read together."},
-    {"title": "Pack a snack for the park", "setting": "Getting ready to go out to the park", "change": "Mom says the apple still needs a quick rinse before it goes in the bag", "challenge": "Child asks for the red apple and, when Mom says it needs a rinse, says he will wait and asks for a small bag for the apple. Mom rinses the apple and packs it with the bag, and Child confirms it is ready."}
+    {
+      "title": "Pick a book before bed",
+      "setting": "Before bedtime, beside the bookshelf",
+      "change": "Dad says the bear book is still in the other room and he needs a moment to fetch it",
+      "challenge": "Child asks for the bear book, then accepts the small wait and asks Dad to bring the train book too if he finds it. Dad comes back with the bear book, and Child settles on the bed to read together."
+    },
+    {
+      "title": "Pack a snack for the park",
+      "setting": "Getting ready to go out to the park",
+      "change": "Dad says the apple still needs a quick rinse before it goes in the bag",
+      "challenge": "Child asks for the red apple and, when Dad says it needs a rinse, says he will wait and asks for a small bag for the apple. Dad rinses the apple and packs it with the bag, and Child confirms it is ready."
+    }
   ],
   "parent_support": [
     "Offer two choices the child can see, then wait for his request.",
     "When a real small wait comes up (the apple needs a rinse), say so plainly and let him practice accepting it and adding what else he needs.",
     "Accept a narrowed or added request (a plate, a bag) with a normal voice and small gestures, then let him confirm the result and close naturally."
   ],
-  "reviews": {"motivation": true, "causality": true, "physical": true, "adult_behavior": true, "child_language": true, "knowledge_safety": true, "resolution": true, "replay_logic": true, "character_continuity": true, "emotion_stability": true},
+  "reviews": {
+    "motivation": true,
+    "causality": true,
+    "physical": true,
+    "adult_behavior": true,
+    "child_language": true,
+    "knowledge_safety": true,
+    "resolution": true,
+    "replay_logic": true,
+    "character_continuity": true,
+    "emotion_stability": true
+  },
   "status": "language_reviewed",
-  "content_revision": 3
+  "content_revision": 4
 }

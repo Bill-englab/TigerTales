@@ -6,7 +6,7 @@
     "id": "relay-a-message",
     "label": "carry a message between two people"
   },
-  "trigger": "Mom calls that dinner is ready, and Child becomes the messenger between the kitchen and Dad's study.",
+  "trigger": "Dad calls that dinner is ready, and Child becomes the messenger between the kitchen and Dad's study.",
   "recycle": [],
   "roles": [
     "child",
@@ -25,7 +25,7 @@
       },
       {
         "speaker": "child",
-        "line": "Daddy, Mom says dinner is ready."
+        "line": "Daddy, Dad says dinner is ready."
       },
       {
         "speaker": "dad",
@@ -37,7 +37,7 @@
       },
       {
         "speaker": "dad",
-        "line": "Then tell Mom I'm coming right now."
+        "line": "Then tell Dad I'm coming right now."
       },
       {
         "speaker": "child",
@@ -49,7 +49,7 @@
       },
       {
         "speaker": "child",
-        "line": "Mom says dinner is on the table, come see!"
+        "line": "Dad says dinner is on the table, come see!"
       }
     ]
   },
@@ -57,14 +57,14 @@
     {
       "title": "The garden message",
       "setting": "Dad waters plants in the garden.",
-      "change": "Mom calls that lunch is ready.",
+      "change": "Dad calls that lunch is ready.",
       "challenge": "Child carries the message outside, brings Dad's answer back, and adds the wash-hands rule himself."
     },
     {
       "title": "The doorbell message",
       "setting": "The neighbor drops by while Dad is upstairs.",
       "change": "She leaves a message about returning a ladder on Sunday.",
-      "challenge": "Child delivers the message to Dad word-for-word and reports his answer back to Mom."
+      "challenge": "Child delivers the message to Dad word-for-word and reports his answer back to Dad."
     }
   ],
   "parent_support": [

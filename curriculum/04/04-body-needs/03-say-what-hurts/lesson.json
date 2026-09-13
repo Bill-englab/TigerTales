@@ -2,22 +2,54 @@
   "title": "My Knee Hurts",
   "title_zh": "我的膝盖疼",
   "can_do": "说出轻微不适的位置和感觉，让成人立即停止活动并提供照护。",
-  "conversation_move": {"id": "describe-discomfort", "label": "describe where it hurts"},
-  "trigger": "After a light bump on the low table during quiet play, Child tells Mom his right knee hurts and accepts a cold cloth.",
-  "recycle": ["specify-choice", "request-help"],
-  "roles": ["child", "mom"],
+  "conversation_move": {
+    "id": "describe-discomfort",
+    "label": "describe where it hurts"
+  },
+  "trigger": "After a light bump on the low table during quiet play, Child tells Dad his right knee hurts and accepts a cold cloth.",
+  "recycle": [
+    "specify-choice",
+    "request-help"
+  ],
+  "roles": [
+    "child",
+    "dad"
+  ],
   "setting": "At home just after a small knee bump during quiet play beside the sofa.",
-  "essential_props": ["one clean soft cold cloth"],
+  "essential_props": [
+    "one clean soft cold cloth"
+  ],
   "dialogue_contract": "continuous-dialogue-v1",
   "dialogue": {
     "turns": [
-      {"speaker": "child", "line": "Ow. My knee hurts, Mom."},
-      {"speaker": "mom", "line": "Let me see. Which knee?"},
-      {"speaker": "child", "line": "The right one. I bumped it on the table."},
-      {"speaker": "mom", "line": "A small bump. Would a cold cloth help?"},
-      {"speaker": "child", "line": "Just for a little while, please."},
-      {"speaker": "mom", "line": "I'll hold it gently on your knee."},
-      {"speaker": "child", "line": "The cloth feels nice. Thank you, Mom."}
+      {
+        "speaker": "child",
+        "line": "Ow. My knee hurts, Dad."
+      },
+      {
+        "speaker": "dad",
+        "line": "Let me see. Which knee?"
+      },
+      {
+        "speaker": "child",
+        "line": "The right one. I bumped it on the table."
+      },
+      {
+        "speaker": "dad",
+        "line": "A small bump. Would a cold cloth help?"
+      },
+      {
+        "speaker": "child",
+        "line": "Just for a little while, please."
+      },
+      {
+        "speaker": "dad",
+        "line": "I'll hold it gently on your knee."
+      },
+      {
+        "speaker": "child",
+        "line": "The cloth feels nice. Thank you, Dad."
+      }
     ]
   },
   "replay_cards": [
@@ -25,7 +57,7 @@
       "title": "A sore finger",
       "setting": "Building together at the table",
       "change": "He gently bumps one finger and stops building",
-      "challenge": "Tell Mom it hurts; Mom immediately stops and checks. If she looks toward the thumb, clarify 'Not my thumb. This finger hurts.' Point to the affected finger and accept appropriate help without demonstrating the bump again."
+      "challenge": "Tell Dad it hurts; Dad immediately stops and checks. If he looks toward the thumb, clarify 'Not my thumb. This finger hurts.' Point to the affected finger and accept appropriate help without demonstrating the bump again."
     },
     {
       "title": "An itchy sleeve",
@@ -40,11 +72,17 @@
     "Acknowledge the report calmly, check without diagnosing, and offer a clean cold cloth with his agreement. Use normal caregiver judgment about any further help; the scene ends with supported rest, not a claim that the pain has disappeared."
   ],
   "reviews": {
-    "motivation": true, "causality": true, "physical": true, "adult_behavior": true,
-    "child_language": true, "knowledge_safety": true, "resolution": true, "replay_logic": true,
-    "character_continuity": true, "emotion_stability": true
+    "motivation": true,
+    "causality": true,
+    "physical": true,
+    "adult_behavior": true,
+    "child_language": true,
+    "knowledge_safety": true,
+    "resolution": true,
+    "replay_logic": true,
+    "character_continuity": true,
+    "emotion_stability": true
   },
   "status": "language_reviewed",
-  "content_revision": 3,
-  "dialogue_contract": "continuous-dialogue-v1"
+  "content_revision": 4
 }

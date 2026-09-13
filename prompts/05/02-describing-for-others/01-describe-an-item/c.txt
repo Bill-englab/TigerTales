@@ -1,6 +1,6 @@
 Daddy's Blue Mug — Clip 3
 Production prompt draft | Source: curriculum/05/02-describing-for-others/01-describe-an-item/lesson.json | Content revision: 1
-Source SHA256: 1efa82f8ace32366cd2db97bd701ab94bd42c6da5b90b5f9d0e5d05e4121ab73
+Source SHA256: 0f09143b491c6fca03415344bf9d06b5559bf2ba983dfe0c08dc21b30182d145
 The source/revision above are production metadata, not spoken words or on-screen text.
 
 VIDEO AND SOUND
@@ -32,7 +32,7 @@ Dad takes the dark-blue mug and thanks Child with a warm nod. Child explains he 
 SPOKEN DIALOGUE (verbatim, in order):
 Child: "Yes, that one. I put it back last night."
 Dad: "There it is. Thank you, my helper!"
-Child: "The light-blue mug is Mom's. Don't mix them up!"
+Child: "The light-blue mug is Dad's. Don't mix them up!"
 
 END FRAME
 Dad holds the dark-blue cloud mug in one hand near his chest; the light-blue mug stays on the shelf; both smile.

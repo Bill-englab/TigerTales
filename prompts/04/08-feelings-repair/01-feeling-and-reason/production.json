@@ -1,29 +1,40 @@
 {
-  "content_revision": 4,
-  "scene": "Mom sits screen left and Child screen right on a home play mat beside a low table. Child is the four-year-old tiger boy in his yellow T-shirt; Mom is the same pink pig in a coral cardigan over a cream top. Exactly one large four-piece puzzle is on the tabletop: three joined pieces and one obvious gap along the edge nearest Child. The final blue piece lies flat on the floor just under the front table edge, within Mom's easy reach; it is not hidden by another prop and neither character has looked there yet. No extra puzzle pieces, blocks or toys. Locked 16:9 medium two-shot shows faces, hands, the tabletop and the floor under its front edge without needing a camera cut.",
+  "content_revision": 5,
+  "scene": "Dad sits screen left and Child screen right on a home play mat beside a low table. Child is the four-year-old tiger boy in his yellow T-shirt; Dad is the same warm tan-brown cartoon dog in his olive-green T-shirt. Exactly one large four-piece puzzle is on the tabletop: three joined pieces and one obvious gap along the edge nearest Child. The final blue piece lies flat on the floor just under the front table edge, within Dad's easy reach; it is not hidden by another prop and neither character has looked there yet. No extra puzzle pieces, blocks or toys. Locked 16:9 medium two-shot shows faces, hands, the tabletop and the floor under its front edge without needing a camera cut.",
   "emotion": {
-    "baseline": "Calm, warm and regulated baseline. Mom is attentive and Child speaks at normal home conversation volume.",
-    "allowed_shift": "Child shows a small frown and a brief pause because he cannot find the last puzzle piece. Mom acknowledges that specific frustration. Finding the piece allows a small easing of his brow and shoulders; he need not smile to report feeling better.",
+    "baseline": "Calm, warm and regulated baseline. Dad is attentive and Child speaks at normal home conversation volume.",
+    "allowed_shift": "Child shows a small frown and a brief pause because he cannot find the last puzzle piece. Dad acknowledges that specific frustration. Finding the piece allows a small easing of his brow and shoulders; he need not smile to report feeling better.",
     "forbidden": "No crying spectacle, rage, shame posture, forced hug or automatic smile. No dismissing the frustration, demands to cheer up, triumphant bouncing, frantic search, exaggerated gasp or distorted face or body. Keep gestures small and voices at normal volume."
   },
   "clips": [
     {
-      "turns": [0, 1, 2, 3],
-      "start": "Mom sits left and Child right beside the low table. Three joined puzzle pieces and one gap face Child; the single blue piece lies under the front edge. Child's empty hands have paused beside the puzzle with a small frown; Mom's hands rest in her lap.",
-      "action": "Mom notices the empty gap and Child's pause while naming the missing piece. Child looks from the gap to Mom and explains the cause of his frustration with a small frown, normal volume and one short pause. Mom acknowledges the difficulty and his hard work without turning it into a question or touching the puzzle. Child recalls how the first three pieces went in easily while the last one is hiding. Their gaze stays above the table; the blue piece remains under the front edge.",
-      "end": "Mom faces Child with both hands in her lap. Child's empty hands rest beside the unchanged three joined puzzle pieces and single gap; the blue piece still lies under the front table edge and his small frown remains."
+      "turns": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "start": "Dad sits left and Child right beside the low table. Three joined puzzle pieces and one gap face Child; the single blue piece lies under the front edge. Child's empty hands have paused beside the puzzle with a small frown; Dad's hands rest in her lap.",
+      "action": "Dad notices the empty gap and Child's pause while naming the missing piece. Child looks from the gap to Dad and explains the cause of his frustration with a small frown, normal volume and one short pause. Dad acknowledges the difficulty and his hard work without turning it into a question or touching the puzzle. Child recalls how the first three pieces went in easily while the last one is hiding. Their gaze stays above the table; the blue piece remains under the front edge.",
+      "end": "Dad faces Child with both hands in her lap. Child's empty hands rest beside the unchanged three joined puzzle pieces and single gap; the blue piece still lies under the front table edge and his small frown remains."
     },
     {
-      "turns": [4, 5],
-      "start": "Mom faces Child with both hands in her lap. Child's empty hands rest beside the unchanged three joined puzzle pieces and single gap; the blue piece still lies under the front table edge and his small frown remains.",
-      "action": "Mom suggests the one place to check; both lean slightly to look under the front table edge, remaining seated without crawling or walking. Child notices the existing blue piece and identifies it with a small glance and quiet discovery, reporting where it was. Mom reaches down with her right hand, lifts that single piece and brings it just above the table. Her left hand stays in her lap; the joined puzzle does not move and no second search location is introduced.",
-      "end": "Mom holds the single blue puzzle piece in her right hand just above the table, with her left hand in her lap. Child's empty hands rest beside the unchanged three joined pieces and single gap; he looks at the found piece with a slightly softer brow."
+      "turns": [
+        4,
+        5
+      ],
+      "start": "Dad faces Child with both hands in her lap. Child's empty hands rest beside the unchanged three joined puzzle pieces and single gap; the blue piece still lies under the front table edge and his small frown remains.",
+      "action": "Dad suggests the one place to check; both lean slightly to look under the front table edge, remaining seated without crawling or walking. Child notices the existing blue piece and identifies it with a small glance and quiet discovery, reporting where it was. Dad reaches down with her right hand, lifts that single piece and brings it just above the table. Her left hand stays in her lap; the joined puzzle does not move and no second search location is introduced.",
+      "end": "Dad holds the single blue puzzle piece in her right hand just above the table, with her left hand in her lap. Child's empty hands rest beside the unchanged three joined pieces and single gap; he looks at the found piece with a slightly softer brow."
     },
     {
-      "turns": [6, 7],
-      "start": "Mom holds the single blue puzzle piece in her right hand just above the table, with her left hand in her lap. Child's empty hands rest beside the unchanged three joined pieces and single gap; he looks at the found piece with a slightly softer brow.",
-      "action": "Mom passes the blue piece from her right hand into Child's open left hand, then lowers her right hand to her lap. At her suggestion he places it into the near-edge gap with his left hand and releases it. Use one easy placement with no fiddly rotation. His report of feeling better follows the visible fit, with a small easing of his brow; no hug, cheering or imposed smile follows.",
-      "end": "All four puzzle pieces are joined flat on the tabletop, with the blue piece filling the former gap. Child has released it and rests his empty hands beside the finished puzzle; Mom's hands are in her lap and both remain seated with calm faces."
+      "turns": [
+        6,
+        7
+      ],
+      "start": "Dad holds the single blue puzzle piece in her right hand just above the table, with her left hand in her lap. Child's empty hands rest beside the unchanged three joined pieces and single gap; he looks at the found piece with a slightly softer brow.",
+      "action": "Dad passes the blue piece from her right hand into Child's open left hand, then lowers her right hand to her lap. At her suggestion he places it into the near-edge gap with his left hand and releases it. Use one easy placement with no fiddly rotation. His report of feeling better follows the visible fit, with a small easing of his brow; no hug, cheering or imposed smile follows.",
+      "end": "All four puzzle pieces are joined flat on the tabletop, with the blue piece filling the former gap. Child has released it and rests his empty hands beside the finished puzzle; Dad's hands are in her lap and both remain seated with calm faces."
     }
   ]
 }

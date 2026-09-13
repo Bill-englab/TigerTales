@@ -6,7 +6,7 @@
     "id": "phone-a-family-member",
     "label": "make a short call to a family member"
   },
-  "trigger": "Mom and Child are at the market and need Dad's answer about milk, so Child makes the call.",
+  "trigger": "Dad and Child are at the market and need Dad's answer about milk, so Child makes the call.",
   "recycle": [
     "relay-a-message"
   ],
@@ -35,7 +35,7 @@
       },
       {
         "speaker": "child",
-        "line": "Mom wants to know: do we need milk?"
+        "line": "Dad wants to know: do we need milk?"
       },
       {
         "speaker": "dad",
@@ -43,7 +43,7 @@
       },
       {
         "speaker": "child",
-        "line": "Mom says the big bottle is too heavy."
+        "line": "Dad says the big bottle is too heavy."
       },
       {
         "speaker": "dad",
@@ -66,9 +66,9 @@
   "replay_cards": [
     {
       "title": "Checking the list",
-      "setting": "Child and Dad at the market; Mom waits at home.",
-      "change": "Mom wanted three things but Child remembers only two.",
-      "challenge": "Child phones Mom to check the list, repeats it back, and adds one question of his own about dinner."
+      "setting": "Child and Dad at the market; Dad waits at home.",
+      "change": "Dad wanted three things but Child remembers only two.",
+      "challenge": "Child phones Dad to check the list, repeats it back, and adds one question of his own about dinner."
     },
     {
       "title": "The goodnight call",

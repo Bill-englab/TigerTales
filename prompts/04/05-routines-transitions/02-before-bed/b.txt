@@ -1,6 +1,6 @@
 One Book Before Bed — Clip 2
-Production prompt draft | Source: curriculum/04/05-routines-transitions/02-before-bed/lesson.json | Content revision: 3
-Source SHA256: 2eddb86b25d13eb48011968ab767080d0b107bebf78d4697781b317821cc7268
+Production prompt draft | Source: curriculum/04/05-routines-transitions/02-before-bed/lesson.json | Content revision: 4
+Source SHA256: 602e9d34e3bce94001ff076e16e21202d345bff620eec7c537732ff68ffe1755
 The source/revision above are production metadata, not spoken words or on-screen text.
 
 VIDEO AND SOUND
@@ -8,10 +8,10 @@ Create one 16:9 animated clip for a preschool family role-play. Pixar-style 3D a
 
 FIXED CAST (only these two)
 Child — a small four-year-old cartoon tiger boy, bright orange fur with bold black stripes, bright attentive eyes full of curiosity, chubby round cheeks, tiny rounded ears, wearing a little yellow T-shirt, short chubby toddler proportions; alert, clever and quick to smile, eyes tracking the conversation; clear natural child voice.
-Pig Mom — a young, pretty cartoon pig mother, soft rosy-pink fur, lighter blush on the cheeks, big warm round eyes with long lashes, small rounded snout, slim young-mother proportions, wearing a coral cardigan over a cream top; sweet gentle mom energy, warm natural adult female voice.
+Dog Dad — a young, friendly cartoon dog father, warm tan-brown fur, big soft floppy ears, bright round eyes with a lively spark, soft round snout, wearing an olive-green casual T-shirt; cheerful warm dad energy, warm natural adult male voice.
 
 EMOTIONAL PERFORMANCE
-Calm, warm and regulated baseline. Mom is reassuring and Child is quietly attentive at bedtime.
+Calm, warm and regulated baseline. Dad is reassuring and Child is quietly attentive at bedtime.
 A small pleased response to the chosen bear book, gentle settling against the pillows and relaxed acceptance of lights out.
 No nagging, whining, bedtime struggle, exaggerated sleepiness, extreme delight, fear of darkness, sudden emotional reset or distorted faces and bodies.
 No screaming, extreme excitement, rage, distorted facial or body shapes, frantic gestures or uncontrolled running.
@@ -20,21 +20,21 @@ SETTING
 A quiet bedtime story together; a brief time transition leads from opening the book to finishing it later.
 
 SCENE AND PROP CONTINUITY
-In a quiet bedroom, Mom sits screen-left and Child sits screen-right against bed pillows with a blanket already over his legs. The four-year-old tiger boy keeps his yellow T-shirt and navy pajama pants throughout. Two thin picture books lie face-up on the bed between them in front of their knees: the blue sleeping-bear book nearest Child and the cream wide-awake-bear book nearest Mom. They are the one essential prop group. A warm bedside lamp is within Mom's left-hand reach; soft ambient hallway light is present from the start so faces remain readable after the lamp is switched off. Lock a 16:9 medium two-shot on both faces, laps, books and lamp. The third clip uses a brief, clear passage-of-time dissolve to show the story has been read at a normal pace; no sped-up reading, page-flipping montage, added story speech or sudden room reset.
+In a quiet bedroom, Dad sits screen-left and Child sits screen-right against bed pillows with a blanket already over his legs. The four-year-old tiger boy keeps his yellow T-shirt and navy pajama pants throughout. Two thin picture books lie face-up on the bed between them in front of their knees: the blue sleeping-bear book nearest Child and the cream wide-awake-bear book nearest Dad. They are the one essential prop group. A warm bedside lamp is within Dad's left-hand reach; soft ambient hallway light is present from the start so faces remain readable after the lamp is switched off. Lock a 16:9 medium two-shot on both faces, laps, books and lamp. The third clip uses a brief, clear passage-of-time dissolve to show the story has been read at a normal pace; no sped-up reading, page-flipping montage, added story speech or sudden room reset.
 Keep base character designs, garment identities, lighting, set and camera consistent across the three clips; allow the explicitly scripted dressing or undressing actions. Track hands and props continuously through the scripted movements rather than freezing their positions. The START FRAME below specifies this clip's current state; do not reset to the scene's initial arrangement. If the generation workflow supports reference frames, reuse the established character references and the preceding clip's final frame; text instructions alone do not guarantee visual consistency.
 
 START FRAME
-Mom sits screen-left and Child screen-right, both looking at the two face-up books in front of their knees; the blue sleepy-bear book is nearest Child and the cream awake-bear book nearest Mom. Both have empty hands on their laps, Child's blanket stays over his legs, and the bedside lamp is on with steady ambient hallway light.
+Dad sits screen-left and Child screen-right, both looking at the two face-up books in front of their knees; the blue sleepy-bear book is nearest Child and the cream awake-bear book nearest Dad. Both have empty hands on their laps, Child's blanket stays over his legs, and the bedside lamp is on with steady ambient hallway light.
 
 ACTION AND REACTIONS
-Child identifies the blue cover with one small point and names the sleepy bear, not the wide-awake bear, then returns his hand to the blanket. Mom picks up only the blue book with her right hand, supports it with her left and confirms the choice while inviting him to snuggle in. She opens the first spread on her own lap where both can see it. Child settles slightly against the same pillows. Finish before reading begins; the cream book stays in place.
+Child identifies the blue cover with one small point and names the sleepy bear, not the wide-awake bear, then returns his hand to the blanket. Dad picks up only the blue book with her right hand, supports it with her left and confirms the choice while inviting him to snuggle in. She opens the first spread on her own lap where both can see it. Child settles slightly against the same pillows. Finish before reading begins; the cream book stays in place.
 
 SPOKEN DIALOGUE (verbatim, in order):
 Child: "The blue one, please. The sleepy bear, not the wide-awake bear."
-Mom: "A sleepy story for bedtime. Snuggle in."
+Dad: "A sleepy story for bedtime. Snuggle in."
 
 END FRAME
-Mom sits screen-left holding the blue book open to its first spread on her lap, left hand supporting the left edge and right hand the right edge. Child sits screen-right against the pillows looking at it, hands on the blanket over his legs. The cream book remains face-up in front of their knees; the bedside lamp is on with steady ambient hallway light, and both outfits are unchanged.
+Dad sits screen-left holding the blue book open to its first spread on her lap, left hand supporting the left edge and right hand the right edge. Child sits screen-right against the pillows looking at it, hands on the blanket over his legs. The cream book remains face-up in front of their knees; the bedside lamp is on with steady ambient hallway light, and both outfits are unchanged.
 Leave a short natural settling beat, without adding speech. Do not repeat earlier clips' lines.
 
 PACING (18 spoken words)

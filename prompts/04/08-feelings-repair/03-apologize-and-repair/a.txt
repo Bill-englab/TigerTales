@@ -1,6 +1,6 @@
 Let's Build It Again — Clip 1
-Production prompt draft | Source: curriculum/04/08-feelings-repair/03-apologize-and-repair/lesson.json | Content revision: 3
-Source SHA256: 6f27ee3d1905d94dbdd906cb8c3c078a403d8641bf54dc89250b8bb44f020bb1
+Production prompt draft | Source: curriculum/04/08-feelings-repair/03-apologize-and-repair/lesson.json | Content revision: 4
+Source SHA256: f0e2ea1369f1a74ad424fa874741c5f2443e320a6bd3278e9c4d0f0263a58a5d
 The source/revision above are production metadata, not spoken words or on-screen text.
 
 VIDEO AND SOUND
@@ -8,33 +8,33 @@ Create one 16:9 animated clip for a preschool family role-play. Pixar-style 3D a
 
 FIXED CAST (only these two)
 Child — a small four-year-old cartoon tiger boy, bright orange fur with bold black stripes, bright attentive eyes full of curiosity, chubby round cheeks, tiny rounded ears, wearing a little yellow T-shirt, short chubby toddler proportions; alert, clever and quick to smile, eyes tracking the conversation; clear natural child voice.
-Bear Peer — the same small brown bear in a teal T-shirt in every peer lesson; age four, child-sized proportions and a distinct natural child voice, never an adult.
+Dog Dad — a young, friendly cartoon dog father, warm tan-brown fur, big soft floppy ears, bright round eyes with a lively spark, soft round snout, wearing an olive-green casual T-shirt; cheerful warm dad energy, warm natural adult male voice.
 
 EMOTIONAL PERFORMANCE
-Calm, warm and regulated baseline. Both children are interested in the shared building activity and use ordinary play volume.
-Child makes one small surprised pause at his accidental bump, then speaks with sincere calm concern and apology. Peer shows mild disappointment about the fallen tower and may keep that expression while accepting help. The completed repair earns a quiet look of acknowledgment; neither child must smile.
+Calm, warm and regulated baseline. Both of them are interested in the shared building activity and use ordinary play volume.
+Child makes one small surprised pause at his accidental bump, then speaks with sincere calm concern and apology. Dad shows mild disappointment about the fallen tower and may keep that expression while accepting help. The completed repair earns a quiet look of acknowledgment; neither child must smile.
 No crying spectacle, rage, shame posture, forced hug or automatic smile. No blame performance, collapsed shoulders, bowed head, exaggerated gasp, frantic grabbing, celebratory bouncing or distorted face or body. An apology does not require instant forgiveness or physical affection; keep voices normal and actions small.
 No screaming, extreme excitement, rage, distorted facial or body shapes, frantic gestures or uncontrolled running.
 
 SETTING
-Child and the same Bear Peer from the cooperation chapter kneel beside a small block tower on a home play mat.
+Child and Dog Dad from the cooperation chapter kneel beside a small block tower on a home play mat.
 
 SCENE AND PROP CONTINUITY
-A shared home play mat with Peer kneeling screen left and Child kneeling screen right. Peer is the same small brown bear, age four, in his teal T-shirt from every Chapter 7 peer lesson; Child is the four-year-old tiger boy in his yellow T-shirt. Exactly three wide, easy-to-stack blocks form one small tower between them: tan base, blue middle, red top. The tower is within both children's reach. When Child accidentally brushes the two upper blocks, the tan base stays put and the blue and red blocks fall a short distance onto the soft mat toward Child, without hitting anyone. No truck, bridge, additional blocks or props. Locked 16:9 medium two-shot shows faces, hands and all three blocks throughout.
+A shared home play mat with Dad kneeling screen left and Child kneeling screen right. Dad is the same warm tan-brown cartoon dog in his olive-green T-shirt; Child is the four-year-old tiger boy in his yellow T-shirt. Exactly three wide, easy-to-stack blocks form one small tower between them: tan base, blue middle, red top. The tower is within both of them's reach. When Child accidentally brushes the two upper blocks, the tan base stays put and the blue and red blocks fall a short distance onto the soft mat toward Child, without hitting anyone. No truck, bridge, additional blocks or props. Locked 16:9 medium two-shot shows faces, hands and all three blocks throughout.
 Keep base character designs, garment identities, lighting, set and camera consistent across the three clips; allow the explicitly scripted dressing or undressing actions. Track hands and props continuously through the scripted movements rather than freezing their positions. The START FRAME below specifies this clip's current state; do not reset to the scene's initial arrangement. If the generation workflow supports reference frames, reuse the established character references and the preceding clip's final frame; text instructions alone do not guarantee visual consistency.
 
 START FRAME
-Peer kneels left with his hands just released from the red top of the intact three-block tower. Child kneels right with his left hand beside the tower at the height of the blue middle block, about to return it to his lap; the tan base is flat on the mat.
+Dad kneels left with his hands just released from the red top of the intact three-block tower. Child kneels right with his left hand beside the tower at the height of the blue middle block, about to return it to his lap; the tan base is flat on the mat.
 
 ACTION AND REACTIONS
-As Child draws his left hand back toward his lap, it accidentally brushes the blue middle block once; the blue and red upper blocks fall onto the mat toward him while the tan base stays upright. No block touches either child. Child stops his hand, notices the fallen blocks and immediately apologizes to Peer with sincere calm. Peer answers that he is okay, then names the lost tower with mild disappointment. Neither touches the fallen blocks yet.
+As Child draws his left hand back toward his lap, it accidentally brushes the blue middle block once; the blue and red upper blocks fall onto the mat toward him while the tan base stays upright. No block touches either child. Child stops his hand, notices the fallen blocks and immediately apologizes to Dad with sincere calm. Dad answers that he is okay, then names the lost tower with mild disappointment. Neither touches the fallen blocks yet.
 
 SPOKEN DIALOGUE (verbatim, in order):
 Child: "Oops! Your blocks fell. I'm sorry."
-Peer: "I'm okay. But my tower is gone."
+Dad: "I'm okay. But my tower is gone."
 
 END FRAME
-The tan base remains upright between the children. The fallen blue block rests beside the base toward Child, with the fallen red block just beyond it; Child's empty hands are in his lap and Peer's empty hands rest by his knees as they face each other.
+The tan base remains upright between the children. The fallen blue block rests beside the base toward Child, with the fallen red block just beyond it; Child's empty hands are in his lap and Dad's empty hands rest by his knees as they face each other.
 Leave a short natural settling beat, without adding speech. Do not repeat earlier clips' lines.
 
 PACING (13 spoken words)

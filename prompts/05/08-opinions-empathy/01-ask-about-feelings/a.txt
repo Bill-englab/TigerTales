@@ -1,6 +1,6 @@
-Mom's Cozy Chair — Clip 1
-Production prompt draft | Source: curriculum/05/08-opinions-empathy/01-ask-about-feelings/lesson.json | Content revision: 1
-Source SHA256: 27ddf3cd90c8fc018f8f048a6d15929d5da5a2b78db3528c22765b4e89c64884
+Dad's Cozy Chair — Clip 1
+Production prompt draft | Source: curriculum/05/08-opinions-empathy/01-ask-about-feelings/lesson.json | Content revision: 2
+Source SHA256: a695c4328c54cee4d9b319000d5f8082ea5956698d38520ce5b17af0795254a8
 The source/revision above are production metadata, not spoken words or on-screen text.
 
 VIDEO AND SOUND
@@ -8,11 +8,11 @@ Create one 16:9 animated clip for a preschool family role-play. Pixar-style 3D a
 
 FIXED CAST (only these two)
 Child — a small four-year-old cartoon tiger boy, bright orange fur with bold black stripes, bright attentive eyes full of curiosity, chubby round cheeks, tiny rounded ears, wearing a little yellow T-shirt, short chubby toddler proportions; alert, clever and quick to smile, eyes tracking the conversation; clear natural child voice.
-Pig Mom — a young, pretty cartoon pig mother, soft rosy-pink fur, lighter blush on the cheeks, big warm round eyes with long lashes, small rounded snout, slim young-mother proportions, wearing a coral cardigan over a cream top; sweet gentle mom energy, warm natural adult female voice.
+Dog Dad — a young, friendly cartoon dog father, warm tan-brown fur, big soft floppy ears, bright round eyes with a lively spark, soft round snout, wearing an olive-green casual T-shirt; cheerful warm dad energy, warm natural adult male voice.
 
 EMOTIONAL PERFORMANCE
 Calm, warm and regulated baseline. Both speak at a normal family volume with small, natural facial movements and gestures.
-A soft, caring mood throughout; Child speaks gently with small helpful gestures; Mom shows one tired smile turning warm; the ending is tender.
+A soft, caring mood throughout; Child speaks gently with small helpful gestures; Dad shows one tired smile turning warm; the ending is tender.
 No exaggerated surprise, wide-eyed shock, bouncing, raised voices, impatience, blaming or teasing. Any disappointment, worry or sadness stays mild and brief, and the adult helps things stay steady.
 No screaming, extreme excitement, rage, distorted facial or body shapes, frantic gestures or uncontrolled running.
 
@@ -20,21 +20,21 @@ SETTING
 Early evening in the living room.
 
 SCENE AND PROP CONTINUITY
-Living room in the early evening. Mom sits on the sofa at screen-left, leaning back and rubbing her legs slowly; a pair of cozy slippers rests on the floor beside the sofa. Child stands at screen-right. Locked 16:9 medium two-shot with both faces visible.
+Living room in the early evening. Dad sits on the sofa at screen-left, leaning back and rubbing her legs slowly; a pair of cozy slippers rests on the floor beside the sofa. Child stands at screen-right. Locked 16:9 medium two-shot with both faces visible.
 Keep base character designs, garment identities, lighting, set and camera consistent across the three clips; allow the explicitly scripted dressing or undressing actions. Track hands and props continuously through the scripted movements rather than freezing their positions. The START FRAME below specifies this clip's current state; do not reset to the scene's initial arrangement. If the generation workflow supports reference frames, reuse the established character references and the preceding clip's final frame; text instructions alone do not guarantee visual consistency.
 
 START FRAME
-Mom sits rubbing her legs slowly; the slippers rest on the floor by the sofa; Child stands facing her with empty hands.
+Dad sits rubbing her legs slowly; the slippers rest on the floor by the sofa; Child stands facing her with empty hands.
 
 ACTION AND REACTIONS
-Child tilts his head with a caring look and asks his question. Mom pats her legs lightly twice while answering.
+Child tilts his head with a caring look and asks his question. Dad pats her legs lightly twice while answering.
 
 SPOKEN DIALOGUE (verbatim, in order):
-Child: "Mom, are you feeling tired today?"
-Mom: "A little, my dear. My legs are heavy."
+Child: "Dad, are you feeling tired today?"
+Dad: "A little, my dear. My legs are heavy."
 
 END FRAME
-Mom rests her hands on her knees; Child looks at the slippers by the sofa.
+Dad rests her hands on her knees; Child looks at the slippers by the sofa.
 Leave a short natural settling beat, without adding speech. Do not repeat earlier clips' lines.
 
 PACING (14 spoken words)

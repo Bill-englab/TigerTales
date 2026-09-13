@@ -1,6 +1,6 @@
 Water Instead — Clip 2
-Production prompt draft | Source: curriculum/04/01-choosing-requests/03-change-a-choice/lesson.json | Content revision: 3
-Source SHA256: 76d7a7792944c55724dbb5cf4aae8f7efae5019be8ec6f3343849b022d1dc3c4
+Production prompt draft | Source: curriculum/04/01-choosing-requests/03-change-a-choice/lesson.json | Content revision: 4
+Source SHA256: 8c3bab777064d6835e226728123e7654f2c4df08eccc20f77ed983d8c1854d3a
 The source/revision above are production metadata, not spoken words or on-screen text.
 
 VIDEO AND SOUND
@@ -8,11 +8,11 @@ Create one 16:9 animated clip for a preschool family role-play. Pixar-style 3D a
 
 FIXED CAST (only these two)
 Child — a small four-year-old cartoon tiger boy, bright orange fur with bold black stripes, bright attentive eyes full of curiosity, chubby round cheeks, tiny rounded ears, wearing a little yellow T-shirt, short chubby toddler proportions; alert, clever and quick to smile, eyes tracking the conversation; clear natural child voice.
-Pig Mom — a young, pretty cartoon pig mother, soft rosy-pink fur, lighter blush on the cheeks, big warm round eyes with long lashes, small rounded snout, slim young-mother proportions, wearing a coral cardigan over a cream top; sweet gentle mom energy, warm natural adult female voice.
+Dog Dad — a young, friendly cartoon dog father, warm tan-brown fur, big soft floppy ears, bright round eyes with a lively spark, soft round snout, wearing an olive-green casual T-shirt; cheerful warm dad energy, warm natural adult male voice.
 
 EMOTIONAL PERFORMANCE
-Calm, warm and regulated baseline. Mom and Child are attentive and relaxed, speaking at normal family conversation volume with small, proportionate facial movements.
-Child has a brief thoughtful pause before changing his choice, then quiet contentment and a small pleased smile about the park race. Mom responds with ordinary, patient acceptance and a warm confirming nod.
+Calm, warm and regulated baseline. Dad and Child are attentive and relaxed, speaking at normal family conversation volume with small, proportionate facial movements.
+Child has a brief thoughtful pause before changing his choice, then quiet contentment and a small pleased smile about the park race. Dad responds with ordinary, patient acceptance and a warm confirming nod.
 No exaggerated surprise, bouncing, frustration, scolding, dramatic pleading, raised voices or sudden grabbing. Keep the change of mind small and everyday.
 No screaming, extreme excitement, rage, distorted facial or body shapes, frantic gestures or uncontrolled running.
 
@@ -20,22 +20,22 @@ SETTING
 At the kitchen table.
 
 SCENE AND PROP CONTINUITY
-At a home kitchen table, Mom sits screen-left and Child screen-right. Child is the four-year-old tiger boy and keeps his yellow T-shirt throughout. One empty transparent cup stands at table-center within both characters' reach. A small open milk pitcher stands just left of the cup and a small open clear-water pitcher farther left, both within Mom's easy reach. Keep these two drinks distinct and show only one cup. The cup stays visibly empty until the final pour; no milk is ever poured, discarded or replaced. Use a locked 16:9 medium two-shot with both faces, hands, the cup and pitcher spouts visible.
+At a home kitchen table, Dad sits screen-left and Child screen-right. Child is the four-year-old tiger boy and keeps his yellow T-shirt throughout. One empty transparent cup stands at table-center within both characters' reach. A small open milk pitcher stands just left of the cup and a small open clear-water pitcher farther left, both within Dad's easy reach. Keep these two drinks distinct and show only one cup. The cup stays visibly empty until the final pour; no milk is ever poured, discarded or replaced. Use a locked 16:9 medium two-shot with both faces, hands, the cup and pitcher spouts visible.
 Keep base character designs, garment identities, lighting, set and camera consistent across the three clips; allow the explicitly scripted dressing or undressing actions. Track hands and props continuously through the scripted movements rather than freezing their positions. The START FRAME below specifies this clip's current state; do not reset to the scene's initial arrangement. If the generation workflow supports reference frames, reuse the established character references and the preceding clip's final frame; text instructions alone do not guarantee visual consistency.
 
 START FRAME
-Mom holds the milk pitcher upright in her right hand just left of the visibly empty cup; the water pitcher stands farther left; Child waits with empty hands.
+Dad holds the milk pitcher upright in her right hand just left of the visibly empty cup; the water pitcher stands farther left; Child waits with empty hands.
 
 ACTION AND REACTIONS
-Child briefly glances toward the water, then changes his choice aloud before any pouring. Mom stops, sets the milk pitcher back in its original place, and asks about his running. Child tells her about the park and the race to the big tree with small relaxed gestures. Mom then lifts the water pitcher with her left hand and brings it upright beside the cup. The cup stays visibly empty throughout this clip.
+Child briefly glances toward the water, then changes his choice aloud before any pouring. Dad stops, sets the milk pitcher back in its original place, and asks about his running. Child tells her about the park and the race to the big tree with small relaxed gestures. Dad then lifts the water pitcher with her left hand and brings it upright beside the cup. The cup stays visibly empty throughout this clip.
 
 SPOKEN DIALOGUE (verbatim, in order):
 Child: "Actually, can I have water instead? I ran and ran today."
-Mom: "Where did you run?"
+Dad: "Where did you run?"
 Child: "At the park with Dad. We raced to the big tree."
 
 END FRAME
-Mom holds the water pitcher upright in her left hand beside the still-empty cup; the milk pitcher stands in its original place just left of the cup; Child waits with empty hands.
+Dad holds the water pitcher upright in her left hand beside the still-empty cup; the milk pitcher stands in its original place just left of the cup; Child waits with empty hands.
 Leave a short natural settling beat, without adding speech. Do not repeat earlier clips' lines.
 
 PACING (26 spoken words)

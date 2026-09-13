@@ -22,7 +22,7 @@
     ]
   },
   "replay_cards": [
-    {"title": "Finish the picture", "setting": "Drawing at the table", "change": "The last wheel still needs color", "challenge": "Mom calls for bath time; name the one visible part to finish, finish it, and go"},
+    {"title": "Finish the picture", "setting": "Drawing at the table", "change": "The last wheel still needs color", "challenge": "Dad calls for bath time; name the one visible part to finish, finish it, and go"},
     {"title": "End the train game", "setting": "Playing on the floor", "change": "The train is one stop from the station, but Dad thinks Child means another full trip", "challenge": "Dad calls for lunch. Child names one last stop; when Dad checks whether he means another trip, Child repairs, \"I mean the station stop, then I'll come.\" Dad accepts that visible endpoint. Child arrives at the station, then puts the train away and comes to lunch."}
   ],
   "parent_support": ["Ask what remains instead of guessing.", "Agree only to a short, visible finish point and calmly keep the cleanup boundary."],

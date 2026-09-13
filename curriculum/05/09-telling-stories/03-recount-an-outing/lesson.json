@@ -6,14 +6,14 @@
     "id": "recount-an-outing",
     "label": "recount an outing in order"
   },
-  "trigger": "Mom asks about the lake trip she missed, and Child recounts it in order.",
+  "trigger": "Dad asks about the lake trip she missed, and Child recounts it in order.",
   "recycle": [
     "tell-two-events-detail",
     "ask-what-happened-next"
   ],
   "roles": [
     "child",
-    "mom"
+    "dad"
   ],
   "setting": "Home again after the lake trip.",
   "essential_props": [],
@@ -21,7 +21,7 @@
   "dialogue": {
     "turns": [
       {
-        "speaker": "mom",
+        "speaker": "dad",
         "line": "How was the lake trip with Dad today?"
       },
       {
@@ -29,7 +29,7 @@
         "line": "So fun! First we found big flat stones."
       },
       {
-        "speaker": "mom",
+        "speaker": "dad",
         "line": "Flat stones at the shore?"
       },
       {
@@ -37,7 +37,7 @@
         "line": "Yes! Then Dad taught me to skip them."
       },
       {
-        "speaker": "mom",
+        "speaker": "dad",
         "line": "Did your stone jump on the water?"
       },
       {
@@ -45,7 +45,7 @@
         "line": "Three times! After that, we ate sandwiches."
       },
       {
-        "speaker": "mom",
+        "speaker": "dad",
         "line": "Sandwiches by the water sound lovely."
       },
       {
@@ -58,7 +58,7 @@
     {
       "title": "The museum day",
       "setting": "A class trip to the science museum.",
-      "change": "Mom asks about it at dinner.",
+      "change": "Dad asks about it at dinner.",
       "challenge": "Child recounts the trip in order — bus, dinosaurs, gift shop — and names his favorite moment."
     },
     {
@@ -86,5 +86,5 @@
     "emotion_stability": true
   },
   "status": "draft",
-  "content_revision": 1
+  "content_revision": 2
 }

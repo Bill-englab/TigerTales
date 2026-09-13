@@ -12,7 +12,7 @@
   ],
   "roles": [
     "child",
-    "peer"
+    "dad"
   ],
   "setting": "Playroom floor with the truck track.",
   "essential_props": [
@@ -22,7 +22,7 @@
   "dialogue": {
     "turns": [
       {
-        "speaker": "peer",
+        "speaker": "dad",
         "line": "I want to be the driver every time!"
       },
       {
@@ -30,7 +30,7 @@
         "line": "Every time is not fair for me."
       },
       {
-        "speaker": "peer",
+        "speaker": "dad",
         "line": "But it's my truck and my track."
       },
       {
@@ -38,7 +38,7 @@
         "line": "How about you drive first, then me after one lap?"
       },
       {
-        "speaker": "peer",
+        "speaker": "dad",
         "line": "One lap is so long though."
       },
       {
@@ -46,7 +46,7 @@
         "line": "Okay, one fast lap each, then we switch."
       },
       {
-        "speaker": "peer",
+        "speaker": "dad",
         "line": "One lap each... that sounds fair."
       },
       {
@@ -87,5 +87,5 @@
     "emotion_stability": true
   },
   "status": "draft",
-  "content_revision": 1
+  "content_revision": 2
 }

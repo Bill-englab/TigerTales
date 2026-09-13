@@ -1,6 +1,6 @@
 I Still Need My Bottle — Clip 2
 Production prompt draft | Source: curriculum/04/05-routines-transitions/03-check-readiness/lesson.json | Content revision: 5
-Source SHA256: 0e2396d452fd8571a31284bb9986d293d689e85618318f03b345767921cff763
+Source SHA256: a381dc77e66c61f738f27b63a923928e1b7537627c635769da7aa90467af02bb
 The source/revision above are production metadata, not spoken words or on-screen text.
 
 VIDEO AND SOUND

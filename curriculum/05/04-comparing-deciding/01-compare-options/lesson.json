@@ -12,7 +12,7 @@
   ],
   "roles": [
     "child",
-    "mom"
+    "dad"
   ],
   "setting": "Grocery day at the kitchen counter.",
   "essential_props": [
@@ -22,7 +22,7 @@
   "dialogue": {
     "turns": [
       {
-        "speaker": "mom",
+        "speaker": "dad",
         "line": "Red apples or green apples today?"
       },
       {
@@ -30,7 +30,7 @@
         "line": "What's the difference between them?"
       },
       {
-        "speaker": "mom",
+        "speaker": "dad",
         "line": "Green ones are sour, red ones are sweet."
       },
       {
@@ -38,7 +38,7 @@
         "line": "I want red ones because I like sweet things."
       },
       {
-        "speaker": "mom",
+        "speaker": "dad",
         "line": "The red ones are a little smaller though."
       },
       {
@@ -46,7 +46,7 @@
         "line": "That's okay. Small apples fit my hands."
       },
       {
-        "speaker": "mom",
+        "speaker": "dad",
         "line": "Then red it is. Grab four, please."
       },
       {
@@ -66,7 +66,7 @@
       "title": "Rain boots",
       "setting": "Store shelf with red and yellow boots.",
       "change": "Both pairs fit.",
-      "challenge": "Child compares and chooses with a reason, and accepts Mom's reminder about which color shows mud less."
+      "challenge": "Child compares and chooses with a reason, and accepts Dad's reminder about which color shows mud less."
     }
   ],
   "parent_support": [
@@ -87,5 +87,5 @@
     "emotion_stability": true
   },
   "status": "draft",
-  "content_revision": 1
+  "content_revision": 2
 }

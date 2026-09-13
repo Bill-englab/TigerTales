@@ -1,6 +1,6 @@
 I Feel Frustrated — Clip 2
-Production prompt draft | Source: curriculum/04/08-feelings-repair/01-feeling-and-reason/lesson.json | Content revision: 4
-Source SHA256: 768548c42445ee851500c0a99aef68d4813ae3fa2f00ffc06fa08a7d6a89360b
+Production prompt draft | Source: curriculum/04/08-feelings-repair/01-feeling-and-reason/lesson.json | Content revision: 5
+Source SHA256: 408cf266d01ccd82d438791db860d02c243a03ee7cbe944787c7824c339b388d
 The source/revision above are production metadata, not spoken words or on-screen text.
 
 VIDEO AND SOUND
@@ -8,11 +8,11 @@ Create one 16:9 animated clip for a preschool family role-play. Pixar-style 3D a
 
 FIXED CAST (only these two)
 Child — a small four-year-old cartoon tiger boy, bright orange fur with bold black stripes, bright attentive eyes full of curiosity, chubby round cheeks, tiny rounded ears, wearing a little yellow T-shirt, short chubby toddler proportions; alert, clever and quick to smile, eyes tracking the conversation; clear natural child voice.
-Pig Mom — a young, pretty cartoon pig mother, soft rosy-pink fur, lighter blush on the cheeks, big warm round eyes with long lashes, small rounded snout, slim young-mother proportions, wearing a coral cardigan over a cream top; sweet gentle mom energy, warm natural adult female voice.
+Dog Dad — a young, friendly cartoon dog father, warm tan-brown fur, big soft floppy ears, bright round eyes with a lively spark, soft round snout, wearing an olive-green casual T-shirt; cheerful warm dad energy, warm natural adult male voice.
 
 EMOTIONAL PERFORMANCE
-Calm, warm and regulated baseline. Mom is attentive and Child speaks at normal home conversation volume.
-Child shows a small frown and a brief pause because he cannot find the last puzzle piece. Mom acknowledges that specific frustration. Finding the piece allows a small easing of his brow and shoulders; he need not smile to report feeling better.
+Calm, warm and regulated baseline. Dad is attentive and Child speaks at normal home conversation volume.
+Child shows a small frown and a brief pause because he cannot find the last puzzle piece. Dad acknowledges that specific frustration. Finding the piece allows a small easing of his brow and shoulders; he need not smile to report feeling better.
 No crying spectacle, rage, shame posture, forced hug or automatic smile. No dismissing the frustration, demands to cheer up, triumphant bouncing, frantic search, exaggerated gasp or distorted face or body. Keep gestures small and voices at normal volume.
 No screaming, extreme excitement, rage, distorted facial or body shapes, frantic gestures or uncontrolled running.
 
@@ -20,21 +20,21 @@ SETTING
 Finishing a simple puzzle together at a low table at home.
 
 SCENE AND PROP CONTINUITY
-Mom sits screen left and Child screen right on a home play mat beside a low table. Child is the four-year-old tiger boy in his yellow T-shirt; Mom is the same pink pig in a coral cardigan over a cream top. Exactly one large four-piece puzzle is on the tabletop: three joined pieces and one obvious gap along the edge nearest Child. The final blue piece lies flat on the floor just under the front table edge, within Mom's easy reach; it is not hidden by another prop and neither character has looked there yet. No extra puzzle pieces, blocks or toys. Locked 16:9 medium two-shot shows faces, hands, the tabletop and the floor under its front edge without needing a camera cut.
+Dad sits screen left and Child screen right on a home play mat beside a low table. Child is the four-year-old tiger boy in his yellow T-shirt; Dad is the same warm tan-brown cartoon dog in his olive-green T-shirt. Exactly one large four-piece puzzle is on the tabletop: three joined pieces and one obvious gap along the edge nearest Child. The final blue piece lies flat on the floor just under the front table edge, within Dad's easy reach; it is not hidden by another prop and neither character has looked there yet. No extra puzzle pieces, blocks or toys. Locked 16:9 medium two-shot shows faces, hands, the tabletop and the floor under its front edge without needing a camera cut.
 Keep base character designs, garment identities, lighting, set and camera consistent across the three clips; allow the explicitly scripted dressing or undressing actions. Track hands and props continuously through the scripted movements rather than freezing their positions. The START FRAME below specifies this clip's current state; do not reset to the scene's initial arrangement. If the generation workflow supports reference frames, reuse the established character references and the preceding clip's final frame; text instructions alone do not guarantee visual consistency.
 
 START FRAME
-Mom faces Child with both hands in her lap. Child's empty hands rest beside the unchanged three joined puzzle pieces and single gap; the blue piece still lies under the front table edge and his small frown remains.
+Dad faces Child with both hands in her lap. Child's empty hands rest beside the unchanged three joined puzzle pieces and single gap; the blue piece still lies under the front table edge and his small frown remains.
 
 ACTION AND REACTIONS
-Mom suggests the one place to check; both lean slightly to look under the front table edge, remaining seated without crawling or walking. Child notices the existing blue piece and identifies it with a small glance and quiet discovery, reporting where it was. Mom reaches down with her right hand, lifts that single piece and brings it just above the table. Her left hand stays in her lap; the joined puzzle does not move and no second search location is introduced.
+Dad suggests the one place to check; both lean slightly to look under the front table edge, remaining seated without crawling or walking. Child notices the existing blue piece and identifies it with a small glance and quiet discovery, reporting where it was. Dad reaches down with her right hand, lifts that single piece and brings it just above the table. Her left hand stays in her lap; the joined puzzle does not move and no second search location is introduced.
 
 SPOKEN DIALOGUE (verbatim, in order):
-Mom: "Let's look under the low table."
+Dad: "Let's look under the low table."
 Child: "The blue piece! It was under the table."
 
 END FRAME
-Mom holds the single blue puzzle piece in her right hand just above the table, with her left hand in her lap. Child's empty hands rest beside the unchanged three joined pieces and single gap; he looks at the found piece with a slightly softer brow.
+Dad holds the single blue puzzle piece in her right hand just above the table, with her left hand in her lap. Child's empty hands rest beside the unchanged three joined pieces and single gap; he looks at the found piece with a slightly softer brow.
 Leave a short natural settling beat, without adding speech. Do not repeat earlier clips' lines.
 
 PACING (14 spoken words)

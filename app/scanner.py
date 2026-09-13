@@ -10,9 +10,6 @@ VIDEO_EXTENSIONS = (".mp4", ".webm")
 ROLE_LABELS = {
     "child": "Child",
     "dad": "Dad",
-    "mom": "Mom",
-    "teacher": "Teacher",
-    "peer": "Friend",
 }
 
 

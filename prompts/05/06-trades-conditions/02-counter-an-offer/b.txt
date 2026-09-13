@@ -1,6 +1,6 @@
 The Star Cookie — Clip 2
 Production prompt draft | Source: curriculum/05/06-trades-conditions/02-counter-an-offer/lesson.json | Content revision: 1
-Source SHA256: fc03836346be32d80ea9182299033ce8e24a3f7c9341be069c14e3abc238a893
+Source SHA256: 4758f45b50e464179ae982e8d045622cd576956adc6bec361d7a11e603e5057f
 The source/revision above are production metadata, not spoken words or on-screen text.
 
 VIDEO AND SOUND

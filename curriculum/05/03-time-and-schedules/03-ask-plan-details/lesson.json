@@ -13,7 +13,7 @@
   ],
   "roles": [
     "child",
-    "mom"
+    "dad"
   ],
   "setting": "Planning a picnic at the kitchen table.",
   "essential_props": [],
@@ -21,7 +21,7 @@
   "dialogue": {
     "turns": [
       {
-        "speaker": "mom",
+        "speaker": "dad",
         "line": "We're having a picnic on Sunday."
       },
       {
@@ -29,7 +29,7 @@
         "line": "Who is coming with us?"
       },
       {
-        "speaker": "mom",
+        "speaker": "dad",
         "line": "Dad, Grandma, and your cousin Max."
       },
       {
@@ -37,7 +37,7 @@
         "line": "What time do we leave the house?"
       },
       {
-        "speaker": "mom",
+        "speaker": "dad",
         "line": "At nine, before it gets too warm."
       },
       {
@@ -45,7 +45,7 @@
         "line": "What should I bring for the picnic?"
       },
       {
-        "speaker": "mom",
+        "speaker": "dad",
         "line": "Something to share with Max."
       },
       {
@@ -53,7 +53,7 @@
         "line": "Then I'll bring my berry cakes, so Max can try them."
       },
       {
-        "speaker": "mom",
+        "speaker": "dad",
         "line": "Perfect. Max loves berries."
       }
     ]
@@ -90,5 +90,5 @@
     "emotion_stability": true
   },
   "status": "draft",
-  "content_revision": 1
+  "content_revision": 2
 }

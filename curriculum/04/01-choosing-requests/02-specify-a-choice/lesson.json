@@ -21,7 +21,7 @@
   },
   "replay_cards": [
     {"title": "Pick a pajama top", "setting": "Getting ready for bed", "change": "Choose between two blue pajama tops, one with stars and one with stripes", "challenge": "Child asks, 'Can I have the blue one, please?' Dad checks the striped top. Child says, 'No, the one with the stars.' Dad confirms the star pattern, hands him that top, and helps him get ready to change."},
-    {"title": "Find the cup", "setting": "At the kitchen table", "change": "Choose between two green cups, one with a handle and one without", "challenge": "Child requests the green cup. Mom asks which one; he identifies the handle. Mom points to that cup for confirmation, then hands it to him for his drink."}
+    {"title": "Find the cup", "setting": "At the kitchen table", "change": "Choose between two green cups, one with a handle and one without", "challenge": "Child requests the green cup. Dad asks which one; he identifies the handle. Dad points to that cup for confirmation, then hands it to him for his drink."}
   ],
   "parent_support": ["Show only the two red choices. If his color choice still fits both, ask about their visible patterns.", "Accept any detail that truly identifies the object, then check once before handing it over.", "Keep the yellow T-shirt on during the recorded scene; he receives the dinosaur shirt and agrees to get dressed next. A small smile or nod is enough."],
   "reviews": {"motivation": true, "causality": true, "physical": true, "adult_behavior": true, "child_language": true, "knowledge_safety": true, "resolution": true, "replay_logic": true, "character_continuity": true, "emotion_stability": true},

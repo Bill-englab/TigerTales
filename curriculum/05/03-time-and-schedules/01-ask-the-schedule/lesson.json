@@ -12,7 +12,7 @@
   ],
   "roles": [
     "child",
-    "mom"
+    "dad"
   ],
   "setting": "A weekday morning at the breakfast table.",
   "essential_props": [],
@@ -21,10 +21,10 @@
     "turns": [
       {
         "speaker": "child",
-        "line": "Mom, what are we doing today?"
+        "line": "Dad, what are we doing today?"
       },
       {
-        "speaker": "mom",
+        "speaker": "dad",
         "line": "We have music class, then the market."
       },
       {
@@ -32,7 +32,7 @@
         "line": "What time is my music class?"
       },
       {
-        "speaker": "mom",
+        "speaker": "dad",
         "line": "At ten, right after breakfast."
       },
       {
@@ -40,7 +40,7 @@
         "line": "What comes after the market?"
       },
       {
-        "speaker": "mom",
+        "speaker": "dad",
         "line": "Home for lunch and a big nap."
       },
       {
@@ -48,7 +48,7 @@
         "line": "Then can we paint in the afternoon?"
       },
       {
-        "speaker": "mom",
+        "speaker": "dad",
         "line": "Yes, if the table is tidy first."
       },
       {
@@ -68,7 +68,7 @@
       "title": "The after-school change",
       "setting": "Teacher says Grandpa picks up Child today instead of Dad.",
       "change": "Child wants to check the plan at home.",
-      "challenge": "Child asks Mom what time Grandpa comes and what happens after pickup, and adds his own request for the car ride."
+      "challenge": "Child asks Dad what time Grandpa comes and what happens after pickup, and adds his own request for the car ride."
     }
   ],
   "parent_support": [
@@ -89,5 +89,5 @@
     "emotion_stability": true
   },
   "status": "draft",
-  "content_revision": 1
+  "content_revision": 2
 }

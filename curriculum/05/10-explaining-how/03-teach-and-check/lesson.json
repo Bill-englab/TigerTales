@@ -6,14 +6,14 @@
     "id": "teach-and-check",
     "label": "teach a skill and check understanding"
   },
-  "trigger": "Teacher has not seen the new stacking game, so Child teaches her and checks her steps.",
+  "trigger": "Dad has not seen the new stacking game, so Child teaches her and checks her steps.",
   "recycle": [
     "explain-how-it-works",
     "answer-clarifying-questions"
   ],
   "roles": [
     "child",
-    "teacher"
+    "dad"
   ],
   "setting": "Show-and-tell time at the school table.",
   "essential_props": [
@@ -23,7 +23,7 @@
   "dialogue": {
     "turns": [
       {
-        "speaker": "teacher",
+        "speaker": "dad",
         "line": "Show me your new stacking game!"
       },
       {
@@ -31,7 +31,7 @@
         "line": "First, the big cup goes down, like this."
       },
       {
-        "speaker": "teacher",
+        "speaker": "dad",
         "line": "Big cup down, got it. Then what?"
       },
       {
@@ -39,7 +39,7 @@
         "line": "Then the middle cup, small end up."
       },
       {
-        "speaker": "teacher",
+        "speaker": "dad",
         "line": "Small end up. Like this?"
       },
       {
@@ -47,7 +47,7 @@
         "line": "Almost! Turn it, so the stripes match."
       },
       {
-        "speaker": "teacher",
+        "speaker": "dad",
         "line": "The stripes match. Then the last one?"
       },
       {
@@ -55,7 +55,7 @@
         "line": "Tiny cup on top. Your turn to try!"
       },
       {
-        "speaker": "teacher",
+        "speaker": "dad",
         "line": "Look, I did it! Good teaching?"
       },
       {
@@ -96,5 +96,5 @@
     "emotion_stability": true
   },
   "status": "draft",
-  "content_revision": 1
+  "content_revision": 2
 }

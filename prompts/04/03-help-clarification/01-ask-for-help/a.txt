@@ -1,6 +1,6 @@
 Help With the Track — Clip 1
 Production prompt draft | Source: curriculum/04/03-help-clarification/01-ask-for-help/lesson.json | Content revision: 3
-Source SHA256: 1dfc82a23cee11f98ec21d26d513b0ce2da69d730bdd95a7d6216f49e5fadfad
+Source SHA256: c3692ef1e6d65de54c0ceb3274e35888aabdc4afdd94c96fab6d7f081939de83
 The source/revision above are production metadata, not spoken words or on-screen text.
 
 VIDEO AND SOUND

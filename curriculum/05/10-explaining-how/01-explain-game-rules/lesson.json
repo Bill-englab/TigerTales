@@ -12,7 +12,7 @@
   ],
   "roles": [
     "child",
-    "peer"
+    "dad"
   ],
   "setting": "Open floor in the playroom.",
   "essential_props": [],
@@ -24,7 +24,7 @@
         "line": "Max, I made up a new game! It's called Freeze Bug."
       },
       {
-        "speaker": "peer",
+        "speaker": "dad",
         "line": "Freeze Bug? How do you play it?"
       },
       {
@@ -32,7 +32,7 @@
         "line": "We run like bugs until someone says freeze."
       },
       {
-        "speaker": "peer",
+        "speaker": "dad",
         "line": "Then what happens when we freeze?"
       },
       {
@@ -40,7 +40,7 @@
         "line": "You stop like a statue, and count to five slowly."
       },
       {
-        "speaker": "peer",
+        "speaker": "dad",
         "line": "What if I move while counting?"
       },
       {
@@ -48,7 +48,7 @@
         "line": "Then you're the next bug caller. That's the rule!"
       },
       {
-        "speaker": "peer",
+        "speaker": "dad",
         "line": "Run, freeze, count. Got it!"
       },
       {
@@ -89,5 +89,5 @@
     "emotion_stability": true
   },
   "status": "draft",
-  "content_revision": 1
+  "content_revision": 2
 }

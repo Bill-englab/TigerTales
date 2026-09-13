@@ -1,6 +1,6 @@
 Today's Plan — Clip 2
-Production prompt draft | Source: curriculum/05/03-time-and-schedules/01-ask-the-schedule/lesson.json | Content revision: 1
-Source SHA256: b54eaf74648d9c99fba0671265625edb4a9cdf0c889f7234a9729c4ff368f433
+Production prompt draft | Source: curriculum/05/03-time-and-schedules/01-ask-the-schedule/lesson.json | Content revision: 2
+Source SHA256: d1ba609a36dedd6fdd2e452ab1638c4a67a51ee95dbe7b62c24fe824b5298ae5
 The source/revision above are production metadata, not spoken words or on-screen text.
 
 VIDEO AND SOUND
@@ -8,11 +8,11 @@ Create one 16:9 animated clip for a preschool family role-play. Pixar-style 3D a
 
 FIXED CAST (only these two)
 Child — a small four-year-old cartoon tiger boy, bright orange fur with bold black stripes, bright attentive eyes full of curiosity, chubby round cheeks, tiny rounded ears, wearing a little yellow T-shirt, short chubby toddler proportions; alert, clever and quick to smile, eyes tracking the conversation; clear natural child voice.
-Pig Mom — a young, pretty cartoon pig mother, soft rosy-pink fur, lighter blush on the cheeks, big warm round eyes with long lashes, small rounded snout, slim young-mother proportions, wearing a coral cardigan over a cream top; sweet gentle mom energy, warm natural adult female voice.
+Dog Dad — a young, friendly cartoon dog father, warm tan-brown fur, big soft floppy ears, bright round eyes with a lively spark, soft round snout, wearing an olive-green casual T-shirt; cheerful warm dad energy, warm natural adult male voice.
 
 EMOTIONAL PERFORMANCE
 Calm, warm and regulated baseline. Both speak at a normal family volume with small, natural facial movements and gestures.
-Child asks with bright morning energy but a calm voice; Mom answers warmly and sets one gentle condition; both end pleased with the plan.
+Child asks with bright morning energy but a calm voice; Dad answers warmly and sets one gentle condition; both end pleased with the plan.
 No exaggerated surprise, wide-eyed shock, bouncing, raised voices, impatience, blaming or teasing. Any disappointment, worry or sadness stays mild and brief, and the adult helps things stay steady.
 No screaming, extreme excitement, rage, distorted facial or body shapes, frantic gestures or uncontrolled running.
 
@@ -20,22 +20,22 @@ SETTING
 A weekday morning at the breakfast table.
 
 SCENE AND PROP CONTINUITY
-Weekday-morning kitchen. Mom stands at the counter at screen-left; Child sits at the table at screen-right with his hands resting on the tabletop. Locked 16:9 medium two-shot with both faces visible.
+Weekday-morning kitchen. Dad stands at the counter at screen-left; Child sits at the table at screen-right with his hands resting on the tabletop. Locked 16:9 medium two-shot with both faces visible.
 Keep base character designs, garment identities, lighting, set and camera consistent across the three clips; allow the explicitly scripted dressing or undressing actions. Track hands and props continuously through the scripted movements rather than freezing their positions. The START FRAME below specifies this clip's current state; do not reset to the scene's initial arrangement. If the generation workflow supports reference frames, reuse the established character references and the preceding clip's final frame; text instructions alone do not guarantee visual consistency.
 
 START FRAME
-Mom stands at the counter; Child waits with hands on the table.
+Dad stands at the counter; Child waits with hands on the table.
 
 ACTION AND REACTIONS
-Mom points at an imaginary clock on her wrist while saying the hour. Child drums two soft fingertip taps on the table while asking what comes next; Mom lays one hand flat for the nap.
+Dad points at an imaginary clock on her wrist while saying the hour. Child drums two soft fingertip taps on the table while asking what comes next; Dad lays one hand flat for the nap.
 
 SPOKEN DIALOGUE (verbatim, in order):
-Mom: "At ten, right after breakfast."
+Dad: "At ten, right after breakfast."
 Child: "What comes after the market?"
-Mom: "Home for lunch and a big nap."
+Dad: "Home for lunch and a big nap."
 
 END FRAME
-Mom's hand rests flat on the counter; Child leans forward slightly.
+Dad's hand rests flat on the counter; Child leans forward slightly.
 Leave a short natural settling beat, without adding speech. Do not repeat earlier clips' lines.
 
 PACING (17 spoken words)

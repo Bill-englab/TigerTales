@@ -1,6 +1,6 @@
 One Lap Each — Clip 3
-Production prompt draft | Source: curriculum/05/06-trades-conditions/03-negotiate-a-rule/lesson.json | Content revision: 1
-Source SHA256: edf7737cfb1090faf83457cb060adb1b74b01003a6bf56f33a8c3752d5a01ed1
+Production prompt draft | Source: curriculum/05/06-trades-conditions/03-negotiate-a-rule/lesson.json | Content revision: 2
+Source SHA256: 91840bf1322594a07861ddb47d027cf0ef21dc346dee1a132b5c53beed0802a8
 The source/revision above are production metadata, not spoken words or on-screen text.
 
 VIDEO AND SOUND
@@ -8,7 +8,7 @@ Create one 16:9 animated clip for a preschool family role-play. Pixar-style 3D a
 
 FIXED CAST (only these two)
 Child — a small four-year-old cartoon tiger boy, bright orange fur with bold black stripes, bright attentive eyes full of curiosity, chubby round cheeks, tiny rounded ears, wearing a little yellow T-shirt, short chubby toddler proportions; alert, clever and quick to smile, eyes tracking the conversation; clear natural child voice.
-Bear Peer — the same small brown bear in a teal T-shirt in every peer lesson; age four, child-sized proportions and a distinct natural child voice, never an adult.
+Dog Dad — a young, friendly cartoon dog father, warm tan-brown fur, big soft floppy ears, bright round eyes with a lively spark, soft round snout, wearing an olive-green casual T-shirt; cheerful warm dad energy, warm natural adult male voice.
 
 EMOTIONAL PERFORMANCE
 Calm, warm and regulated baseline. Both speak at a normal family volume with small, natural facial movements and gestures.
@@ -20,17 +20,17 @@ SETTING
 Playroom floor with the truck track.
 
 SCENE AND PROP CONTINUITY
-Playroom floor. A toy truck sits on a short curved track at center; Child kneels at screen-right and Peer kneels at screen-left, both with empty hands. Locked 16:9 medium two-shot at floor level with both faces visible.
+Playroom floor. A toy truck sits on a short curved track at center; Child kneels at screen-right and Dad kneels at screen-left, both with empty hands. Locked 16:9 medium two-shot at floor level with both faces visible.
 Keep base character designs, garment identities, lighting, set and camera consistent across the three clips; allow the explicitly scripted dressing or undressing actions. Track hands and props continuously through the scripted movements rather than freezing their positions. The START FRAME below specifies this clip's current state; do not reset to the scene's initial arrangement. If the generation workflow supports reference frames, reuse the established character references and the preceding clip's final frame; text instructions alone do not guarantee visual consistency.
 
 START FRAME
 Both look at the truck on the track, nodding toward the plan.
 
 ACTION AND REACTIONS
-Peer lifts the truck and offers it toward the middle of the track. Child taps the track once and mimes a small mouth for saying the switch word; both laugh gently and sit ready at their sides.
+Dad lifts the truck and offers it toward the middle of the track. Child taps the track once and mimes a small mouth for saying the switch word; both laugh gently and sit ready at their sides.
 
 SPOKEN DIALOGUE (verbatim, in order):
-Peer: "One lap each... that sounds fair."
+Dad: "One lap each... that sounds fair."
 Child: "And we both say switch out loud, so nobody forgets."
 
 END FRAME

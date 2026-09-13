@@ -1,6 +1,6 @@
 Where Is My Car? — Clip 1
 Production prompt draft | Source: curriculum/04/06-finding-belonging/01-ask-where/lesson.json | Content revision: 3
-Source SHA256: f9d5890a514ca04b2f398e7023bc2ebd9c49f47d86dac025e2ac364d857dcab4
+Source SHA256: 38bc7294156308e335fa6375ec30eecf82617de3ce8b28c81a2e7c519dfbc0e1
 The source/revision above are production metadata, not spoken words or on-screen text.
 
 VIDEO AND SOUND

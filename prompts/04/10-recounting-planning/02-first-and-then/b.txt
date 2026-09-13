@@ -1,6 +1,6 @@
 First We Painted — Clip 2
 Production prompt draft | Source: curriculum/04/10-recounting-planning/02-first-and-then/lesson.json | Content revision: 3
-Source SHA256: f3e603d42b32880de4ef731875067b0a7d14b304a2b2d146f254c9489702e415
+Source SHA256: de95e03745814916e90bcac9088df0328c601ba61d5c25663a04f6dbfc63982e
 The source/revision above are production metadata, not spoken words or on-screen text.
 
 VIDEO AND SOUND

@@ -11,10 +11,7 @@
   "minimum_family_partner_ratio": 0.7,
   "roles": [
     "child",
-    "dad",
-    "mom",
-    "teacher",
-    "peer"
+    "dad"
   ],
   "carry_forward_moves": [
     "describe-a-person",

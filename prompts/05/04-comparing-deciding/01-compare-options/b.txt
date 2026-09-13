@@ -1,6 +1,6 @@
 Red or Green? — Clip 2
-Production prompt draft | Source: curriculum/05/04-comparing-deciding/01-compare-options/lesson.json | Content revision: 1
-Source SHA256: dea2aab2c11e57f14fb61e6e62a6067e6ba04092dd0fb87d73f51f1c8db32326
+Production prompt draft | Source: curriculum/05/04-comparing-deciding/01-compare-options/lesson.json | Content revision: 2
+Source SHA256: 1d865112e765c36a2aa011a537ca077d7dbffc2c6201c26fe74b68a2f8c650da
 The source/revision above are production metadata, not spoken words or on-screen text.
 
 VIDEO AND SOUND
@@ -8,11 +8,11 @@ Create one 16:9 animated clip for a preschool family role-play. Pixar-style 3D a
 
 FIXED CAST (only these two)
 Child — a small four-year-old cartoon tiger boy, bright orange fur with bold black stripes, bright attentive eyes full of curiosity, chubby round cheeks, tiny rounded ears, wearing a little yellow T-shirt, short chubby toddler proportions; alert, clever and quick to smile, eyes tracking the conversation; clear natural child voice.
-Pig Mom — a young, pretty cartoon pig mother, soft rosy-pink fur, lighter blush on the cheeks, big warm round eyes with long lashes, small rounded snout, slim young-mother proportions, wearing a coral cardigan over a cream top; sweet gentle mom energy, warm natural adult female voice.
+Dog Dad — a young, friendly cartoon dog father, warm tan-brown fur, big soft floppy ears, bright round eyes with a lively spark, soft round snout, wearing an olive-green casual T-shirt; cheerful warm dad energy, warm natural adult male voice.
 
 EMOTIONAL PERFORMANCE
 Calm, warm and regulated baseline. Both speak at a normal family volume with small, natural facial movements and gestures.
-Child shows brief thinking focus while comparing; Mom offers facts evenly; both end with a light satisfied tone.
+Child shows brief thinking focus while comparing; Dad offers facts evenly; both end with a light satisfied tone.
 No exaggerated surprise, wide-eyed shock, bouncing, raised voices, impatience, blaming or teasing. Any disappointment, worry or sadness stays mild and brief, and the adult helps things stay steady.
 No screaming, extreme excitement, rage, distorted facial or body shapes, frantic gestures or uncontrolled running.
 
@@ -20,22 +20,22 @@ SETTING
 Grocery day at the kitchen counter.
 
 SCENE AND PROP CONTINUITY
-Kitchen counter on grocery day. One bowl of red apples sits at counter center-left and one bowl of green apples at center-right, both within Child's reach. Mom stands screen-left; Child stands screen-right. Locked 16:9 medium two-shot with both faces and the bowls visible.
+Kitchen counter on grocery day. One bowl of red apples sits at counter center-left and one bowl of green apples at center-right, both within Child's reach. Dad stands screen-left; Child stands screen-right. Locked 16:9 medium two-shot with both faces and the bowls visible.
 Keep base character designs, garment identities, lighting, set and camera consistent across the three clips; allow the explicitly scripted dressing or undressing actions. Track hands and props continuously through the scripted movements rather than freezing their positions. The START FRAME below specifies this clip's current state; do not reset to the scene's initial arrangement. If the generation workflow supports reference frames, reuse the established character references and the preceding clip's final frame; text instructions alone do not guarantee visual consistency.
 
 START FRAME
 Both bowls stay in place; Child keeps his hands empty, deciding.
 
 ACTION AND REACTIONS
-Child points at the red bowl while giving his reason. Mom lifts one red apple and one green apple side by side to show the size; Child cups his own hands together while explaining why small fits him.
+Child points at the red bowl while giving his reason. Dad lifts one red apple and one green apple side by side to show the size; Child cups his own hands together while explaining why small fits him.
 
 SPOKEN DIALOGUE (verbatim, in order):
 Child: "I want red ones because I like sweet things."
-Mom: "The red ones are a little smaller though."
+Dad: "The red ones are a little smaller though."
 Child: "That's okay. Small apples fit my hands."
 
 END FRAME
-Mom sets both apples back; Child's cupped hands open toward the red bowl.
+Dad sets both apples back; Child's cupped hands open toward the red bowl.
 Leave a short natural settling beat, without adding speech. Do not repeat earlier clips' lines.
 
 PACING (24 spoken words)
