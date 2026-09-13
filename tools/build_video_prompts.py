@@ -27,7 +27,7 @@ VISUAL_STYLE = (
 
 CAST = {
     "child": "Child — a small four-year-old cartoon tiger boy, bright orange fur with bold black stripes, bright attentive eyes full of curiosity, chubby round cheeks, tiny rounded ears, wearing a little yellow T-shirt, short chubby toddler proportions; alert, clever and quick to smile, eyes tracking the conversation; clear natural child voice.",
-    "dad": "Dog Dad — a young, friendly cartoon dog father, warm tan-brown fur, big soft floppy ears, bright round eyes with a lively spark, soft round snout, wearing an olive-green casual T-shirt; cheerful warm dad energy, warm natural adult male voice.",
+    "dad": "Dog Dad — an anthropomorphic cartoon dog father standing upright on two legs like a human dad, warm tan-brown fur, big soft floppy ears, bright round eyes with a lively spark, soft round snout, human-like hands with five fingers, wearing an olive-green casual T-shirt and comfortable long pants; cheerful warm dad energy, warm natural adult male voice. A humanoid Pixar-style dog person; never a four-legged pet dog.",
 }
 PARTS = ("A", "B", "C")
 LEGACY_CHILD_CAST = "Child — a four-year-old cartoon tiger, orange fur with black stripes, yellow T-shirt, short rounded toddler proportions; clear natural child voice."
