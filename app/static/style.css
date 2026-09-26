@@ -641,9 +641,9 @@ body {
 .lesson-intent strong { color: var(--ink); margin-right: 8px; }
 .lesson-intent span { display: inline; }
 .replay-cards { display: grid; gap: 12px; }
-.replay-card { display: grid; grid-template-columns: minmax(90px, .75fr) minmax(90px, .8fr) minmax(0, 1.4fr) minmax(0, 1.4fr); gap: 14px; align-items: start; padding: 16px; border: 1px solid var(--line); border-radius: 14px; background: #ffffff60; }
-.replay-card h3 { margin: 0; color: var(--ink); font: 500 20px/1.3 "Fredoka", sans-serif; }
-.replay-card p { margin: 0; padding-left: 14px; border-left: 1px solid var(--line); color: var(--ink-2); font-size: 14px; line-height: 1.5; overflow-wrap: anywhere; }
+.replay-card { display: grid; grid-template-columns: minmax(0, 1fr); gap: 8px; align-items: start; padding: 14px 16px; border: 1px solid var(--line); border-radius: 14px; background: #ffffff60; }
+.replay-card h3 { margin: 0; color: var(--ink); font: 500 19px/1.3 "Fredoka", sans-serif; }
+.replay-card p { margin: 0; color: var(--ink-2); font-size: 14px; line-height: 1.55; overflow-wrap: anywhere; }
 .replay-card strong { color: var(--ink); }
 .parent-support ul { margin: 0; padding: 0 24px 16px 36px; color: var(--ink-2); font-size: 17px; line-height: 1.5; }
 .parent-support li + li { margin-top: 4px; }
