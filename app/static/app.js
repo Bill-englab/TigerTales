@@ -50,7 +50,10 @@ function updateMediaView() {
   }
 }
 
+let dialogueSyncCleanup = () => {};
+
 function disposeDetailMedia() {
+  dialogueSyncCleanup();
   detailVisit += 1;
   recordingGeneration += 1;
   releaseRecording();
@@ -62,6 +65,52 @@ function disposeDetailMedia() {
     video.removeAttribute("src");
     video.load();
   });
+}
+
+// Highlight the dialogue line matching the demo video's playback position.
+// Line durations are apportioned by word count (no per-line timestamps exist
+// yet); clicking a line seeks the demo video to that line's estimated start.
+function bindDialogueSync(level) {
+  dialogueSyncCleanup();
+  const turns = level.dialogue || [];
+  const rows = Array.from(document.getElementById("detail-dialogue").children);
+  const video = document.querySelector("#detail-demo video");
+  if (!video || !turns.length || rows.length !== turns.length) return;
+  const weights = turns.map(t => Math.max(1, String(t.line || "").split(/\s+/).filter(Boolean).length));
+  const weightTotal = weights.reduce((a, b) => a + b, 0);
+  let bounds = [];
+  let current = -1;
+  const computeBounds = () => {
+    const d = video.duration;
+    if (!Number.isFinite(d) || d <= 0) { bounds = []; return; }
+    let acc = 0;
+    bounds = weights.map(w => { const start = (acc / weightTotal) * d; acc += w; return [start, (acc / weightTotal) * d]; });
+  };
+  const highlight = idx => {
+    if (idx === current) return;
+    current = idx;
+    rows.forEach((row, k) => row.classList.toggle("turn-now", k === idx));
+    if (rows[idx]) rows[idx].scrollIntoView({ block: "nearest", behavior: "smooth" });
+  };
+  const onTime = () => {
+    if (!bounds.length) computeBounds();
+    if (!bounds.length) return;
+    const t = video.currentTime;
+    let idx = bounds.findIndex(pair => t >= pair[0] && t < pair[1]);
+    if (idx < 0) idx = t >= video.duration - 0.05 ? turns.length - 1 : 0;
+    highlight(idx);
+  };
+  const onMeta = () => { computeBounds(); current = -1; onTime(); };
+  const seekRow = idx => { if (!bounds.length) computeBounds(); if (bounds[idx]) video.currentTime = bounds[idx][0] + 0.01; };
+  const rowClicks = rows.map((row, i) => { const fn = () => seekRow(i); row.addEventListener("click", fn); return [row, fn]; });
+  video.addEventListener("timeupdate", onTime);
+  video.addEventListener("loadedmetadata", onMeta);
+  dialogueSyncCleanup = () => {
+    video.removeEventListener("timeupdate", onTime);
+    video.removeEventListener("loadedmetadata", onMeta);
+    rowClicks.forEach(pair => pair[0].removeEventListener("click", pair[1]));
+    rows.forEach(row => row.classList.remove("turn-now"));
+  };
 }
 
 // ===== stage switching =====
@@ -772,6 +821,7 @@ function openDetail(level) {
     dialogueEl.appendChild(t);
   });
   dialogueEl.style.display = (level.dialogue && level.dialogue.length) ? "" : "none";
+  bindDialogueSync(level);
 
   const replayWrap = document.getElementById("detail-replay-cards");
   replayWrap.innerHTML = "";

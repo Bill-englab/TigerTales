@@ -133,7 +133,7 @@ def test_toy_tokens_are_shared_by_detail_shell_and_profile(client):
 def test_detail_toolbar_and_mobile_media_use_accepted_breakpoint(client):
     css = client.get("/static/style.css").get_data(as_text=True)
     assert re.search(r"\.detail-header\s*\{[^}]*min-height:\s*56px", css)
-    assert "grid-template-columns: 340px minmax(0, 1fr)" in css
+    assert "grid-template-columns: minmax(0, 1fr) clamp(340px, 30vw, 460px)" in css
     js = client.get("/static/app.js").get_data(as_text=True)
     assert 'mobileMedia = window.matchMedia("(max-width: 767px)")' in js
     assert "@media (max-width: 899px)" not in css
