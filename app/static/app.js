@@ -11,6 +11,7 @@ import { normalizeReplayCards, promptParts, withChapterContext } from "./lesson-
 import { resolveMediaView } from "./detail-media.mjs";
 import { summarizeAdventure } from "./adventure-navigation.mjs";
 import { createAdventureShell } from "./adventure-shell.mjs";
+import { createUnlockMode } from "./unlock-mode.mjs";
 import { createCelebrationQueue, createCelebrationEffects, createCurrentLessonAction, resolveCompletionTransition, showMapLoadState, showMapLoadError } from "./map-interactions.mjs";
 
 const mapSample = new URLSearchParams(window.location.search).get("map-sample") === "1";
@@ -582,6 +583,34 @@ let currentLibrary = [];        // full chapter tree, kept for detail navigation
 let flatLevels = [];            // flattened level list with chapter context for prev/next
 let bgSlides = [];              // background slides, kept so closeDetail can refresh them
 
+// ===== unlock-all mode =====
+// A grown-up switch that hides the locks on the map and in the course menu, so
+// any lesson can be picked directly. It only changes how lessons look: a locked
+// lesson could always be opened and recorded, and a star still needs a saved show.
+let unlockAll = false;
+// Reading window.localStorage itself throws in a few locked-down contexts.
+function browserStorage() {
+  try { return window.localStorage; } catch (_) { return null; }
+}
+const shownChapters = library => (mapSample ? library.slice(0, 1) : library);
+const sameChapters = (slides, library) => {
+  const shown = shownChapters(library);
+  return slides.length === shown.length && shown.every((chapter, i) => slides[i].dataset.chapter === chapter.name);
+};
+function renderUnlockSwitch() {
+  document.getElementById("unlock-all-button").setAttribute("aria-pressed", String(unlockAll));
+  document.getElementById("unlock-all-state").textContent = unlockAll ? "On" : "Off";
+}
+// Re-stone the visible map without reloading: the switch changes looks, not the
+// library, so the scenery stays and the scroll position is kept.
+function redrawMap() {
+  const mapView = document.getElementById("map-view");
+  if (!currentLibrary.length || mapView.classList.contains("hidden")) return;
+  const top = mapView.scrollTop;
+  renderMap(currentLibrary, activeStage, { keepBackgrounds: true });
+  mapView.scrollTop = top;
+}
+
 function getCompletionSnapshot(level) {
   const chapter = currentLibrary.find(item => item.name === level.chapter);
   const levels = (chapter && chapter.levels) || [];
@@ -685,7 +714,7 @@ function buildBgLayer(library) {
   return slides;
 }
 
-function renderMap(library, stage) {
+function renderMap(library, stage, { keepBackgrounds = false } = {}) {
   const firstChapter = library[0];
   const firstLevel = firstChapter && firstChapter.levels && firstChapter.levels[0];
   activeStage = stage || (firstLevel && firstLevel.stage) || activeStage;
@@ -695,9 +724,11 @@ function renderMap(library, stage) {
   map.textContent = '';
   currentLibrary = library;
   flatLevels = library.flatMap(ch => ch.levels.map(lv => withChapterContext(lv, ch)));
-  adventureShell.render(summarizeAdventure(library), { availableStages });
-  renderStoneMap(map, library, openDetail, { sample: mapSample, stage: activeStage });
-  bgSlides = buildBgLayer(mapSample ? library.slice(0, 1) : library);
+  adventureShell.render(summarizeAdventure(library), { availableStages, unlockAll });
+  renderStoneMap(map, library, openDetail, { sample: mapSample, stage: activeStage, unlockAll });
+  bgSlides = keepBackgrounds && sameChapters(bgSlides, library)
+    ? bgSlides
+    : buildBgLayer(shownChapters(library));
   requestAnimationFrame(drawMapPath);
   if (document.fonts) document.fonts.ready.then(() => requestAnimationFrame(drawMapPath));
 }
@@ -1101,6 +1132,15 @@ async function init() {
     const adminSection = document.getElementById("admin-section");
     if (adminSection) adminSection.style.display = "";
   }
+  // Unlock-all switch: read the saved choice before the first map render.
+  const unlockMode = createUnlockMode({ storage: browserStorage(), username: data.username });
+  unlockAll = unlockMode.enabled;
+  renderUnlockSwitch();
+  document.getElementById("unlock-all-button").addEventListener("click", () => {
+    unlockAll = unlockMode.set(!unlockAll);
+    renderUnlockSwitch();
+    redrawMap();
+  });
   } catch (error) {
     if (error.status === 401) window.location.href = "/login";
     else showMapLoadError(document, { hasLibrary: false });

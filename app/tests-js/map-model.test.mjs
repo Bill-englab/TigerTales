@@ -5,6 +5,7 @@ import {
   CHAPTER_THEMES,
   getChapterTheme,
   getLevelVisualState,
+  LEVEL_STATUS,
   getStableRotation,
   isFrameDark,
 } from "../static/map-model.mjs";
@@ -22,6 +23,22 @@ test("selects visual state without disabling locked levels", () => {
   assert.equal(getLevelVisualState({ has_performance: true, current: false }), "completed");
   assert.equal(getLevelVisualState({ has_performance: false, current: true }), "current");
   assert.equal(getLevelVisualState({ has_performance: false, current: false }), "locked");
+});
+
+test("unlock-all shows unfinished lessons as open but keeps stars and the current marker", () => {
+  assert.equal(getLevelVisualState({ has_performance: true, current: false }, true), "completed");
+  assert.equal(getLevelVisualState({ has_performance: false, current: true }, true), "current");
+  assert.equal(getLevelVisualState({ has_performance: false, current: false }, true), "unlocked");
+  assert.equal(getLevelVisualState({ has_performance: false, current: false }), "locked");
+});
+
+test("every visual state has one shared status label", () => {
+  for (const state of ["completed", "current", "unlocked", "locked"]) {
+    assert.equal(typeof LEVEL_STATUS[state], "string", state);
+  }
+  assert.equal(LEVEL_STATUS.unlocked, "Available");
+  assert.equal(LEVEL_STATUS.locked, "Locked · preview available");
+  assert.equal(Object.isFrozen(LEVEL_STATUS), true);
 });
 
 test("completed-card rotation is stable and bounded", () => {

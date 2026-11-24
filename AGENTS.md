@@ -315,13 +315,14 @@ URL 路由不变；所有阶段相关路由新增可选 `?stage=` 查询参数�
 | `lesson-view.mjs` | **纯函数**：A/B/C 对话分组、Replay Card、prompt 分段、章节上下文 | 无 |
 | `world-assets.mjs` | **纯函数**：v2 desktop/mobile 与同章旧图 URL 候选 | 无 |
 | `adventure-navigation.mjs` | **纯函数**：Stage 1/2/3 展示、章/全局真实完成数、current 目标 | 无 |
-| `adventure-shell.mjs` | **DOM 编排**：浮动外壳、课程目录、焦点陷阱、inert 和滚动恢复 | navigation、lesson-view |
+| `adventure-shell.mjs` | **DOM 编排**：浮动外壳、课程目录、焦点陷阱、inert 和滚动恢复 | navigation、lesson-view、map-model |
+| `unlock-mode.mjs` | **纯逻辑**：全解锁开关的按账号本机记忆（storage 不可用时仅当前页生效） | 无 |
 | `app.js` | **编排层**：拉 `/api/library`、连接 shell、渲染地图和课程详情、导航、摄像头录制、demo/表演上传 | map-model/path、lesson-view、detail-media、navigation、shell |
 | `titlebar.js`（普通 script，非 module） | Electron 环境检测 + 注入自定义标题栏/窗口控制按钮（`window.electronAPI`）；浏览器里是 no-op | 无 |
 
 ### 两层视图
 
-1. **地图视图**（`#map-view`）：10章×3课，真实编号1–30；`stone-map.mjs` 渲染矩形媒体画框＋砂岩石台＋独立标题牌。completed 优先显示表演首帧，并挂一颗金色完成星章；current 显示青绿描边、定位针与可见标签；locked 显示锁，仍可点击预习。无媒体保留占位画框与编号，状态只由真实 performance 决定。每章背景和左右交替踏石在同一滚动层，章节边缘柔和衔接。顶部菜单、Stage、窄进度条和独立头像固定于左侧；桌面高度64px、平板60px、手机56px。保存新 performance 后本次会话仅短促庆祝一次；刷新或重录不重复。**Current lesson** 仅滚动并聚焦目标；全完成隐藏并显示完成提示。`?map-sample=1` 只截取前三关用于视觉对照，正常入口始终渲染全课程。
+1. **地图视图**（`#map-view`）：10章×3课，真实编号1–30；`stone-map.mjs` 渲染矩形媒体画框＋砂岩石台＋独立标题牌。completed 优先显示表演首帧，并挂一颗金色完成星章；current 显示青绿描边、定位针与可见标签；locked 显示锁，仍可点击、可录制（锁只是显示，不拦截）。账号菜单的 **Unlock all lessons** 开关打开后，未完成且非 current 的课一律显示为开放（无锁、目录显示 Available）；开关只改显示、不改完成判定，按账号记在本浏览器，切换时原地重绘并保留滚动位置与背景。无媒体保留占位画框与编号，状态只由真实 performance 决定。每章背景和左右交替踏石在同一滚动层，章节边缘柔和衔接。顶部菜单、Stage、窄进度条和独立头像固定于左侧；桌面高度64px、平板60px、手机56px。保存新 performance 后本次会话仅短促庆祝一次；刷新或重录不重复。**Current lesson** 仅滚动并聚焦目标；全完成隐藏并显示完成提示。`?map-sample=1` 只截取前三关用于视觉对照，正常入口始终渲染全课程。
 2. **详情视图**（`#detail-view`）：56px标题栏；桌面左340px媒体栏（Your Show在上、Watch & Learn在下）、右侧完整A/B/C→完整Replay→默认独立折叠家长说明/VideoGen；底部Prev/Next。小于768px使用媒体页签＋单列正文，只页面整体滚动。未录时点 **Start recording**，示范为空点 **Add demo**。Can-Do、Trigger和句式放在家长说明内，不挤标题。
 
 运行时：`/api/library` → `summarizeAdventure` → 地图与 shell 同一份真实计数；目录选择只打开 Lesson，不写入课程状态。**阶段切换（2026-09-11）**：`adventure-navigation.mjs` 的 `STAGES` 是纯元数据（Stage 1–4，Stage 4 主题 "I can read and retell"、目录 id 预留 `07`）；可进入的 Stage 由 `GET /api/stages`（磁盘上有 `stage.json` 的目录）运行时驱动，目录里点击 "Open" 的 Stage 即切换——详情自动关闭、旧阶段的待庆祝清空、封面/视频/上传/提示词 URL 全部附带 `?stage=`、URL 用 `?stage=` 记住当前阶段（刷新保持，可分享）。无课程内容的 Stage 显示 Planned。目录打开时背景 inert、地图锁滚动、焦点进入并圈定抽屉；Escape/关闭/遮罩恢复菜单焦点，选课释放锁后打开详情。
@@ -331,7 +332,7 @@ URL 路由不变；所有阶段相关路由新增可选 `?stage=` 查询参数�
 - **响应式背景**：`#bg-layer` 位于 `#map-scroll`，章节 slide 和路径等速滚动。`worlds-map/` 提供十张1536×1024横图和十张1024×1536竖图，768px断点切换；`stone-worlds.mjs` 铺满地图宽度，纵向重叠条带覆盖长章节。禁止恢复1024px居中宽度限制或左右草地拼接。草地仅作底层加载回退，章节边缘提前120px渐入。背景接近视口800px时加载，布局完成后才开始观察。桌面图失败先尝试本章竖图，再尝试本章v2、旧WebP/PNG/JPG、主题材质；generation token阻止旧响应覆盖新尺寸。
 - **封面**：completed 使用表演视频首帧（静音、不自动播放），否则使用 `/thumb/<ch>/<lv>` 的demo缩略图。不裁切成特殊形状；缺图/视频错误保留占位。IntersectionObserver 在距离视口600px内才赋媒体地址；地图重建时断开观察、释放旧视频。
 - **路径绘制**：`drawMapPath()` 委托 `stone-map.mjs` 的 `drawStonePath()`，测标题/画框边界，关与关之间五块独立踏石，按全局索引左右交替。跨章路径终点在下一章标题之前，避免穿过标题。`map-path.mjs` 保留历史纯函数和兼容测试，不再参与正式地图绘制。
-- **完成反馈**：地图可见时，按已渲染的 completed 节点与完整章节一次取出所有待庆祝 key，不依赖最后浏览的 Lesson。`createCelebrationEffects` 在 `animationend`、`animationcancel`、打开详情和重建地图时清理类及监听；已消耗的庆祝不重播，reduced motion 不启动动效。关卡按钮无障碍名称包含 Completed / Current lesson / Locked，current 标题附近另有可见标签。
+- **完成反馈**：地图可见时，按已渲染的 completed 节点与完整章节一次取出所有待庆祝 key，不依赖最后浏览的 Lesson。`createCelebrationEffects` 在 `animationend`、`animationcancel`、打开详情和重建地图时清理类及监听；已消耗的庆祝不重播，reduced motion 不启动动效。关卡按钮无障碍名称包含 Completed / Current lesson / Locked（全解锁开关打开时为 Available），current 标题附近另有可见标签。
 - **录制** `startRecordingSession()`：`getUserMedia` 开摄像头+麦克风 → 镜像预览 → 一钮两态（红圆开始/方块停止）+ 闪红计时 + 5 分钟硬上限自动停 → `MediaRecorder` 产 webm → 现场回放 + Redo/Save。Save 时 `uploadRecording()` 把 blob + mimeType POST 到 `/upload`，后端按 mimeType 存 `.webm`/`.mp4`。`pickRecorderMime()` 探测浏览器支持的最佳格式（Chrome→webm，Safari→mp4），console 打印实际 mimeType。摄像头被拒/缺失时回退到文件上传。
 - **详情导航**：`openDetail` 底部渲染 Prev/Next（跨全宽），从 `flatLevels` 找相邻关卡。上传后 `reopenDetail` 重新打开当前关。
 - **demo 封面**：有 demo 时节点尝试显示缩略图，缺图使用材质与编号回退；locked 关仍显示锁，可点击预习，不再单独叠加播放徽标。

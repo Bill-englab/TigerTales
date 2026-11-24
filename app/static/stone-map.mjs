@@ -1,7 +1,7 @@
 // Shared Web/Electron stone map: rectangular media on reusable sandstone art.
 // Shared auth/library/detail remain owned by app.js. No progress is invented here.
 import { withChapterContext } from './lesson-view.mjs';
-import { getLevelVisualState, getChapterTheme } from './map-model.mjs';
+import { getLevelVisualState, getChapterTheme, LEVEL_STATUS } from './map-model.mjs';
 import { layoutSceneStrips } from './stone-worlds.mjs';
 import { mapAsset } from './map-assets.mjs';
 
@@ -36,9 +36,9 @@ export function disposeStoneMedia() {
   });
 }
 
-function createStoneLesson(level, index, onOpen) {
-  const state = getLevelVisualState(level);
-  const status = { completed: 'Completed', current: 'Current lesson', locked: 'Locked · preview available' }[state];
+function createStoneLesson(level, index, onOpen, unlockAll = false) {
+  const state = getLevelVisualState(level, unlockAll);
+  const status = LEVEL_STATUS[state];
   const wrap = make('button', `level-node-wrap level-node-wrap--${state} stone-lesson`);
   wrap.type = 'button';
   wrap.dataset.levelKey = `${level.chapter}/${level.level}`;
@@ -79,7 +79,7 @@ function createStoneLesson(level, index, onOpen) {
     star.src = mapAsset(`${ASSETS}star.png`);
     star.alt = '';
     badge.appendChild(star);
-  } else badge.innerHTML = ICONS[state];
+  } else if (ICONS[state]) badge.innerHTML = ICONS[state];
   frame.appendChild(badge);
   const base = make('span', 'stone-pedestal');
   base.setAttribute('aria-hidden', 'true');
@@ -92,7 +92,7 @@ function createStoneLesson(level, index, onOpen) {
   return wrap;
 }
 
-export function renderStoneMap(map, library, onOpen, { sample = false, stage = null } = {}) {
+export function renderStoneMap(map, library, onOpen, { sample = false, stage = null, unlockAll = false } = {}) {
   // The scenery and stones share one scrolling canvas, so their positions stay
   // attached without a delayed scroll-event transform. Keep the shared loader.
   map.parentElement.prepend(document.getElementById('bg-layer'));
@@ -125,7 +125,7 @@ export function renderStoneMap(map, library, onOpen, { sample = false, stage = n
       make('span', 'ch-progress', `★ ${chapter.levels.filter(l => l.has_performance).length}/${chapter.levels.length}`));
     const col = make('div', 'chapter-levels');
     (sample ? chapter.levels.slice(0, 3) : chapter.levels).forEach(level => {
-      col.appendChild(createStoneLesson(withChapterContext(level, chapter), index++, onOpen));
+      col.appendChild(createStoneLesson(withChapterContext(level, chapter), index++, onOpen, unlockAll));
     });
     main.append(heading, col);
     section.append(main);

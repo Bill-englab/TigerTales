@@ -275,6 +275,10 @@ body {
 .user-menu__item:hover { background: var(--surface-2); }
 .user-menu__item--logout { color: #e8554e; }
 .user-menu__item--logout:hover { background: #fef0ee; }
+/* Unlock-all switch: label on the left, an On/Off pill on the right */
+.user-menu__item--switch { display: flex; align-items: center; justify-content: space-between; gap: 12px; }
+.user-menu__switch-state { flex: none; min-width: 44px; padding: 2px 8px; border: 1px solid var(--line); border-radius: 999px; font-size: 13px; font-weight: 800; text-align: center; color: var(--ink-3); background: var(--surface-2); }
+.user-menu__item--switch[aria-pressed="true"] .user-menu__switch-state { border-color: var(--shell-accent); background: var(--shell-accent); color: #fff; }
 .user-menu__section { border-bottom: 1px solid var(--line); margin-bottom: 4px; padding-bottom: 4px; }
 
 /* Admin panel inside the popup */

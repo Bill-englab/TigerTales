@@ -1,5 +1,6 @@
 import { STAGES, getStageById } from "./adventure-navigation.mjs";
 import { withChapterContext } from "./lesson-view.mjs";
+import { LEVEL_STATUS } from "./map-model.mjs";
 
 export function getFocusableElements(root) {
   return [...root.querySelectorAll('button, a[href], input, select, textarea, summary, [tabindex]')]
@@ -150,12 +151,15 @@ export function createAdventureShell({ root, onOpenLesson, onCurrentLesson, onPr
         number += 1;
         const key = `${chapter.name}/${level.level}`;
         const isCurrent = summary.current && summary.current.chapter === chapter.name && summary.current.level === level.level;
-        const status = level.has_performance ? "Completed" : isCurrent ? "Current lesson" : level.state === "locked" ? "Locked · preview available" : "Available";
+        // Unlock-all relabels unfinished lessons; the single current lesson keeps its marker.
+        const isOpen = options.unlockAll || level.state === "unlocked";
+        const state = level.has_performance ? "completed" : isCurrent ? "current" : isOpen ? "unlocked" : "locked";
+        const status = LEVEL_STATUS[state];
         const item = make("li");
         const button = make("button", "course-lesson");
         button.type = "button";
         button.dataset.lessonKey = key;
-        button.dataset.state = level.has_performance ? "completed" : isCurrent ? "current" : level.state || "locked";
+        button.dataset.state = state;
         button.dataset.selected = String(selectedLesson === key);
         if (isCurrent) button.setAttribute("aria-current", "step");
         const marker = make("span", "course-lesson__number", level.has_performance ? "✓" : String(number).padStart(2, "0"));

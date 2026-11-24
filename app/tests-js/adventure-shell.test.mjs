@@ -28,6 +28,63 @@ test("empty drawer produces no focus targets", () => {
   assert.deepEqual(getFocusableElements({ querySelectorAll: () => [] }), []);
 });
 
+// Only what render() touches: created nodes keep their children and text so the
+// labels the family reads can be checked without a layout engine.
+function fakeElement() {
+  return {
+    children: [], dataset: {}, hidden: false, disabled: false, text: "",
+    get textContent() { return this.text + this.children.map(child => child.textContent).join(""); },
+    set textContent(value) { this.text = String(value); this.children = []; },
+    get childElementCount() { return this.children.length; },
+    append(...nodes) { this.children.push(...nodes); },
+    querySelectorAll: () => [],
+    setAttribute() {},
+    addEventListener() {},
+  };
+}
+
+test("course menu relabels locked lessons as available under unlock-all and keeps the current marker", () => {
+  const ids = ["map-view", "detail-view", "adventure-menu-button", "course-drawer", "drawer-backdrop",
+    "course-drawer-close", "current-lesson-button", "course-stages", "course-chapters", "course-profile-button",
+    "adventure-stage-label", "star-count", "star-total", "adventure-progress", "course-drawer-progress",
+    "adventure-complete"];
+  const elements = new Map(ids.map(id => [id, fakeElement()]));
+  const doc = fakeElement();
+  doc.querySelector = selector => elements.get(selector.slice(1)) || null;
+  doc.createElement = () => fakeElement();
+  const shell = createAdventureShell({ root: doc, onOpenLesson() {} });
+  const summary = {
+    completed: 1, total: 3,
+    current: { chapter: "01", level: "02" },
+    chapters: [{
+      name: "01", title: "One", completed: 1, total: 3,
+      levels: [
+        { level: "01", title: "Done", has_performance: true, state: "completed", current: false },
+        { level: "02", title: "Now", has_performance: false, state: "unlocked", current: true },
+        { level: "03", title: "Later", has_performance: false, state: "locked", current: false },
+      ],
+    }],
+  };
+  const shown = () => elements.get("course-chapters").children[0].children[1].children.map(item => {
+    const button = item.children[0];
+    return [button.dataset.state, button.children[1].children[1].textContent];
+  });
+  shell.render(summary);
+  assert.deepEqual(shown(), [
+    ["completed", "Completed"],
+    ["current", "Current lesson"],
+    ["locked", "Locked · preview available"],
+  ]);
+  shell.render(summary, { unlockAll: true });
+  assert.deepEqual(shown(), [
+    ["completed", "Completed"],
+    ["current", "Current lesson"],
+    ["unlocked", "Available"],
+  ]);
+  shell.render(summary);
+  assert.equal(shown()[2][0], "locked", "Turning the switch off brings the lock back");
+});
+
 test("opening reveals the close control and destroy restores background and removes menu listeners", () => {
   const doc = new EventTarget();
   const elements = new Map();

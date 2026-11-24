@@ -21,7 +21,7 @@ TigerTales organizes parent–child English role-play into an adventure map: wat
 
 Ten themed chapters contain 30 everyday conversations along a stepping-stone path. Scenery scrolls with the lessons. The course menu opens any lesson, and the current-lesson marker helps you pick up where you left off.
 
-Completed lessons show a performance frame and one gold star. Incomplete lessons show a demo thumbnail or placeholder. A star means a performance has been saved, not a score. Locked lessons can still be previewed.
+Completed lessons show a performance frame and one gold star. Incomplete lessons show a demo thumbnail or placeholder. A star means a performance has been saved, not a score. Locked lessons can still be opened. A grown-up can turn on **Unlock all lessons** in the account menu to show every lesson as open; stars still need a saved performance.
 
 ![Map with performance covers, completion stars, and a current-lesson marker](docs/screenshots/adventure-map.jpg)
 

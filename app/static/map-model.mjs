@@ -15,7 +15,14 @@ export const CHAPTER_THEMES = Object.freeze({
 
 const chapterNumber = chapterName => { const m = chapterName.match(/^\d+/); return Number.parseInt((m && m[0]) || "1", 10); };
 export const getChapterTheme = chapterName => CHAPTER_THEMES[chapterNumber(chapterName)] || CHAPTER_THEMES[1];
-export const getLevelVisualState = level => level.has_performance ? "completed" : level.current ? "current" : "locked";
+// Unlock-all is a grown-up display switch: an unfinished lesson that is not the
+// current one shows as open instead of locked. Completion never changes.
+export const getLevelVisualState = (level, unlockAll = false) =>
+  level.has_performance ? "completed" : level.current ? "current" : unlockAll ? "unlocked" : "locked";
+// One vocabulary for the map stones and the course menu.
+export const LEVEL_STATUS = Object.freeze({
+  completed: "Completed", current: "Current lesson", unlocked: "Available", locked: "Locked · preview available",
+});
 export function resolveMapPresentation(level, index) {
   const state = getLevelVisualState(level);
   return { state, number: index + 1, showCover: Boolean(level.has_demo),
